@@ -1,0 +1,47 @@
+{% extends 'basic.html' %}
+
+{% block title %}University Preference{% endblock %}
+
+{% block content %}
+    <h1 class="mb-4">Fill the form to know Universities in {{ selected_country }} where you have the best chance to get in!</h1>
+    <p>Selected Country: {{ selected_country }}</p>
+    
+    <form method="post" action="{% url 'toprank' %}/" id="toprank">
+        {% csrf_token %}
+        
+        <div class="form-group">
+            <label for="gre_score">GRE Score:</label>
+            <input type="text" class="form-control" id="gre_score" name="gre_score" required>
+        </div>
+
+        <div class="form-group">
+            <label for="gpa">GPA (0-4 scale):</label>
+            <input type="text" class="form-control" id="gpa" name="gpa" pattern="^[0-4](\.\d{1,2})?$" title="Please enter a valid GPA between 0 and 4" required>
+            <small id="gpaHelp" class="form-text text-muted">Enter a GPA between 0 and 4. You can use up to two decimal places.</small>
+        </div>
+
+        <div class="form-group">
+            <label for="language_exam">Select Language Exam:</label>
+            <select class="form-control" id="language_exam" name="language_exam" required>
+                <option value="toefl">TOEFL</option>
+                <option value="ielts">IELTS</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="toefl_ielts_score">Enter {{ selected_language_exam|title }} Score:</label>
+            <input type="text" class="form-control" id="toefl_ielts_score" name="toefl_ielts_score" required>
+        </div>
+
+        <div class="form-group">
+            <label for="research_papers">Number of Research Papers published till date (0 if any ):</label>
+            <input type="number" class="form-control" id="research_papers" name="research_papers" required>
+        </div>
+        <!-- Add more form fields for other important features -->
+
+        <button type="submit" class="btn btn-primary">Predict Top Universities</button>
+    </form>
+{% endblock %}
+
+{% block js %}
+{% endblock %}

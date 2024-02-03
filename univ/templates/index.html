@@ -1,0 +1,22 @@
+{% extends 'basic.html' %}
+
+{% block title %}University Preference{% endblock %}
+
+{% block content %}
+    <h1 class="mb-4">Choose Your Preferred Country for studies</h1>
+    <form method="post" action="study/" id="studyForm">
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="country">Select Country:</label>
+            <select class="form-control" name="country" id="country">
+                <option class="cou" value="US">United States</option>
+                <option class="cou" value="Canada">Canada</option>
+                <!-- Add more options for other countries as needed -->
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+{% endblock %}
+
+{% block js %}
+{% endblock %}
