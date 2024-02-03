@@ -6,8 +6,7 @@
     <h1 class="mb-4">Fill the form to know Universities in {{ selected_country }} where you have the best chance to get in!</h1>
     <p>Selected Country: {{ selected_country }}</p>
     
-    <form method="post" action="{% url 'toprank' %}/" id="toprank">
-        {% csrf_token %}
+    <form method="get" action="{% url 'toprank' %}" id="toprank">
         
         <div class="form-group">
             <label for="gre_score">GRE Score:</label>

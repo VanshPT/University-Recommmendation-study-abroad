@@ -1,24 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Top Universities Prediction</title>
-</head>
-<body>
-    <h1>Top Universities Prediction</h1>
+{% extends 'basic.html' %}
+
+{% block title %}Top Universities Prediction{% endblock %}
+
+{% block content %}
+    <h1 class="mb-4">Top Universities Prediction</h1>
     <p>Results based on input data:</p>
     
-    <!-- Display the predicted results or any other content -->
+    <!-- Display the input data -->
     <p>GRE Score: {{ gre_score }}</p>
     <p>GPA: {{ gpa }}</p>
     <p>Language Exam: {{ language_exam }}</p>
-    <p>{{ language_exam }} Score: {{ toefl_ielts_score }}</p>
+    <p>IELTS Score: {{ toefl_ielts_score }}</p>
     <p>Research Papers: {{ research_papers }}</p>
 
-    <!-- Add more content or formatting as needed -->
+    <!-- Display the top 10 university predictions -->
+    <h2 class="mt-4">Top 10 University Predictions:</h2>
+    <ol>
+        {% for university, probability in top_universities %}
+            <li>{{ university }} - Probability: {{ probability }}</li>
+        {% endfor %}
+    </ol>
 
     <!-- Example link to navigate back to the form page -->
-    <a href="/study">Go back to the form</a>
-</body>
-</html>
+    <a href="{% url '' %}" class="btn btn-primary">Go back to the form</a>
+{% endblock %}
+
+{% block js %}
+    <!-- Add any additional JavaScript specific to the toprank.html template if needed -->
+{% endblock %}

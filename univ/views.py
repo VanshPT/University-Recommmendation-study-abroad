@@ -36,13 +36,13 @@ def toefl_to_ielts(toefl_score):
         return 0.0  # Adjust as needed for scores below 60
 
 def toprank(request):
-    if request.method == 'POST':
+    if request.method == 'GET':
         # Retrieve form data
-        gre_score = float(request.POST.get('gre_score'))
-        gpa = float(request.POST.get('gpa'))
-        language_exam = request.POST.get('language_exam')
-        toefl_ielts_score = float(request.POST.get('toefl_ielts_score'))
-        research_papers = int(request.POST.get('research_papers'))
+        gre_score = float(request.GET.get('gre_score'))
+        gpa = float(request.GET.get('gpa'))
+        language_exam = request.GET.get('language_exam')
+        toefl_ielts_score = float(request.GET.get('toefl_ielts_score'))
+        research_papers = int(request.GET.get('research_papers'))
 
         # Convert TOEFL score to IELTS scale if TOEFL is selected
         if language_exam == 'toefl':
@@ -55,7 +55,7 @@ def toprank(request):
         result = f"Top universities prediction based on input data: GRE {gre_score}, GPA {gpa}, Language Exam {language_exam}, {language_exam} Score {toefl_ielts_score}, Research Papers {research_papers}"
 
         # Pass the result to the template
-        context = {'result': result}
+        context = {'result': result, 'gre_score':gre_score, 'gpa':gpa, 'language_exam':language_exam, 'toefl_ielts_score': toefl_ielts_score, 'research_papers':research_papers}
         return render(request, 'toprank.html', context)
     else:
         # Handle GET request if needed
