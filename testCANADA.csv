@@ -1,0 +1,1000 @@
+,GRE Score,GPA,IELTS Score,Research Paper,University Ranking,University Name,Admit Probability,country,course
+0,45,1.6,4.9,20,48,McMaster University,0.28,CANADA,CE/CS
+1,326,0.4,8.3,71,66,University of Western Ontario,0.97,CANADA,CE/CS
+2,25,3.6,5.4,50,68,Thompson Rivers University,0.37,CANADA,CE/CS
+3,311,2.4,1.7,17,2,University of New Brunswick,0.4,CANADA,CE/CS
+4,243,2.9,2.5,66,99,University of Calgary,0.4,CANADA,CE/CS
+5,140,3.6,6.8,6,32,University of Regina,0.36,CANADA,CE/CS
+6,181,2.8,0.2,97,52,University of Moncton.,0.77,CANADA,CE/CS
+7,327,1.4,1.2,67,31,Bishop's University,0.25,CANADA,CE/CS
+8,187,1.4,0.1,63,71,University of Ontario Institute of Technology,0.32,CANADA,CE/CS
+9,229,0.5,6.2,22,34,University of Saskatchewan,0.52,CANADA,CE/CS
+10,50,0.6,0.8,77,70,Trent University,0.46,CANADA,CE/CS
+11,158,1.5,8.9,50,63,University of Manitoba,0.67,CANADA,CE/CS
+12,267,3.2,2.1,17,23,University of Alberta,0.43,CANADA,CE/CS
+13,110,3.0,7.3,39,83,Dalhousie University,0.23,CANADA,CE/CS
+14,183,3.0,1.7,92,28,University of Fraser Valley,0.69,CANADA,CE/CS
+15,311,0.7,5.5,97,32,University of Victoria,0.02,CANADA,CE/CS
+16,224,1.8,8.2,40,84,Queen's University,0.86,CANADA,CE/CS
+17,272,0.0,6.6,97,5,University of Western Ontario,0.05,CANADA,CE/CS
+18,159,0.8,2.7,38,7,University of Manitoba,0.8,CANADA,CE/CS
+19,139,2.4,0.8,58,42,Simon Fraser University,0.42,CANADA,CE/CS
+20,122,1.5,8.2,67,28,Thompson Rivers University,0.47,CANADA,CE/CS
+21,92,0.1,0.4,56,50,Simon Fraser University,0.29,CANADA,CE/CS
+22,21,2.2,4.7,78,33,University of Waterloo,0.19,CANADA,CE/CS
+23,47,2.2,4.1,91,94,University of Lethbridge,0.95,CANADA,CE/CS
+24,93,1.6,4.9,73,18,University of Fraser Valley,0.87,CANADA,CE/CS
+25,265,1.1,0.0,90,81,University of Guelph,0.25,CANADA,CE/CS
+26,253,2.4,8.0,81,53,University of King's College,0.06,CANADA,CE/CS
+27,125,3.3,8.3,11,91,McMaster University,0.5,CANADA,CE/CS
+28,37,3.9,4.5,19,0,Mount Royal University,0.89,CANADA,CE/CS
+29,291,2.6,5.7,20,82,Wilfrid Laurier University,0.34,CANADA,CE/CS
+30,254,1.9,6.5,58,54,University of Prince Edward Island,0.71,CANADA,CE/CS
+31,50,0.9,3.1,76,74,University of Ontario Institute of Technology,0.58,CANADA,CE/CS
+32,203,3.1,8.0,81,49,Mount Allison University,0.58,CANADA,CE/CS
+33,244,1.8,8.7,36,34,Royal Roads University,0.22,CANADA,CE/CS
+34,178,3.5,7.7,27,68,McGill University,0.23,CANADA,CE/CS
+35,263,1.4,4.5,97,44,Bishop's University,0.16,CANADA,CE/CS
+36,185,3.9,8.4,9,41,University of New Brunswick,0.59,CANADA,CE/CS
+37,51,0.6,5.6,90,89,University of Fraser Valley,0.45,CANADA,CE/CS
+38,15,0.5,3.6,42,38,University of Winnipeg,0.16,CANADA,CE/CS
+39,188,2.8,8.4,94,20,University of King's College,0.73,CANADA,CE/CS
+40,68,3.9,9.0,19,38,University of Ontario Institute of Technology,0.95,CANADA,CE/CS
+41,89,3.3,8.6,12,14,University of Sherbrooke,0.86,CANADA,CE/CS
+42,62,1.4,6.8,45,17,University of Windsor,0.84,CANADA,CE/CS
+43,229,2.9,8.4,14,66,University of Winnipeg,0.6,CANADA,CE/CS
+44,71,1.4,6.7,49,78,Saint Mary's University,0.06,CANADA,CE/CS
+45,288,3.6,6.9,58,18,University of Prince Edward Island,0.37,CANADA,CE/CS
+46,32,2.3,5.8,49,91,Laval University,0.45,CANADA,CE/CS
+47,79,2.4,8.3,17,15,University of Winnipeg,0.43,CANADA,CE/CS
+48,138,0.2,1.6,52,91,Saint Mary's University,0.29,CANADA,CE/CS
+49,223,0.2,7.1,90,52,University of Toronto,0.09,CANADA,CE/CS
+50,4,0.3,1.0,64,53,University of Fraser Valley,0.32,CANADA,CE/CS
+51,134,3.5,1.2,19,61,Athabasca University,0.24,CANADA,CE/CS
+52,282,0.7,4.2,70,27,University of Manitoba,0.86,CANADA,CE/CS
+53,159,2.5,7.5,60,56,University of Moncton.,0.85,CANADA,CE/CS
+54,59,3.1,5.8,77,36,University of Prince Edward Island,0.35,CANADA,CE/CS
+55,232,0.4,4.4,76,94,University of Guelph,0.1,CANADA,CE/CS
+56,142,2.1,6.0,71,38,University of Alberta,0.03,CANADA,CE/CS
+57,168,3.9,2.9,79,1,University of Waterloo,0.94,CANADA,CE/CS
+58,199,4.0,0.4,49,13,University of Manitoba,0.21,CANADA,CE/CS
+59,179,2.4,1.2,62,40,University of Ontario Institute of Technology,0.06,CANADA,CE/CS
+60,48,3.5,5.0,88,92,McGill University,0.3,CANADA,CE/CS
+61,279,3.9,8.9,7,18,University of Montreal,0.96,CANADA,CE/CS
+62,174,2.4,7.6,60,47,McGill University,0.87,CANADA,CE/CS
+63,250,1.6,0.3,25,83,Nipissing University,0.22,CANADA,CE/CS
+64,220,2.4,8.1,32,19,University of Toronto,0.87,CANADA,CE/CS
+65,329,3.1,1.6,85,62,University of Lethbridge,0.66,CANADA,CE/CS
+66,323,3.7,5.9,59,37,University of New Brunswick,0.4,CANADA,CE/CS
+67,102,1.1,6.3,42,63,Laval University,0.51,CANADA,CE/CS
+68,249,2.0,1.3,35,79,Laval University,0.48,CANADA,CE/CS
+69,217,2.3,3.6,74,1,University of Alberta,0.93,CANADA,CE/CS
+70,235,1.0,7.4,14,21,University of King's College,0.87,CANADA,CE/CS
+71,51,3.0,6.9,84,22,Mount Allison University,0.73,CANADA,CE/CS
+72,190,0.9,2.4,6,61,Royal Roads University,0.8,CANADA,CE/CS
+73,286,2.7,6.3,49,76,University of Saskatchewan,0.5,CANADA,CE/CS
+74,77,3.2,2.7,49,95,University of Western Ontario,0.68,CANADA,CE/CS
+75,238,0.2,8.7,5,16,University of Montreal,0.57,CANADA,CE/CS
+76,252,1.9,0.6,42,7,University of Alberta,0.49,CANADA,CE/CS
+77,37,0.3,0.9,36,96,University of Moncton.,0.43,CANADA,CE/CS
+78,3,2.7,7.9,14,81,University of King's College,0.21,CANADA,CE/CS
+79,2,3.6,0.4,100,24,University of Calgary,0.51,CANADA,CE/CS
+80,269,1.8,7.2,78,46,Mount Royal University,0.67,CANADA,CE/CS
+81,203,2.7,8.8,55,45,Laval University,0.07,CANADA,CE/CS
+82,216,0.4,1.2,24,28,Carleton University,0.66,CANADA,CE/CS
+83,272,0.3,0.9,87,76,Mount Royal University,0.52,CANADA,CE/CS
+84,78,2.4,4.7,80,2,University of Alberta,0.98,CANADA,CE/CS
+85,325,3.6,5.6,85,67,Saint Mary's University,0.95,CANADA,CE/CS
+86,262,0.9,6.8,58,99,McMaster University,0.54,CANADA,CE/CS
+87,256,0.3,3.3,18,2,University of Winnipeg,0.34,CANADA,CE/CS
+88,201,2.3,0.3,25,35,University of Lethbridge,0.85,CANADA,CE/CS
+89,116,0.4,7.7,19,72,York University,0.0,CANADA,CE/CS
+90,175,3.6,2.2,90,45,University of Victoria,0.53,CANADA,CE/CS
+91,23,3.4,1.4,51,82,University of Montreal,0.87,CANADA,CE/CS
+92,131,0.3,0.8,94,2,University of Fraser Valley,0.61,CANADA,CE/CS
+93,81,0.9,4.6,72,0,Brock University,0.28,CANADA,CE/CS
+94,139,0.5,4.7,65,44,University of Ontario Institute of Technology,0.95,CANADA,CE/CS
+95,40,0.8,9.0,16,64,Dalhousie University,0.51,CANADA,CE/CS
+96,228,2.9,0.0,10,5,Mount Allison University,0.73,CANADA,CE/CS
+97,242,0.3,5.6,56,19,University of Toronto,0.3,CANADA,CE/CS
+98,26,2.8,4.3,66,22,University of Sherbrooke,0.48,CANADA,CE/CS
+99,61,1.2,1.4,53,19,Laurentian University,0.95,CANADA,CE/CS
+100,190,3.1,0.6,75,88,Laval University,0.58,CANADA,CE/CS
+101,311,0.6,2.6,57,59,University of Prince Edward Island,0.66,CANADA,CE/CS
+102,86,1.0,8.7,19,25,University of New Brunswick,0.3,CANADA,CE/CS
+103,191,1.7,1.9,66,56,Brock University,0.4,CANADA,CE/CS
+104,132,0.5,6.3,80,3,University of Regina,0.38,CANADA,CE/CS
+105,86,2.9,6.5,62,87,University of Lethbridge,0.11,CANADA,CE/CS
+106,239,3.3,3.4,84,6,Laval University,0.36,CANADA,CE/CS
+107,198,3.6,1.8,29,79,University of New Brunswick,0.05,CANADA,CE/CS
+108,198,3.5,0.3,31,40,University of Winnipeg,0.28,CANADA,CE/CS
+109,336,0.8,6.5,72,29,University of Ottawa,0.32,CANADA,CE/CS
+110,134,2.0,5.8,71,81,University of Western Ontario,0.31,CANADA,CE/CS
+111,57,1.7,4.7,17,74,Mount Royal University,0.58,CANADA,CE/CS
+112,144,0.5,8.8,41,13,Carleton University,0.24,CANADA,CE/CS
+113,237,3.5,5.5,70,49,University of Western Ontario,0.34,CANADA,CE/CS
+114,20,1.6,8.8,99,59,University of Toronto,0.72,CANADA,CE/CS
+115,337,3.6,6.1,43,57,Mount Allison University,0.95,CANADA,CE/CS
+116,299,1.5,5.6,53,92,Wilfrid Laurier University,0.08,CANADA,CE/CS
+117,100,3.8,5.1,5,59,University of Toronto,0.59,CANADA,CE/CS
+118,199,0.1,3.9,24,49,Trent University,0.92,CANADA,CE/CS
+119,145,3.4,2.0,56,52,University of Lethbridge,0.65,CANADA,CE/CS
+120,209,1.3,5.6,73,19,University of Regina,0.64,CANADA,CE/CS
+121,3,3.2,1.4,65,38,University of Sherbrooke,0.16,CANADA,CE/CS
+122,230,3.1,7.0,82,18,Thompson Rivers University,0.29,CANADA,CE/CS
+123,128,1.0,8.5,43,41,University of Alberta,0.76,CANADA,CE/CS
+124,85,1.2,0.8,32,6,University of Alberta,0.65,CANADA,CE/CS
+125,238,3.9,8.0,53,79,Royal Roads University,0.82,CANADA,CE/CS
+126,59,1.6,8.9,56,72,Trent University,0.3,CANADA,CE/CS
+127,231,1.9,1.6,94,4,Nipissing University,0.24,CANADA,CE/CS
+128,302,1.8,5.7,90,23,University of Moncton.,0.78,CANADA,CE/CS
+129,58,4.0,2.1,84,99,McGill University,0.47,CANADA,CE/CS
+130,253,0.9,0.8,32,45,University of New Brunswick,0.81,CANADA,CE/CS
+131,238,0.8,3.7,19,64,University of Winnipeg,0.19,CANADA,CE/CS
+132,119,1.0,5.9,48,82,Queen's University,0.9,CANADA,CE/CS
+133,331,1.8,5.9,15,28,Ryerson University,0.28,CANADA,CE/CS
+134,323,1.2,7.9,77,62,Dalhousie University,0.75,CANADA,CE/CS
+135,208,0.3,5.7,98,95,Ryerson University,0.88,CANADA,CE/CS
+136,183,0.7,8.2,5,72,Saint Mary's University,0.4,CANADA,CE/CS
+137,262,0.4,0.7,77,12,McGill University,0.77,CANADA,CE/CS
+138,232,1.8,1.4,18,57,University of Windsor,0.72,CANADA,CE/CS
+139,52,2.5,1.9,12,93,University of Victoria,0.7,CANADA,CE/CS
+140,184,0.1,0.5,58,19,University of Toronto,0.07,CANADA,CE/CS
+141,36,2.6,7.5,86,72,Thompson Rivers University,0.02,CANADA,CE/CS
+142,159,3.7,6.9,55,55,McMaster University,0.45,CANADA,CE/CS
+143,116,3.1,8.0,89,9,Trent University,0.28,CANADA,CE/CS
+144,197,1.6,4.5,73,84,University of Saskatchewan,0.2,CANADA,CE/CS
+145,254,3.8,4.1,21,12,Nipissing University,0.6,CANADA,CE/CS
+146,167,1.3,1.9,53,81,University of Regina,0.09,CANADA,CE/CS
+147,255,3.5,2.0,22,53,Wilfrid Laurier University,0.9,CANADA,CE/CS
+148,170,3.6,3.6,31,57,Carleton University,0.47,CANADA,CE/CS
+149,38,0.5,3.6,48,68,Royal Roads University,0.61,CANADA,CE/CS
+150,124,1.3,4.0,45,36,University of Sherbrooke,0.68,CANADA,CE/CS
+151,278,0.8,6.9,2,70,Brock University,0.54,CANADA,CE/CS
+152,255,1.9,2.3,82,72,Cape Breton University,0.76,CANADA,CE/CS
+153,285,0.7,6.9,56,89,University of Regina,0.04,CANADA,CE/CS
+154,239,3.8,2.2,70,87,Laval University,0.82,CANADA,CE/CS
+155,3,2.9,4.7,60,92,University of Saskatchewan,0.35,CANADA,CE/CS
+156,275,2.3,5.6,4,46,York University,0.4,CANADA,CE/CS
+157,177,0.7,7.8,47,88,Ryerson University,0.77,CANADA,CE/CS
+158,243,2.2,8.2,10,76,University of Western Ontario,0.5,CANADA,CE/CS
+159,206,2.7,2.8,69,3,University of Montreal,0.64,CANADA,CE/CS
+160,321,2.1,0.4,46,94,York University,0.42,CANADA,CE/CS
+161,310,3.4,1.7,51,91,University of Manitoba,0.71,CANADA,CE/CS
+162,255,3.9,4.4,31,2,University of Toronto,0.97,CANADA,CE/CS
+163,253,1.5,3.4,11,37,University of Prince Edward Island,0.24,CANADA,CE/CS
+164,241,2.5,6.2,47,25,Mount Royal University,0.06,CANADA,CE/CS
+165,273,0.3,4.6,70,57,University of Victoria,0.7,CANADA,CE/CS
+166,302,0.2,0.9,43,25,Nipissing University,0.58,CANADA,CE/CS
+167,48,3.0,8.5,62,44,Wilfrid Laurier University,0.68,CANADA,CE/CS
+168,103,0.6,4.0,5,43,University of Prince Edward Island,0.97,CANADA,CE/CS
+169,180,1.3,0.1,21,58,University of Toronto,0.76,CANADA,CE/CS
+170,160,1.6,7.7,25,13,Wilfrid Laurier University,0.26,CANADA,CE/CS
+171,281,3.3,7.5,82,97,University of Montreal,0.57,CANADA,CE/CS
+172,0,0.7,7.7,69,13,University of Lethbridge,0.96,CANADA,CE/CS
+173,182,0.8,8.0,12,73,Mount Royal University,0.85,CANADA,CE/CS
+174,93,2.1,7.3,70,94,University of Calgary,0.15,CANADA,CE/CS
+175,311,3.3,0.8,71,80,University of Moncton.,0.31,CANADA,CE/CS
+176,87,3.6,1.4,18,35,Nipissing University,0.66,CANADA,CE/CS
+177,14,1.7,0.8,3,40,University of Guelph,0.3,CANADA,CE/CS
+178,114,3.5,9.0,66,42,Bishop's University,0.56,CANADA,CE/CS
+179,277,2.5,3.2,73,87,University of Manitoba,0.11,CANADA,CE/CS
+180,253,3.0,5.0,99,98,University of Northern British Columbia,0.88,CANADA,CE/CS
+181,162,0.3,2.6,4,9,Saint Mary's University,0.29,CANADA,CE/CS
+182,295,0.6,3.2,8,62,Queen's University,0.64,CANADA,CE/CS
+183,143,0.8,5.3,95,48,Thompson Rivers University,0.24,CANADA,CE/CS
+184,276,1.2,8.3,69,6,Trent University,0.92,CANADA,CE/CS
+185,214,0.2,6.5,26,51,University of Moncton.,0.11,CANADA,CE/CS
+186,297,3.6,5.8,37,23,Mount Allison University,0.32,CANADA,CE/CS
+187,241,1.8,1.8,36,77,University of Northern British Columbia,0.27,CANADA,CE/CS
+188,177,0.7,0.1,41,18,Mount Royal University,0.55,CANADA,CE/CS
+189,199,3.2,8.5,1,59,Laurentian University,0.81,CANADA,CE/CS
+190,263,0.1,8.5,38,7,Athabasca University,0.2,CANADA,CE/CS
+191,179,2.8,0.5,41,42,University of Prince Edward Island,0.7,CANADA,CE/CS
+192,207,3.5,2.0,64,59,Cape Breton University,0.52,CANADA,CE/CS
+193,233,1.0,6.7,63,92,York University,0.82,CANADA,CE/CS
+194,198,1.0,7.6,92,71,Royal Roads University,0.46,CANADA,CE/CS
+195,276,3.3,1.5,83,79,McGill University,0.55,CANADA,CE/CS
+196,300,3.8,8.5,15,73,Thompson Rivers University,0.79,CANADA,CE/CS
+197,51,2.5,8.2,62,88,University of Western Ontario,0.52,CANADA,CE/CS
+198,112,3.4,7.0,14,56,Mount Royal University,0.31,CANADA,CE/CS
+199,102,1.6,0.4,72,22,University of Ottawa,0.63,CANADA,CE/CS
+200,123,0.8,7.8,25,65,University of Lethbridge,0.82,CANADA,CE/CS
+201,165,1.7,3.2,9,80,University of King's College,0.38,CANADA,CE/CS
+202,187,1.3,0.9,24,78,Carleton University,0.85,CANADA,CE/CS
+203,235,2.9,8.6,100,74,University of Alberta,0.59,CANADA,CE/CS
+204,326,0.3,7.1,30,97,University of Northern British Columbia,0.49,CANADA,CE/CS
+205,249,1.2,0.3,85,34,Wilfrid Laurier University,0.58,CANADA,CE/CS
+206,114,1.7,5.1,1,16,Athabasca University,0.57,CANADA,CE/CS
+207,330,1.5,8.9,33,44,Concordia University,0.76,CANADA,CE/CS
+208,258,2.0,8.0,86,16,University of Winnipeg,0.91,CANADA,CE/CS
+209,68,3.9,3.1,87,52,York University,0.2,CANADA,CE/CS
+210,38,1.8,2.1,37,100,Nipissing University,0.32,CANADA,CE/CS
+211,311,3.4,1.4,85,1,Trent University,0.42,CANADA,CE/CS
+212,299,2.5,4.5,99,26,Nipissing University,0.35,CANADA,CE/CS
+213,0,3.0,0.6,54,54,University of New Brunswick,0.92,CANADA,CE/CS
+214,174,2.0,1.1,29,15,Queen's University,0.88,CANADA,CE/CS
+215,276,2.7,6.1,69,64,University of Toronto,0.87,CANADA,CE/CS
+216,278,1.7,6.1,55,65,University of Fraser Valley,0.71,CANADA,CE/CS
+217,184,2.8,8.7,24,12,Concordia University,0.04,CANADA,CE/CS
+218,231,3.4,7.8,77,59,Mount Royal University,0.05,CANADA,CE/CS
+219,180,3.7,3.6,80,69,University of Guelph,0.81,CANADA,CE/CS
+220,116,0.9,8.2,75,57,University of Fraser Valley,0.88,CANADA,CE/CS
+221,319,3.5,6.5,54,47,Laval University,0.63,CANADA,CE/CS
+222,170,3.2,8.9,49,7,University of New Brunswick,0.47,CANADA,CE/CS
+223,270,2.6,0.5,58,81,Ryerson University,0.32,CANADA,CE/CS
+224,265,1.9,2.6,31,82,Ryerson University,0.22,CANADA,CE/CS
+225,221,1.3,4.3,89,23,Wilfrid Laurier University,0.39,CANADA,CE/CS
+226,316,0.8,8.6,1,73,Memorial University of Newfoundland,0.33,CANADA,CE/CS
+227,212,3.5,1.2,72,98,University of Sherbrooke,0.15,CANADA,CE/CS
+228,117,1.3,4.0,36,71,Brock University,0.03,CANADA,CE/CS
+229,300,3.1,7.7,67,63,University of Moncton.,0.99,CANADA,CE/CS
+230,118,2.1,2.3,15,44,University of Ontario Institute of Technology,0.7,CANADA,CE/CS
+231,60,0.3,3.1,45,55,University of Guelph,0.98,CANADA,CE/CS
+232,193,3.9,3.3,3,80,Trent University,0.11,CANADA,CE/CS
+233,32,2.0,5.4,8,43,University of British Columbia,0.12,CANADA,CE/CS
+234,219,0.2,1.2,79,41,Mount Allison University,0.35,CANADA,CE/CS
+235,27,0.3,7.6,16,80,Wilfrid Laurier University,0.64,CANADA,CE/CS
+236,278,0.4,2.5,72,87,Wilfrid Laurier University,0.06,CANADA,CE/CS
+237,110,2.3,7.9,15,41,University of Toronto,0.32,CANADA,CE/CS
+238,59,3.6,2.7,3,72,University of Ontario Institute of Technology,0.06,CANADA,CE/CS
+239,104,2.1,6.5,64,33,University of Guelph,0.37,CANADA,CE/CS
+240,74,1.3,8.6,49,92,Dalhousie University,0.34,CANADA,CE/CS
+241,70,1.6,6.1,48,66,Wilfrid Laurier University,0.92,CANADA,CE/CS
+242,27,1.1,5.9,25,2,University of Prince Edward Island,0.88,CANADA,CE/CS
+243,295,2.2,7.9,34,66,Royal Roads University,0.49,CANADA,CE/CS
+244,218,2.0,1.6,4,87,University of Lethbridge,0.29,CANADA,CE/CS
+245,148,1.5,7.3,7,23,Royal Roads University,0.06,CANADA,CE/CS
+246,218,0.4,7.6,26,32,Ryerson University,0.58,CANADA,CE/CS
+247,172,2.5,6.0,92,23,Bishop's University,0.15,CANADA,CE/CS
+248,325,3.5,1.4,100,7,Concordia University,0.49,CANADA,CE/CS
+249,286,1.0,5.9,17,59,Dalhousie University,0.33,CANADA,CE/CS
+250,84,1.6,6.6,91,69,Thompson Rivers University,0.61,CANADA,CE/CS
+251,146,3.1,3.2,50,47,Brock University,0.67,CANADA,CE/CS
+252,75,2.2,6.9,70,78,Bishop's University,0.3,CANADA,CE/CS
+253,83,0.5,4.4,27,98,York University,0.47,CANADA,CE/CS
+254,108,3.7,1.3,57,76,University of New Brunswick,0.03,CANADA,CE/CS
+255,51,1.8,7.6,73,15,Memorial University of Newfoundland,0.16,CANADA,CE/CS
+256,278,2.6,4.0,2,46,Queen's University,0.02,CANADA,CE/CS
+257,101,1.9,8.5,38,81,University of Saskatchewan,0.95,CANADA,CE/CS
+258,59,3.4,0.1,58,77,Athabasca University,0.95,CANADA,CE/CS
+259,226,2.3,6.2,56,91,Simon Fraser University,0.88,CANADA,CE/CS
+260,24,1.3,6.4,59,6,Mount Royal University,0.09,CANADA,CE/CS
+261,326,1.0,1.4,78,88,Ryerson University,0.4,CANADA,CE/CS
+262,180,3.3,8.3,92,99,University of New Brunswick,0.91,CANADA,CE/CS
+263,90,3.3,8.8,1,90,Dalhousie University,0.29,CANADA,CE/CS
+264,22,0.1,4.6,29,17,University of Toronto,0.2,CANADA,CE/CS
+265,144,0.1,4.0,6,44,University of Regina,0.43,CANADA,CE/CS
+266,88,1.7,7.5,37,49,Laval University,0.44,CANADA,CE/CS
+267,235,0.2,5.7,12,21,University of Lethbridge,0.5,CANADA,CE/CS
+268,100,0.3,6.0,82,82,University of Manitoba,0.57,CANADA,CE/CS
+269,42,1.8,3.5,68,66,University of Ottawa,0.31,CANADA,CE/CS
+270,64,3.9,1.9,13,0,University of Prince Edward Island,0.64,CANADA,CE/CS
+271,249,2.6,3.5,10,43,Laval University,0.59,CANADA,CE/CS
+272,275,1.8,4.6,64,30,Laurentian University,0.82,CANADA,CE/CS
+273,128,2.5,6.0,89,2,University of Guelph,0.0,CANADA,CE/CS
+274,53,1.9,2.9,98,40,Mount Allison University,0.1,CANADA,CE/CS
+275,128,0.4,7.3,26,82,University of Ontario Institute of Technology,0.42,CANADA,CE/CS
+276,200,0.2,4.3,35,18,University of King's College,0.59,CANADA,CE/CS
+277,24,0.4,8.9,3,47,York University,0.82,CANADA,CE/CS
+278,14,2.8,6.6,46,14,University of Fraser Valley,0.45,CANADA,CE/CS
+279,170,0.6,9.0,42,58,University of Western Ontario,0.27,CANADA,CE/CS
+280,119,1.4,2.2,11,87,Laval University,0.38,CANADA,CE/CS
+281,328,3.0,6.1,31,7,University of Victoria,0.75,CANADA,CE/CS
+282,23,0.2,7.3,48,85,University of New Brunswick,0.48,CANADA,CE/CS
+283,146,0.8,4.4,94,22,University of Moncton.,0.21,CANADA,CE/CS
+284,48,2.5,7.4,95,40,University of Waterloo,0.2,CANADA,CE/CS
+285,91,3.7,2.2,18,14,Saint Mary's University,0.38,CANADA,CE/CS
+286,58,3.5,3.5,87,70,University of Victoria,0.9,CANADA,CE/CS
+287,174,3.4,3.5,82,25,Royal Roads University,0.03,CANADA,CE/CS
+288,233,3.4,8.7,60,37,University of Toronto,0.82,CANADA,CE/CS
+289,248,2.3,1.4,28,67,Athabasca University,0.58,CANADA,CE/CS
+290,290,1.0,8.1,83,39,Brock University,0.42,CANADA,CE/CS
+291,183,0.8,4.5,75,70,Nipissing University,0.67,CANADA,CE/CS
+292,150,3.4,2.2,41,75,Cape Breton University,0.55,CANADA,CE/CS
+293,35,1.0,5.9,83,56,University of New Brunswick,0.16,CANADA,CE/CS
+294,278,3.6,1.8,34,58,Mount Royal University,0.75,CANADA,CE/CS
+295,301,0.4,7.0,26,54,University of New Brunswick,0.25,CANADA,CE/CS
+296,136,0.2,0.3,94,82,Thompson Rivers University,0.64,CANADA,CE/CS
+297,58,3.4,4.8,5,91,Ryerson University,0.11,CANADA,CE/CS
+298,76,3.1,6.9,75,13,University of Manitoba,0.16,CANADA,CE/CS
+299,133,0.4,0.3,7,62,Royal Roads University,0.91,CANADA,CE/CS
+300,43,2.8,5.3,13,70,Thompson Rivers University,0.71,CANADA,CE/CS
+301,172,3.5,8.4,10,59,University of Manitoba,0.81,CANADA,CE/CS
+302,230,1.0,2.8,11,32,Queen's University,0.9,CANADA,CE/CS
+303,270,3.2,8.9,36,76,University of Moncton.,0.52,CANADA,CE/CS
+304,89,1.4,0.5,30,54,University of Calgary,0.04,CANADA,CE/CS
+305,101,1.3,1.5,5,86,University of Ottawa,0.55,CANADA,CE/CS
+306,148,3.9,8.2,14,11,Cape Breton University,0.88,CANADA,CE/CS
+307,136,0.9,1.0,47,80,Carleton University,0.96,CANADA,CE/CS
+308,309,0.1,3.9,15,39,University of Western Ontario,0.61,CANADA,CE/CS
+309,92,1.2,7.5,56,30,University of Toronto,0.1,CANADA,CE/CS
+310,153,2.6,6.2,24,15,Memorial University of Newfoundland,0.0,CANADA,CE/CS
+311,284,2.5,2.5,80,40,University of Guelph,0.36,CANADA,CE/CS
+312,98,0.6,8.6,49,26,Mount Allison University,0.34,CANADA,CE/CS
+313,208,2.4,8.0,75,69,Dalhousie University,0.15,CANADA,CE/CS
+314,294,1.1,1.1,66,91,Cape Breton University,0.67,CANADA,CE/CS
+315,33,3.2,3.3,95,76,University of Regina,0.57,CANADA,CE/CS
+316,287,3.2,1.9,19,60,University of Montreal,0.19,CANADA,CE/CS
+317,218,4.0,8.4,41,97,Nipissing University,0.24,CANADA,CE/CS
+318,243,2.8,2.5,46,51,University of Waterloo,0.29,CANADA,CE/CS
+319,203,2.2,1.5,27,39,University of Waterloo,0.61,CANADA,CE/CS
+320,316,3.5,1.6,46,8,University of New Brunswick,0.42,CANADA,CE/CS
+321,57,3.2,3.9,65,33,University of Manitoba,0.12,CANADA,CE/CS
+322,250,1.4,3.8,4,41,Queen's University,0.53,CANADA,CE/CS
+323,181,0.8,5.2,32,13,University of Toronto,0.85,CANADA,CE/CS
+324,270,2.9,1.0,98,65,University of Waterloo,0.39,CANADA,CE/CS
+325,340,3.9,2.9,81,47,Dalhousie University,0.69,CANADA,CE/CS
+326,169,0.2,5.7,10,2,University of British Columbia,0.06,CANADA,CE/CS
+327,99,3.7,3.0,71,34,University of New Brunswick,0.61,CANADA,CE/CS
+328,228,3.4,8.4,69,51,Brock University,0.73,CANADA,CE/CS
+329,324,4.0,2.6,17,96,University of Ontario Institute of Technology,0.28,CANADA,CE/CS
+330,125,1.3,7.6,80,73,University of Saskatchewan,0.98,CANADA,CE/CS
+331,249,1.7,4.0,58,13,University of Lethbridge,0.37,CANADA,CE/CS
+332,252,0.8,7.2,71,85,Cape Breton University,0.94,CANADA,CE/CS
+333,72,3.4,6.9,100,6,University of Ontario Institute of Technology,0.55,CANADA,CE/CS
+334,59,0.9,4.5,69,47,Carleton University,0.05,CANADA,CE/CS
+335,74,1.1,3.5,54,82,University of Lethbridge,0.73,CANADA,CE/CS
+336,323,3.6,8.9,60,93,University of King's College,0.69,CANADA,CE/CS
+337,166,3.5,8.5,49,85,University of Manitoba,0.9,CANADA,CE/CS
+338,31,3.2,1.5,31,67,Cape Breton University,0.55,CANADA,CE/CS
+339,212,0.1,3.6,50,92,University of Calgary,0.04,CANADA,CE/CS
+340,65,2.8,0.9,18,16,Carleton University,0.39,CANADA,CE/CS
+341,325,2.1,3.9,3,11,McMaster University,0.95,CANADA,CE/CS
+342,131,3.1,1.1,61,34,Nipissing University,0.24,CANADA,CE/CS
+343,25,0.5,5.1,69,60,Cape Breton University,0.49,CANADA,CE/CS
+344,241,3.1,4.6,32,90,Concordia University,0.14,CANADA,CE/CS
+345,108,4.0,2.4,96,91,Queen's University,0.59,CANADA,CE/CS
+346,49,1.2,2.5,19,31,University of Regina,0.79,CANADA,CE/CS
+347,310,0.2,3.0,91,31,Mount Allison University,0.93,CANADA,CE/CS
+348,328,3.3,5.7,13,29,Carleton University,0.34,CANADA,CE/CS
+349,141,0.3,5.7,30,8,University of Toronto,0.77,CANADA,CE/CS
+350,64,2.5,7.9,3,8,University of Manitoba,0.88,CANADA,CE/CS
+351,92,0.1,3.9,100,53,University of Fraser Valley,0.33,CANADA,CE/CS
+352,28,1.7,0.6,91,55,University of Saskatchewan,0.44,CANADA,CE/CS
+353,236,2.7,2.2,55,99,Queen's University,0.48,CANADA,CE/CS
+354,113,2.9,1.8,3,73,University of Ontario Institute of Technology,0.82,CANADA,CE/CS
+355,48,0.4,7.8,5,63,Mount Allison University,0.48,CANADA,CE/CS
+356,89,3.1,0.0,73,44,University of Calgary,0.86,CANADA,CE/CS
+357,76,0.2,2.9,46,29,McMaster University,0.34,CANADA,CE/CS
+358,320,3.7,6.7,2,26,McMaster University,0.72,CANADA,CE/CS
+359,62,0.2,7.3,71,57,Nipissing University,0.69,CANADA,CE/CS
+360,5,3.0,0.6,54,10,Laval University,0.88,CANADA,CE/CS
+361,61,0.3,3.6,2,58,University of British Columbia,0.76,CANADA,CE/CS
+362,21,0.4,5.0,5,19,University of Victoria,0.51,CANADA,CE/CS
+363,255,1.4,6.4,18,58,University of Guelph,0.18,CANADA,CE/CS
+364,68,3.3,6.1,72,90,Ryerson University,0.86,CANADA,CE/CS
+365,259,1.9,4.1,86,68,Nipissing University,0.66,CANADA,CE/CS
+366,255,3.1,1.3,38,69,University of Fraser Valley,0.76,CANADA,CE/CS
+367,36,0.4,3.5,47,63,University of Ontario Institute of Technology,0.74,CANADA,CE/CS
+368,137,2.1,0.1,59,66,York University,0.94,CANADA,CE/CS
+369,14,2.2,6.4,83,44,University of Saskatchewan,0.67,CANADA,CE/CS
+370,153,2.1,7.8,47,43,Athabasca University,0.02,CANADA,CE/CS
+371,5,1.1,2.0,13,53,Simon Fraser University,0.43,CANADA,CE/CS
+372,26,0.1,0.5,15,59,University of Lethbridge,0.2,CANADA,CE/CS
+373,335,1.8,6.8,24,83,University of Guelph,0.53,CANADA,CE/CS
+374,111,3.1,0.4,12,27,York University,0.07,CANADA,CE/CS
+375,301,0.3,1.0,88,40,Brock University,0.65,CANADA,CE/CS
+376,51,0.7,4.4,54,18,University of Ottawa,0.14,CANADA,CE/CS
+377,305,1.2,3.4,37,62,Laval University,0.57,CANADA,CE/CS
+378,101,0.1,4.9,5,17,University of Moncton.,0.58,CANADA,CE/CS
+379,237,1.5,7.7,19,83,York University,0.38,CANADA,CE/CS
+380,251,0.9,4.0,99,31,Athabasca University,0.56,CANADA,CE/CS
+381,245,2.0,8.3,62,80,York University,0.86,CANADA,CE/CS
+382,14,0.5,8.5,78,1,Laurentian University,0.45,CANADA,CE/CS
+383,184,4.0,2.6,75,63,Memorial University of Newfoundland,0.08,CANADA,CE/CS
+384,265,2.2,3.9,42,14,University of Winnipeg,0.43,CANADA,CE/CS
+385,327,1.7,3.0,15,83,University of Lethbridge,0.55,CANADA,CE/CS
+386,141,0.2,1.4,35,58,University of Lethbridge,0.27,CANADA,CE/CS
+387,27,0.1,2.1,49,26,Simon Fraser University,0.29,CANADA,CE/CS
+388,295,3.9,8.7,16,5,Nipissing University,0.14,CANADA,CE/CS
+389,189,0.7,8.8,14,91,Concordia University,0.07,CANADA,CE/CS
+390,20,1.2,5.1,45,75,Thompson Rivers University,0.45,CANADA,CE/CS
+391,224,3.4,1.9,77,48,University of Winnipeg,0.44,CANADA,CE/CS
+392,150,2.1,0.9,25,71,University of Toronto,0.65,CANADA,CE/CS
+393,329,1.8,2.3,5,96,University of Lethbridge,0.5,CANADA,CE/CS
+394,325,3.9,8.7,51,75,Royal Roads University,0.17,CANADA,CE/CS
+395,132,0.7,8.4,38,12,Simon Fraser University,0.88,CANADA,CE/CS
+396,265,1.2,3.2,91,16,University of Winnipeg,0.55,CANADA,CE/CS
+397,241,2.9,5.8,39,44,University of Fraser Valley,0.37,CANADA,CE/CS
+398,43,0.8,2.7,49,55,Dalhousie University,0.43,CANADA,CE/CS
+399,268,2.0,0.9,1,85,Mount Royal University,0.59,CANADA,CE/CS
+400,316,3.1,1.1,17,40,University of Victoria,0.1,CANADA,CE/CS
+401,115,1.1,3.8,16,69,University of Alberta,0.6,CANADA,CE/CS
+402,146,2.7,0.6,35,11,University of Alberta,0.15,CANADA,CE/CS
+403,184,0.7,7.1,81,50,Dalhousie University,0.69,CANADA,CE/CS
+404,223,4.0,3.8,67,26,University of Fraser Valley,0.89,CANADA,CE/CS
+405,86,3.6,1.6,68,89,Trent University,0.72,CANADA,CE/CS
+406,107,3.5,1.3,45,49,Trent University,0.5,CANADA,CE/CS
+407,5,3.4,0.8,10,56,Mount Royal University,0.62,CANADA,CE/CS
+408,290,3.8,4.4,40,17,University of Calgary,0.39,CANADA,CE/CS
+409,110,1.0,7.0,77,15,Athabasca University,0.72,CANADA,CE/CS
+410,285,0.9,5.6,43,56,University of Prince Edward Island,0.16,CANADA,CE/CS
+411,241,2.6,8.6,44,82,University of Waterloo,0.27,CANADA,CE/CS
+412,299,0.7,5.1,27,69,University of New Brunswick,0.6,CANADA,CE/CS
+413,215,2.4,0.8,88,98,Carleton University,0.33,CANADA,CE/CS
+414,263,0.7,7.4,44,94,University of King's College,0.23,CANADA,CE/CS
+415,211,2.9,6.1,4,82,Simon Fraser University,0.49,CANADA,CE/CS
+416,35,0.9,1.3,66,63,University of Montreal,0.05,CANADA,CE/CS
+417,130,2.5,4.6,42,59,McGill University,0.94,CANADA,CE/CS
+418,160,2.9,3.2,51,18,University of Northern British Columbia,0.6,CANADA,CE/CS
+419,337,1.5,1.0,18,14,University of Waterloo,0.88,CANADA,CE/CS
+420,231,1.2,6.1,63,49,University of Calgary,0.05,CANADA,CE/CS
+421,13,2.5,2.1,32,92,Mount Allison University,0.65,CANADA,CE/CS
+422,96,2.0,6.5,75,98,University of Winnipeg,0.52,CANADA,CE/CS
+423,199,3.8,4.1,71,38,University of King's College,0.77,CANADA,CE/CS
+424,14,3.1,2.9,8,88,University of Regina,0.25,CANADA,CE/CS
+425,142,0.6,2.6,63,74,University of Ottawa,0.04,CANADA,CE/CS
+426,257,0.5,7.4,60,83,University of Northern British Columbia,0.06,CANADA,CE/CS
+427,30,0.1,2.1,54,62,University of Ottawa,0.98,CANADA,CE/CS
+428,7,2.6,6.9,83,67,University of Waterloo,0.16,CANADA,CE/CS
+429,273,4.0,3.0,32,91,Memorial University of Newfoundland,0.34,CANADA,CE/CS
+430,37,3.7,4.6,4,19,University of Alberta,0.15,CANADA,CE/CS
+431,28,1.5,6.3,96,54,Queen's University,0.24,CANADA,CE/CS
+432,93,3.5,3.0,67,14,University of Lethbridge,0.11,CANADA,CE/CS
+433,35,2.6,7.7,49,94,University of New Brunswick,0.54,CANADA,CE/CS
+434,52,1.4,3.5,40,60,Bishop's University,0.65,CANADA,CE/CS
+435,236,3.7,0.6,13,79,University of Manitoba,0.06,CANADA,CE/CS
+436,215,0.8,2.1,55,72,Nipissing University,0.18,CANADA,CE/CS
+437,164,1.4,1.3,72,0,University of Northern British Columbia,0.76,CANADA,CE/CS
+438,116,3.5,1.9,93,9,University of Toronto,0.67,CANADA,CE/CS
+439,203,3.8,4.0,40,73,Royal Roads University,0.22,CANADA,CE/CS
+440,197,3.1,0.3,32,20,University of Toronto,0.97,CANADA,CE/CS
+441,223,1.9,3.1,33,84,University of Guelph,0.12,CANADA,CE/CS
+442,324,0.2,5.5,15,63,Trent University,0.43,CANADA,CE/CS
+443,246,2.8,3.9,20,86,Cape Breton University,0.27,CANADA,CE/CS
+444,282,1.7,4.7,56,10,Cape Breton University,0.95,CANADA,CE/CS
+445,5,1.3,3.9,79,72,Dalhousie University,0.86,CANADA,CE/CS
+446,336,0.1,6.6,40,19,University of Victoria,1.0,CANADA,CE/CS
+447,92,3.9,3.2,8,62,University of Fraser Valley,0.03,CANADA,CE/CS
+448,41,3.9,5.8,48,17,Saint Mary's University,0.83,CANADA,CE/CS
+449,151,2.9,7.3,8,94,Queen's University,0.77,CANADA,CE/CS
+450,293,0.5,7.4,85,52,Concordia University,0.06,CANADA,CE/CS
+451,24,2.3,5.5,60,30,University of Calgary,0.36,CANADA,CE/CS
+452,24,2.5,7.7,5,73,Brock University,0.38,CANADA,CE/CS
+453,82,2.5,3.2,25,16,University of Moncton.,0.29,CANADA,CE/CS
+454,64,0.8,3.9,70,32,University of Western Ontario,0.98,CANADA,CE/CS
+455,324,0.3,4.8,60,1,Mount Allison University,0.98,CANADA,CE/CS
+456,124,2.7,0.1,75,90,University of Ottawa,0.52,CANADA,CE/CS
+457,183,0.7,4.9,11,4,University of British Columbia,0.58,CANADA,CE/CS
+458,190,1.4,1.9,33,98,Saint Mary's University,0.06,CANADA,CE/CS
+459,275,0.9,4.2,85,79,Wilfrid Laurier University,0.88,CANADA,CE/CS
+460,19,1.1,4.8,47,65,University of New Brunswick,0.74,CANADA,CE/CS
+461,159,3.8,0.9,95,90,University of Toronto,0.31,CANADA,CE/CS
+462,129,3.9,1.0,62,73,Mount Allison University,0.21,CANADA,CE/CS
+463,117,0.9,1.8,66,61,York University,0.24,CANADA,CE/CS
+464,150,2.7,4.1,60,37,Nipissing University,0.99,CANADA,CE/CS
+465,243,3.7,4.4,89,22,University of Windsor,0.7,CANADA,CE/CS
+466,203,0.2,5.0,24,76,Mount Allison University,0.66,CANADA,CE/CS
+467,255,1.9,6.6,34,17,Simon Fraser University,0.94,CANADA,CE/CS
+468,5,3.4,1.9,93,94,McMaster University,0.55,CANADA,CE/CS
+469,87,2.1,4.9,85,58,Mount Royal University,0.96,CANADA,CE/CS
+470,207,3.4,3.5,48,76,Trent University,0.53,CANADA,CE/CS
+471,140,2.5,4.0,8,78,Dalhousie University,0.59,CANADA,CE/CS
+472,138,2.5,3.7,8,39,University of King's College,0.04,CANADA,CE/CS
+473,262,0.6,3.3,50,88,Thompson Rivers University,0.71,CANADA,CE/CS
+474,234,1.2,0.5,75,49,University of King's College,0.7,CANADA,CE/CS
+475,172,2.3,1.6,32,35,University of Ottawa,0.76,CANADA,CE/CS
+476,329,0.4,3.4,12,88,University of Saskatchewan,0.76,CANADA,CE/CS
+477,326,1.6,5.2,76,41,University of Calgary,0.95,CANADA,CE/CS
+478,161,1.8,8.1,22,26,University of Guelph,0.37,CANADA,CE/CS
+479,16,2.5,0.9,10,62,University of Montreal,0.46,CANADA,CE/CS
+480,181,3.3,6.2,33,4,University of Ottawa,0.49,CANADA,CE/CS
+481,79,2.2,0.9,60,6,University of King's College,0.88,CANADA,CE/CS
+482,262,1.2,3.0,82,44,University of Calgary,0.72,CANADA,CE/CS
+483,45,0.7,2.6,74,7,University of Manitoba,0.81,CANADA,CE/CS
+484,180,2.3,2.6,86,45,University of Windsor,0.84,CANADA,CE/CS
+485,252,1.3,1.5,75,82,Carleton University,0.45,CANADA,CE/CS
+486,60,0.6,8.1,17,22,Carleton University,0.24,CANADA,CE/CS
+487,140,1.1,0.9,19,69,University of Western Ontario,0.9,CANADA,CE/CS
+488,188,1.5,0.4,1,35,University of Winnipeg,0.81,CANADA,CE/CS
+489,14,3.4,8.5,37,19,Brock University,0.23,CANADA,CE/CS
+490,158,0.7,2.8,44,95,University of Moncton.,0.69,CANADA,CE/CS
+491,109,1.0,1.6,48,56,Royal Roads University,0.88,CANADA,CE/CS
+492,323,0.3,0.8,88,68,University of New Brunswick,0.95,CANADA,CE/CS
+493,198,2.0,7.8,66,34,Carleton University,0.95,CANADA,CE/CS
+494,316,3.7,3.2,18,10,University of New Brunswick,0.08,CANADA,CE/CS
+495,83,1.2,7.7,96,73,University of Windsor,0.56,CANADA,CE/CS
+496,160,3.2,2.9,39,81,Bishop's University,0.82,CANADA,CE/CS
+497,223,1.5,4.0,63,48,University of New Brunswick,0.24,CANADA,CE/CS
+498,323,1.2,8.4,27,18,Laurentian University,0.21,CANADA,CE/CS
+499,51,1.2,8.0,99,91,University of Calgary,0.73,CANADA,CE/CS
+500,335,3.3,1.2,92,62,Cape Breton University,0.67,CANADA,CE/CS
+501,302,2.5,2.6,20,31,Carleton University,0.77,CANADA,CE/CS
+502,179,0.2,9.0,28,71,University of Moncton.,0.73,CANADA,CE/CS
+503,201,0.8,2.2,20,59,Trent University,0.2,CANADA,CE/CS
+504,252,2.0,4.5,29,1,Wilfrid Laurier University,0.68,CANADA,CE/CS
+505,277,0.9,6.2,82,51,Mount Allison University,0.26,CANADA,CE/CS
+506,157,1.3,3.2,20,90,University of Guelph,0.44,CANADA,CE/CS
+507,44,1.5,0.8,20,42,University of Waterloo,0.34,CANADA,CE/CS
+508,10,0.7,0.6,19,80,York University,0.48,CANADA,CE/CS
+509,91,2.8,8.2,21,16,University of Moncton.,0.97,CANADA,CE/CS
+510,249,0.1,2.9,93,8,Memorial University of Newfoundland,0.87,CANADA,CE/CS
+511,261,0.0,4.6,90,46,Bishop's University,0.13,CANADA,CE/CS
+512,321,1.5,2.8,32,92,Thompson Rivers University,0.16,CANADA,CE/CS
+513,79,1.4,3.3,63,43,Cape Breton University,0.95,CANADA,CE/CS
+514,128,2.3,1.5,87,34,Simon Fraser University,0.15,CANADA,CE/CS
+515,259,2.1,1.2,40,37,University of Saskatchewan,0.58,CANADA,CE/CS
+516,39,0.3,5.4,71,95,University of Alberta,0.33,CANADA,CE/CS
+517,218,1.3,2.1,16,45,University of Saskatchewan,0.75,CANADA,CE/CS
+518,104,0.4,0.2,96,73,University of Saskatchewan,0.17,CANADA,CE/CS
+519,127,1.0,7.0,50,8,University of Montreal,0.47,CANADA,CE/CS
+520,146,1.9,5.9,72,29,McMaster University,0.44,CANADA,CE/CS
+521,270,1.7,7.7,42,2,University of New Brunswick,0.28,CANADA,CE/CS
+522,119,1.5,1.0,17,68,University of Saskatchewan,0.08,CANADA,CE/CS
+523,50,3.0,7.5,59,40,University of New Brunswick,0.22,CANADA,CE/CS
+524,151,2.0,8.0,70,11,Laval University,0.36,CANADA,CE/CS
+525,57,3.0,2.4,48,28,University of New Brunswick,0.74,CANADA,CE/CS
+526,210,2.0,0.2,42,16,Thompson Rivers University,0.26,CANADA,CE/CS
+527,191,2.3,8.6,67,38,University of Lethbridge,0.51,CANADA,CE/CS
+528,254,0.1,3.9,42,86,University of Fraser Valley,0.88,CANADA,CE/CS
+529,244,1.7,1.6,75,86,University of Winnipeg,0.3,CANADA,CE/CS
+530,6,2.0,5.2,10,82,Thompson Rivers University,0.7,CANADA,CE/CS
+531,334,3.9,1.2,32,57,University of Alberta,0.77,CANADA,CE/CS
+532,121,1.9,0.9,78,48,University of Winnipeg,0.86,CANADA,CE/CS
+533,260,0.0,4.0,29,23,McMaster University,0.12,CANADA,CE/CS
+534,292,3.1,5.5,86,95,University of New Brunswick,0.57,CANADA,CE/CS
+535,137,0.5,8.4,25,31,Queen's University,0.61,CANADA,CE/CS
+536,172,0.1,2.9,11,71,Wilfrid Laurier University,0.62,CANADA,CE/CS
+537,326,3.9,2.5,98,69,Athabasca University,0.59,CANADA,CE/CS
+538,115,0.2,8.8,12,10,University of Fraser Valley,0.94,CANADA,CE/CS
+539,186,0.1,6.5,4,87,Memorial University of Newfoundland,0.09,CANADA,CE/CS
+540,32,2.4,9.0,84,24,Queen's University,0.06,CANADA,CE/CS
+541,133,0.6,7.9,83,81,University of New Brunswick,0.28,CANADA,CE/CS
+542,93,2.7,1.0,98,24,University of British Columbia,0.89,CANADA,CE/CS
+543,301,2.8,2.0,9,14,Athabasca University,0.58,CANADA,CE/CS
+544,314,3.0,7.1,7,50,University of Prince Edward Island,0.63,CANADA,CE/CS
+545,325,3.7,0.1,9,59,University of Sherbrooke,0.66,CANADA,CE/CS
+546,76,0.6,6.6,79,77,University of Alberta,0.33,CANADA,CE/CS
+547,168,2.3,7.2,49,82,Mount Allison University,0.74,CANADA,CE/CS
+548,21,1.7,3.1,37,59,University of Winnipeg,0.32,CANADA,CE/CS
+549,155,2.0,6.5,41,43,University of New Brunswick,0.2,CANADA,CE/CS
+550,224,0.9,3.7,33,1,University of Manitoba,0.14,CANADA,CE/CS
+551,52,1.5,7.9,18,29,University of Lethbridge,0.59,CANADA,CE/CS
+552,85,2.9,2.1,3,55,Simon Fraser University,0.86,CANADA,CE/CS
+553,11,2.9,5.3,61,36,McMaster University,0.39,CANADA,CE/CS
+554,292,0.9,7.6,41,67,Queen's University,0.24,CANADA,CE/CS
+555,216,3.4,5.7,8,56,University of British Columbia,0.4,CANADA,CE/CS
+556,57,0.6,8.1,48,52,University of Sherbrooke,0.41,CANADA,CE/CS
+557,79,1.9,0.6,100,86,University of Calgary,0.45,CANADA,CE/CS
+558,159,3.7,1.1,18,94,University of Winnipeg,0.32,CANADA,CE/CS
+559,334,1.0,2.7,69,40,University of Saskatchewan,0.12,CANADA,CE/CS
+560,288,0.1,7.6,97,6,Cape Breton University,0.73,CANADA,CE/CS
+561,284,2.7,1.4,52,61,Laval University,0.03,CANADA,CE/CS
+562,175,1.7,3.8,53,6,Dalhousie University,0.74,CANADA,CE/CS
+563,261,2.0,2.9,47,77,University of Prince Edward Island,1.0,CANADA,CE/CS
+564,153,2.7,4.9,26,78,Wilfrid Laurier University,0.09,CANADA,CE/CS
+565,195,0.8,1.4,95,75,Simon Fraser University,0.24,CANADA,CE/CS
+566,114,3.8,4.8,93,93,Trent University,0.6,CANADA,CE/CS
+567,196,0.9,7.1,53,59,Carleton University,0.95,CANADA,CE/CS
+568,121,3.7,8.6,81,75,Brock University,0.62,CANADA,CE/CS
+569,266,0.9,8.6,99,96,University of Sherbrooke,0.75,CANADA,CE/CS
+570,158,4.0,6.8,70,95,University of Manitoba,0.93,CANADA,CE/CS
+571,274,3.6,4.3,6,63,McMaster University,0.48,CANADA,CE/CS
+572,93,1.5,8.8,37,18,Laurentian University,0.56,CANADA,CE/CS
+573,226,2.9,0.4,51,100,University of Montreal,0.57,CANADA,CE/CS
+574,7,1.3,4.0,13,63,University of Northern British Columbia,0.91,CANADA,CE/CS
+575,98,3.5,6.1,83,49,University of Regina,0.51,CANADA,CE/CS
+576,224,0.7,3.7,23,81,Mount Royal University,0.15,CANADA,CE/CS
+577,109,2.7,8.5,67,54,University of Manitoba,0.73,CANADA,CE/CS
+578,282,1.9,2.4,45,70,Wilfrid Laurier University,0.58,CANADA,CE/CS
+579,333,1.2,7.0,3,76,University of Saskatchewan,0.49,CANADA,CE/CS
+580,55,3.8,8.4,83,26,McGill University,0.96,CANADA,CE/CS
+581,134,0.4,6.8,95,79,University of Manitoba,0.65,CANADA,CE/CS
+582,24,3.6,6.6,80,73,York University,0.7,CANADA,CE/CS
+583,123,3.8,5.5,24,99,McMaster University,0.38,CANADA,CE/CS
+584,315,2.0,4.7,19,39,University of Prince Edward Island,0.32,CANADA,CE/CS
+585,266,0.2,0.2,99,31,University of Western Ontario,0.01,CANADA,CE/CS
+586,24,2.9,6.3,58,47,University of Waterloo,0.46,CANADA,CE/CS
+587,279,1.2,4.0,43,87,University of Victoria,0.5,CANADA,CE/CS
+588,80,2.3,4.6,24,89,University of Windsor,0.49,CANADA,CE/CS
+589,84,0.6,1.4,84,0,York University,0.14,CANADA,CE/CS
+590,20,3.2,4.3,86,20,University of Sherbrooke,0.07,CANADA,CE/CS
+591,110,3.0,9.0,54,0,University of Manitoba,0.76,CANADA,CE/CS
+592,328,2.3,6.5,84,33,University of Manitoba,0.06,CANADA,CE/CS
+593,282,2.7,4.1,63,1,University of Windsor,0.14,CANADA,CE/CS
+594,141,3.5,3.5,89,96,McMaster University,0.51,CANADA,CE/CS
+595,190,0.2,2.0,29,70,Mount Royal University,0.59,CANADA,CE/CS
+596,299,1.7,7.8,21,25,Saint Mary's University,0.06,CANADA,CE/CS
+597,4,1.2,5.9,25,44,University of Montreal,0.59,CANADA,CE/CS
+598,251,0.9,8.8,78,61,University of Ottawa,0.5,CANADA,CE/CS
+599,182,1.7,4.9,68,7,Athabasca University,0.01,CANADA,CE/CS
+600,197,2.3,1.2,53,70,Brock University,0.16,CANADA,CE/CS
+601,133,3.3,0.0,43,32,University of Sherbrooke,0.28,CANADA,CE/CS
+602,263,0.1,3.5,19,0,Wilfrid Laurier University,0.1,CANADA,CE/CS
+603,265,3.0,5.4,77,8,Mount Royal University,0.1,CANADA,CE/CS
+604,19,3.3,1.9,49,32,University of Winnipeg,0.44,CANADA,CE/CS
+605,258,2.6,6.6,2,98,University of Alberta,0.43,CANADA,CE/CS
+606,159,2.7,4.2,53,70,Bishop's University,0.97,CANADA,CE/CS
+607,41,0.7,6.7,81,87,University of Manitoba,0.84,CANADA,CE/CS
+608,219,1.0,5.5,36,67,Mount Royal University,0.33,CANADA,CE/CS
+609,318,3.4,0.6,32,31,University of Guelph,0.29,CANADA,CE/CS
+610,125,3.1,4.1,41,50,McGill University,0.52,CANADA,CE/CS
+611,285,0.6,4.4,61,74,Athabasca University,0.39,CANADA,CE/CS
+612,229,3.2,1.9,55,61,Mount Allison University,0.56,CANADA,CE/CS
+613,141,2.4,1.1,79,4,University of Northern British Columbia,0.47,CANADA,CE/CS
+614,268,0.4,8.8,82,4,University of Winnipeg,0.08,CANADA,CE/CS
+615,146,2.8,8.0,53,40,Mount Allison University,0.72,CANADA,CE/CS
+616,15,1.2,5.4,48,64,Carleton University,0.93,CANADA,CE/CS
+617,93,2.5,9.0,98,12,Memorial University of Newfoundland,0.62,CANADA,CE/CS
+618,157,0.7,8.5,2,8,Laurentian University,0.39,CANADA,CE/CS
+619,23,2.3,2.4,75,20,University of Windsor,0.27,CANADA,CE/CS
+620,332,1.7,1.1,15,79,Nipissing University,0.94,CANADA,CE/CS
+621,251,2.5,5.7,50,37,Mount Royal University,0.15,CANADA,CE/CS
+622,168,0.6,2.2,77,97,University of Winnipeg,0.54,CANADA,CE/CS
+623,312,0.3,1.7,99,26,University of Prince Edward Island,0.37,CANADA,CE/CS
+624,53,1.8,0.6,64,9,University of Manitoba,0.91,CANADA,CE/CS
+625,32,3.6,0.9,80,33,Wilfrid Laurier University,0.79,CANADA,CE/CS
+626,260,3.5,5.4,29,54,Athabasca University,0.11,CANADA,CE/CS
+627,193,2.7,0.3,65,86,Queen's University,0.47,CANADA,CE/CS
+628,240,2.4,2.2,1,88,Saint Mary's University,0.94,CANADA,CE/CS
+629,96,1.4,2.4,71,14,University of Calgary,0.74,CANADA,CE/CS
+630,228,0.7,3.7,93,68,University of Saskatchewan,0.54,CANADA,CE/CS
+631,205,2.1,2.3,39,37,University of Regina,0.11,CANADA,CE/CS
+632,332,2.9,3.4,77,39,University of Guelph,0.43,CANADA,CE/CS
+633,54,1.4,5.4,80,58,University of King's College,0.7,CANADA,CE/CS
+634,217,3.2,7.5,47,84,McGill University,0.39,CANADA,CE/CS
+635,54,3.9,4.1,41,2,University of Winnipeg,0.87,CANADA,CE/CS
+636,321,3.4,3.2,45,70,Queen's University,0.44,CANADA,CE/CS
+637,11,0.4,5.4,57,67,University of Guelph,0.07,CANADA,CE/CS
+638,136,2.0,6.7,73,83,University of Prince Edward Island,0.02,CANADA,CE/CS
+639,25,2.6,5.9,61,74,University of Manitoba,0.65,CANADA,CE/CS
+640,340,3.6,6.0,35,78,Brock University,0.7,CANADA,CE/CS
+641,340,0.6,3.8,50,47,Saint Mary's University,0.52,CANADA,CE/CS
+642,176,3.3,3.4,97,14,University of Lethbridge,0.51,CANADA,CE/CS
+643,263,0.1,8.3,34,18,University of New Brunswick,0.15,CANADA,CE/CS
+644,128,3.6,7.2,75,56,Concordia University,0.62,CANADA,CE/CS
+645,202,3.6,5.8,66,94,University of Guelph,0.38,CANADA,CE/CS
+646,125,0.9,7.2,83,53,University of Montreal,0.71,CANADA,CE/CS
+647,83,1.2,2.5,31,86,University of Waterloo,0.36,CANADA,CE/CS
+648,294,3.9,2.6,6,44,York University,0.16,CANADA,CE/CS
+649,80,1.2,7.8,74,61,Mount Royal University,0.94,CANADA,CE/CS
+650,225,2.1,5.0,34,52,Mount Allison University,0.25,CANADA,CE/CS
+651,295,0.7,0.3,29,39,Mount Royal University,0.05,CANADA,CE/CS
+652,17,2.4,5.6,24,31,University of Guelph,0.98,CANADA,CE/CS
+653,61,2.5,3.8,36,81,University of Regina,0.73,CANADA,CE/CS
+654,189,1.0,6.2,54,17,University of Toronto,0.76,CANADA,CE/CS
+655,209,1.4,7.1,92,50,University of British Columbia,0.05,CANADA,CE/CS
+656,156,0.0,6.6,71,90,University of Calgary,0.4,CANADA,CE/CS
+657,171,1.1,3.6,58,42,University of Montreal,0.95,CANADA,CE/CS
+658,148,2.8,8.8,79,73,University of Western Ontario,0.56,CANADA,CE/CS
+659,279,0.5,8.3,97,11,University of Prince Edward Island,0.48,CANADA,CE/CS
+660,134,0.0,7.6,6,44,University of Windsor,0.51,CANADA,CE/CS
+661,164,1.8,5.0,85,23,University of Victoria,0.96,CANADA,CE/CS
+662,230,2.8,0.3,98,29,University of Ottawa,0.6,CANADA,CE/CS
+663,50,3.7,4.9,17,86,Saint Mary's University,0.24,CANADA,CE/CS
+664,280,2.8,2.0,94,37,University of Alberta,0.08,CANADA,CE/CS
+665,304,3.3,4.8,39,99,University of Moncton.,0.19,CANADA,CE/CS
+666,41,2.1,3.1,54,49,York University,0.09,CANADA,CE/CS
+667,203,2.4,2.3,52,9,University of Winnipeg,0.51,CANADA,CE/CS
+668,281,2.1,0.4,46,51,Simon Fraser University,0.41,CANADA,CE/CS
+669,45,3.1,3.9,82,91,University of Moncton.,0.13,CANADA,CE/CS
+670,227,1.5,5.7,7,25,Athabasca University,0.12,CANADA,CE/CS
+671,201,1.2,3.6,75,84,Brock University,0.25,CANADA,CE/CS
+672,52,1.4,7.3,34,85,University of Manitoba,0.6,CANADA,CE/CS
+673,266,2.5,1.3,86,100,University of Manitoba,0.4,CANADA,CE/CS
+674,131,2.2,2.3,26,55,Simon Fraser University,0.61,CANADA,CE/CS
+675,270,2.4,4.9,52,92,University of Regina,0.17,CANADA,CE/CS
+676,276,3.7,7.7,99,78,University of British Columbia,0.81,CANADA,CE/CS
+677,274,0.6,4.3,31,53,Bishop's University,0.16,CANADA,CE/CS
+678,154,3.9,4.7,44,28,University of Northern British Columbia,0.07,CANADA,CE/CS
+679,272,3.0,1.1,70,70,Simon Fraser University,0.32,CANADA,CE/CS
+680,54,3.6,7.4,49,77,Nipissing University,0.96,CANADA,CE/CS
+681,41,1.4,8.0,55,87,Thompson Rivers University,0.75,CANADA,CE/CS
+682,277,2.7,1.4,75,64,University of Manitoba,0.88,CANADA,CE/CS
+683,45,3.6,5.4,64,13,University of Manitoba,0.54,CANADA,CE/CS
+684,286,3.1,3.0,8,38,Saint Mary's University,0.61,CANADA,CE/CS
+685,150,1.2,1.1,38,77,Wilfrid Laurier University,0.34,CANADA,CE/CS
+686,149,2.1,7.9,51,41,University of Fraser Valley,0.81,CANADA,CE/CS
+687,175,3.8,2.1,80,82,Memorial University of Newfoundland,0.22,CANADA,CE/CS
+688,47,2.1,7.9,80,92,Simon Fraser University,0.05,CANADA,CE/CS
+689,59,0.8,8.2,12,85,University of Prince Edward Island,0.45,CANADA,CE/CS
+690,118,3.0,3.1,20,39,York University,0.28,CANADA,CE/CS
+691,243,0.7,2.1,41,25,McMaster University,0.29,CANADA,CE/CS
+692,160,2.5,6.0,48,19,University of Manitoba,0.54,CANADA,CE/CS
+693,35,1.7,0.4,78,41,Royal Roads University,0.62,CANADA,CE/CS
+694,36,2.7,5.2,70,21,Simon Fraser University,0.5,CANADA,CE/CS
+695,109,1.9,1.9,14,3,Laval University,0.69,CANADA,CE/CS
+696,275,2.5,6.1,84,2,University of Calgary,0.65,CANADA,CE/CS
+697,74,2.6,7.0,53,66,University of British Columbia,1.0,CANADA,CE/CS
+698,188,1.1,6.9,71,74,Nipissing University,0.55,CANADA,CE/CS
+699,234,0.6,0.3,23,36,University of Regina,0.05,CANADA,CE/CS
+700,81,2.0,1.4,24,63,University of Toronto,0.92,CANADA,CE/CS
+701,238,1.8,7.2,49,11,University of Victoria,0.35,CANADA,CE/CS
+702,103,1.5,0.3,97,35,University of New Brunswick,0.45,CANADA,CE/CS
+703,20,0.7,7.7,32,28,Trent University,0.61,CANADA,CE/CS
+704,75,3.7,5.4,76,43,Simon Fraser University,0.21,CANADA,CE/CS
+705,222,3.3,0.2,52,20,Mount Allison University,0.12,CANADA,CE/CS
+706,308,2.6,7.4,69,57,University of Fraser Valley,0.96,CANADA,CE/CS
+707,57,1.0,4.2,61,98,University of Guelph,0.46,CANADA,CE/CS
+708,167,2.7,2.4,13,47,Saint Mary's University,0.85,CANADA,CE/CS
+709,207,1.0,2.8,16,65,Memorial University of Newfoundland,0.63,CANADA,CE/CS
+710,130,0.3,3.4,8,35,University of Regina,0.05,CANADA,CE/CS
+711,150,2.4,7.0,100,33,Ryerson University,0.45,CANADA,CE/CS
+712,221,2.1,1.1,30,40,Thompson Rivers University,0.9,CANADA,CE/CS
+713,57,2.5,8.3,98,9,University of Saskatchewan,0.98,CANADA,CE/CS
+714,14,1.8,4.3,92,98,McGill University,0.79,CANADA,CE/CS
+715,315,0.8,2.5,78,51,University of King's College,0.6,CANADA,CE/CS
+716,177,3.9,2.4,67,57,University of Toronto,0.2,CANADA,CE/CS
+717,242,0.6,5.8,77,32,Carleton University,0.88,CANADA,CE/CS
+718,121,1.0,5.7,74,11,Royal Roads University,0.82,CANADA,CE/CS
+719,235,0.8,0.7,13,95,University of Ottawa,0.9,CANADA,CE/CS
+720,231,2.8,6.7,73,94,Dalhousie University,0.8,CANADA,CE/CS
+721,279,1.8,7.5,24,11,Queen's University,0.13,CANADA,CE/CS
+722,224,3.7,0.4,77,86,University of Western Ontario,0.85,CANADA,CE/CS
+723,143,2.0,7.1,6,19,Thompson Rivers University,0.86,CANADA,CE/CS
+724,161,1.5,0.9,56,89,Ryerson University,0.56,CANADA,CE/CS
+725,47,1.5,5.3,69,79,Memorial University of Newfoundland,0.27,CANADA,CE/CS
+726,213,2.9,2.5,77,94,University of Lethbridge,0.28,CANADA,CE/CS
+727,116,3.5,4.5,29,2,Thompson Rivers University,0.4,CANADA,CE/CS
+728,134,3.9,8.7,24,57,McGill University,0.19,CANADA,CE/CS
+729,40,1.3,0.9,50,57,Mount Allison University,0.24,CANADA,CE/CS
+730,124,0.4,2.1,9,92,University of Victoria,0.46,CANADA,CE/CS
+731,304,2.0,4.8,81,91,University of Ontario Institute of Technology,0.63,CANADA,CE/CS
+732,166,0.2,2.6,5,14,University of Calgary,0.28,CANADA,CE/CS
+733,157,3.8,8.6,56,6,Athabasca University,0.94,CANADA,CE/CS
+734,190,2.5,4.6,12,25,University of Sherbrooke,0.93,CANADA,CE/CS
+735,268,0.3,1.5,57,71,University of Moncton.,0.05,CANADA,CE/CS
+736,274,1.4,2.5,40,78,University of New Brunswick,0.62,CANADA,CE/CS
+737,334,2.4,4.4,29,81,University of King's College,0.21,CANADA,CE/CS
+738,35,1.5,8.0,77,8,McMaster University,0.89,CANADA,CE/CS
+739,217,3.3,0.1,12,20,Queen's University,0.14,CANADA,CE/CS
+740,15,2.4,1.0,60,27,University of Sherbrooke,0.26,CANADA,CE/CS
+741,212,2.2,5.3,44,94,University of Sherbrooke,0.02,CANADA,CE/CS
+742,132,3.7,1.6,81,6,University of Fraser Valley,0.2,CANADA,CE/CS
+743,124,0.4,1.8,70,22,Trent University,0.61,CANADA,CE/CS
+744,218,1.6,4.2,97,71,University of Winnipeg,0.44,CANADA,CE/CS
+745,35,3.2,7.2,23,17,University of Toronto,0.66,CANADA,CE/CS
+746,96,1.3,2.4,46,2,University of Ontario Institute of Technology,0.73,CANADA,CE/CS
+747,11,0.6,4.5,73,53,University of Moncton.,0.53,CANADA,CE/CS
+748,124,3.7,2.8,3,46,University of British Columbia,0.84,CANADA,CE/CS
+749,128,2.5,0.1,84,88,Laval University,0.32,CANADA,CE/CS
+750,277,1.0,0.7,97,25,McGill University,0.49,CANADA,CE/CS
+751,157,0.5,0.7,44,33,University of Ottawa,0.48,CANADA,CE/CS
+752,334,3.2,2.4,25,28,University of New Brunswick,0.94,CANADA,CE/CS
+753,181,0.3,4.9,45,19,Saint Mary's University,0.6,CANADA,CE/CS
+754,65,3.6,3.9,34,13,University of New Brunswick,0.64,CANADA,CE/CS
+755,168,3.0,6.8,92,47,University of Western Ontario,0.44,CANADA,CE/CS
+756,200,2.9,6.0,48,86,Ryerson University,0.54,CANADA,CE/CS
+757,142,2.6,4.9,55,82,University of Windsor,0.43,CANADA,CE/CS
+758,307,2.7,7.9,99,16,Wilfrid Laurier University,0.73,CANADA,CE/CS
+759,6,1.7,6.5,8,58,University of Victoria,0.19,CANADA,CE/CS
+760,270,0.0,7.2,37,60,Saint Mary's University,0.48,CANADA,CE/CS
+761,321,2.6,6.8,14,6,University of Guelph,0.72,CANADA,CE/CS
+762,68,0.7,5.1,90,76,University of Moncton.,0.54,CANADA,CE/CS
+763,288,2.1,7.1,82,35,University of Toronto,0.67,CANADA,CE/CS
+764,222,2.7,3.8,33,8,Concordia University,0.32,CANADA,CE/CS
+765,260,1.7,0.3,52,94,University of Prince Edward Island,0.6,CANADA,CE/CS
+766,3,3.6,3.4,58,50,Dalhousie University,0.14,CANADA,CE/CS
+767,246,2.3,3.8,62,93,University of Lethbridge,0.48,CANADA,CE/CS
+768,218,0.1,6.5,48,77,Mount Allison University,0.11,CANADA,CE/CS
+769,197,0.8,7.8,48,73,Ryerson University,0.31,CANADA,CE/CS
+770,53,0.3,4.3,32,76,University of Winnipeg,0.01,CANADA,CE/CS
+771,248,1.5,7.7,32,13,University of Lethbridge,0.35,CANADA,CE/CS
+772,57,2.4,6.0,3,27,Mount Royal University,0.29,CANADA,CE/CS
+773,196,3.8,5.1,81,11,University of Ottawa,0.71,CANADA,CE/CS
+774,141,2.0,2.6,99,53,University of Guelph,0.27,CANADA,CE/CS
+775,61,2.0,0.4,57,57,University of Alberta,0.77,CANADA,CE/CS
+776,242,0.9,7.3,57,40,University of Northern British Columbia,0.53,CANADA,CE/CS
+777,110,1.6,0.6,68,80,University of Alberta,0.33,CANADA,CE/CS
+778,132,1.7,3.2,25,83,Bishop's University,0.24,CANADA,CE/CS
+779,231,3.8,3.4,11,69,University of British Columbia,0.19,CANADA,CE/CS
+780,13,2.8,8.2,37,40,York University,0.49,CANADA,CE/CS
+781,138,3.5,5.0,77,91,University of Manitoba,0.84,CANADA,CE/CS
+782,44,2.8,5.5,59,61,University of Lethbridge,0.39,CANADA,CE/CS
+783,183,1.0,1.4,21,94,University of Fraser Valley,0.57,CANADA,CE/CS
+784,93,1.2,3.8,70,23,University of Manitoba,0.69,CANADA,CE/CS
+785,215,0.7,1.9,81,78,University of Guelph,0.09,CANADA,CE/CS
+786,19,3.8,6.3,100,11,Royal Roads University,0.67,CANADA,CE/CS
+787,70,2.4,7.2,69,33,University of Ontario Institute of Technology,0.52,CANADA,CE/CS
+788,170,2.0,2.5,70,88,Ryerson University,0.18,CANADA,CE/CS
+789,300,2.1,4.0,83,42,Ryerson University,0.8,CANADA,CE/CS
+790,303,1.9,6.7,91,83,Trent University,0.08,CANADA,CE/CS
+791,178,2.7,4.2,7,89,University of Calgary,0.33,CANADA,CE/CS
+792,116,3.9,5.3,26,24,Ryerson University,0.11,CANADA,CE/CS
+793,104,3.8,5.5,35,74,University of Montreal,0.02,CANADA,CE/CS
+794,268,1.9,7.2,72,80,Nipissing University,0.42,CANADA,CE/CS
+795,242,2.8,3.0,44,29,Brock University,0.84,CANADA,CE/CS
+796,49,2.7,0.3,31,85,Ryerson University,0.49,CANADA,CE/CS
+797,119,3.3,8.6,14,72,University of Alberta,0.22,CANADA,CE/CS
+798,152,3.7,8.4,63,80,Bishop's University,0.02,CANADA,CE/CS
+799,221,1.8,3.0,70,90,Bishop's University,0.53,CANADA,CE/CS
+800,21,2.6,5.6,7,48,Royal Roads University,0.61,CANADA,CE/CS
+801,23,2.9,0.6,97,44,Mount Royal University,0.87,CANADA,CE/CS
+802,242,0.8,5.2,92,13,York University,0.1,CANADA,CE/CS
+803,74,3.2,4.9,60,88,Cape Breton University,0.98,CANADA,CE/CS
+804,156,0.1,1.8,22,76,Wilfrid Laurier University,0.27,CANADA,CE/CS
+805,243,2.7,3.4,28,53,University of Alberta,0.23,CANADA,CE/CS
+806,170,1.2,3.0,46,99,University of Saskatchewan,0.29,CANADA,CE/CS
+807,195,3.4,0.3,96,28,University of Sherbrooke,0.19,CANADA,CE/CS
+808,246,3.5,2.7,95,45,University of Guelph,0.45,CANADA,CE/CS
+809,322,2.3,0.4,41,88,University of Manitoba,0.24,CANADA,CE/CS
+810,122,1.6,5.3,31,54,McGill University,0.04,CANADA,CE/CS
+811,211,1.5,7.0,56,74,Concordia University,0.85,CANADA,CE/CS
+812,287,2.5,0.7,84,61,Ryerson University,0.46,CANADA,CE/CS
+813,337,3.3,6.4,8,17,McGill University,0.52,CANADA,CE/CS
+814,148,3.5,8.1,16,87,Thompson Rivers University,0.54,CANADA,CE/CS
+815,64,1.1,3.5,66,96,Mount Allison University,0.42,CANADA,CE/CS
+816,177,1.1,5.1,11,47,Trent University,0.64,CANADA,CE/CS
+817,122,3.8,8.4,41,94,University of Montreal,0.19,CANADA,CE/CS
+818,49,3.9,0.7,29,98,University of Lethbridge,0.74,CANADA,CE/CS
+819,246,2.6,5.3,18,47,University of Fraser Valley,0.24,CANADA,CE/CS
+820,216,3.8,8.5,82,13,University of Sherbrooke,0.57,CANADA,CE/CS
+821,245,2.4,6.2,78,37,Athabasca University,0.23,CANADA,CE/CS
+822,294,3.6,4.1,44,20,Carleton University,0.18,CANADA,CE/CS
+823,245,0.1,6.0,52,48,Simon Fraser University,0.05,CANADA,CE/CS
+824,138,3.8,0.8,29,73,University of King's College,0.29,CANADA,CE/CS
+825,327,3.7,6.3,44,71,Saint Mary's University,0.6,CANADA,CE/CS
+826,196,1.4,4.3,15,53,University of Ontario Institute of Technology,0.37,CANADA,CE/CS
+827,131,0.0,2.7,79,8,Wilfrid Laurier University,0.94,CANADA,CE/CS
+828,291,3.6,3.3,69,100,Trent University,0.56,CANADA,CE/CS
+829,255,3.7,2.1,75,66,Brock University,0.67,CANADA,CE/CS
+830,320,3.2,3.7,50,51,Brock University,0.1,CANADA,CE/CS
+831,226,3.1,4.0,99,3,University of Western Ontario,0.71,CANADA,CE/CS
+832,201,2.8,6.4,83,75,University of Winnipeg,0.8,CANADA,CE/CS
+833,302,2.9,7.0,3,66,University of Northern British Columbia,0.39,CANADA,CE/CS
+834,106,2.2,5.1,17,47,Wilfrid Laurier University,0.22,CANADA,CE/CS
+835,179,3.9,0.3,41,96,University of Waterloo,0.63,CANADA,CE/CS
+836,321,3.1,7.0,71,90,University of New Brunswick,0.8,CANADA,CE/CS
+837,223,3.5,3.3,81,26,Carleton University,0.65,CANADA,CE/CS
+838,310,1.3,9.0,77,12,Laurentian University,0.39,CANADA,CE/CS
+839,120,3.0,0.4,67,8,Trent University,0.79,CANADA,CE/CS
+840,71,2.2,7.3,74,61,Queen's University,0.99,CANADA,CE/CS
+841,301,1.5,7.3,61,35,Concordia University,0.9,CANADA,CE/CS
+842,252,2.6,7.9,52,3,Concordia University,0.64,CANADA,CE/CS
+843,208,0.5,6.2,41,84,Thompson Rivers University,0.71,CANADA,CE/CS
+844,193,1.1,4.4,16,9,Wilfrid Laurier University,0.09,CANADA,CE/CS
+845,227,4.0,0.2,21,36,University of Alberta,0.05,CANADA,CE/CS
+846,37,3.1,6.5,64,87,University of New Brunswick,0.14,CANADA,CE/CS
+847,184,2.7,4.1,86,77,Brock University,0.64,CANADA,CE/CS
+848,282,1.1,2.2,69,68,University of Ottawa,0.67,CANADA,CE/CS
+849,287,0.6,1.5,12,40,Concordia University,0.77,CANADA,CE/CS
+850,158,2.3,1.6,58,98,Nipissing University,0.26,CANADA,CE/CS
+851,73,3.2,6.2,88,57,University of Sherbrooke,0.3,CANADA,CE/CS
+852,245,2.4,1.7,88,67,Brock University,0.07,CANADA,CE/CS
+853,174,3.7,3.5,5,5,University of New Brunswick,0.71,CANADA,CE/CS
+854,70,0.3,6.2,19,85,University of Windsor,0.68,CANADA,CE/CS
+855,259,1.6,7.9,2,93,York University,0.29,CANADA,CE/CS
+856,232,3.0,2.2,76,66,Carleton University,0.04,CANADA,CE/CS
+857,325,1.6,1.6,41,37,Concordia University,0.07,CANADA,CE/CS
+858,305,0.7,4.0,39,85,McGill University,0.05,CANADA,CE/CS
+859,171,2.5,3.3,30,27,University of Toronto,0.06,CANADA,CE/CS
+860,27,1.2,5.8,26,55,Simon Fraser University,0.96,CANADA,CE/CS
+861,174,2.3,1.9,17,67,University of Manitoba,0.13,CANADA,CE/CS
+862,339,3.4,6.0,45,9,University of Calgary,0.24,CANADA,CE/CS
+863,319,3.2,6.8,84,57,University of Guelph,0.08,CANADA,CE/CS
+864,223,2.8,1.2,57,48,Concordia University,0.85,CANADA,CE/CS
+865,147,1.7,8.4,67,69,University of British Columbia,0.63,CANADA,CE/CS
+866,62,3.3,0.4,58,5,Nipissing University,0.36,CANADA,CE/CS
+867,75,2.9,4.8,90,0,McGill University,0.31,CANADA,CE/CS
+868,136,1.0,2.1,35,49,University of New Brunswick,0.85,CANADA,CE/CS
+869,54,2.0,0.4,66,35,Thompson Rivers University,1.0,CANADA,CE/CS
+870,266,3.5,4.2,57,39,Brock University,0.92,CANADA,CE/CS
+871,195,2.8,2.6,52,11,Queen's University,0.29,CANADA,CE/CS
+872,191,3.9,4.8,67,69,University of Prince Edward Island,0.41,CANADA,CE/CS
+873,293,0.9,3.6,57,93,University of New Brunswick,0.58,CANADA,CE/CS
+874,82,2.0,4.7,72,33,University of Toronto,0.15,CANADA,CE/CS
+875,152,3.0,7.8,51,79,University of Windsor,0.6,CANADA,CE/CS
+876,108,2.6,4.9,54,79,Trent University,0.2,CANADA,CE/CS
+877,260,2.6,4.9,4,36,University of Moncton.,0.75,CANADA,CE/CS
+878,43,2.6,6.2,31,80,University of Moncton.,0.7,CANADA,CE/CS
+879,184,4.0,3.6,90,36,University of Regina,0.89,CANADA,CE/CS
+880,301,1.3,6.8,35,96,Brock University,0.71,CANADA,CE/CS
+881,110,2.8,6.6,7,98,McGill University,0.38,CANADA,CE/CS
+882,126,0.1,5.9,49,80,Carleton University,0.92,CANADA,CE/CS
+883,275,4.0,5.3,63,78,University of New Brunswick,0.84,CANADA,CE/CS
+884,129,1.7,1.6,81,23,Laurentian University,0.52,CANADA,CE/CS
+885,330,3.9,4.6,28,21,University of Ontario Institute of Technology,0.24,CANADA,CE/CS
+886,41,2.7,5.6,7,24,Laurentian University,0.02,CANADA,CE/CS
+887,54,2.4,3.1,84,42,University of Manitoba,0.61,CANADA,CE/CS
+888,231,0.2,1.8,25,27,University of Winnipeg,0.52,CANADA,CE/CS
+889,215,3.0,4.2,7,21,University of Ottawa,0.56,CANADA,CE/CS
+890,213,2.7,5.1,50,0,Trent University,0.58,CANADA,CE/CS
+891,219,1.9,5.1,8,32,Laurentian University,0.22,CANADA,CE/CS
+892,98,3.6,0.3,55,52,University of Ontario Institute of Technology,0.86,CANADA,CE/CS
+893,216,1.7,5.1,69,61,University of Winnipeg,0.69,CANADA,CE/CS
+894,318,1.0,1.3,81,76,Brock University,0.75,CANADA,CE/CS
+895,274,0.3,8.1,90,53,University of Waterloo,0.97,CANADA,CE/CS
+896,113,0.6,2.4,29,14,Memorial University of Newfoundland,0.16,CANADA,CE/CS
+897,11,0.1,1.7,44,4,University of King's College,0.88,CANADA,CE/CS
+898,321,1.7,7.6,59,24,University of Manitoba,0.82,CANADA,CE/CS
+899,248,0.6,2.9,75,24,Cape Breton University,0.65,CANADA,CE/CS
+900,55,1.9,1.7,60,31,University of Northern British Columbia,0.83,CANADA,CE/CS
+901,72,2.5,0.0,48,72,Nipissing University,0.02,CANADA,CE/CS
+902,311,2.6,2.6,24,15,Memorial University of Newfoundland,0.69,CANADA,CE/CS
+903,157,3.5,4.2,14,44,Mount Royal University,0.82,CANADA,CE/CS
+904,0,2.3,5.5,99,37,Trent University,0.67,CANADA,CE/CS
+905,175,2.7,8.1,28,45,University of Victoria,0.91,CANADA,CE/CS
+906,24,2.4,1.7,68,59,Laval University,0.92,CANADA,CE/CS
+907,35,0.8,1.2,56,8,University of Manitoba,0.55,CANADA,CE/CS
+908,316,3.5,6.6,63,50,University of Manitoba,0.28,CANADA,CE/CS
+909,101,2.2,3.0,49,6,University of Sherbrooke,0.3,CANADA,CE/CS
+910,119,1.7,7.7,9,23,University of King's College,0.42,CANADA,CE/CS
+911,109,1.7,2.6,58,86,Wilfrid Laurier University,0.93,CANADA,CE/CS
+912,117,3.4,1.1,49,26,Royal Roads University,0.61,CANADA,CE/CS
+913,288,2.9,6.7,48,94,Simon Fraser University,0.31,CANADA,CE/CS
+914,53,2.5,2.1,97,12,Dalhousie University,0.33,CANADA,CE/CS
+915,26,3.1,0.1,88,68,University of Guelph,0.44,CANADA,CE/CS
+916,77,1.8,6.1,74,75,Brock University,0.88,CANADA,CE/CS
+917,303,3.7,7.5,55,12,University of New Brunswick,0.16,CANADA,CE/CS
+918,204,1.5,6.3,66,1,University of Saskatchewan,0.93,CANADA,CE/CS
+919,292,3.4,6.0,94,39,Laurentian University,0.23,CANADA,CE/CS
+920,80,2.3,3.5,61,91,Laval University,0.17,CANADA,CE/CS
+921,154,2.7,8.8,72,35,Saint Mary's University,0.98,CANADA,CE/CS
+922,6,1.4,7.3,43,39,University of British Columbia,0.78,CANADA,CE/CS
+923,111,1.8,0.3,70,14,University of Prince Edward Island,0.33,CANADA,CE/CS
+924,297,3.3,5.0,50,32,Memorial University of Newfoundland,0.59,CANADA,CE/CS
+925,298,2.6,0.4,55,77,Laurentian University,0.62,CANADA,CE/CS
+926,155,1.5,4.3,85,25,University of British Columbia,0.73,CANADA,CE/CS
+927,125,0.5,0.3,16,26,University of Waterloo,0.92,CANADA,CE/CS
+928,197,3.2,2.5,4,85,Laval University,0.5,CANADA,CE/CS
+929,53,3.9,3.3,50,50,University of Waterloo,0.98,CANADA,CE/CS
+930,77,1.5,7.0,6,18,University of Moncton.,0.12,CANADA,CE/CS
+931,7,1.8,1.4,14,98,University of Northern British Columbia,0.86,CANADA,CE/CS
+932,108,2.7,6.6,59,84,Brock University,0.1,CANADA,CE/CS
+933,315,2.4,3.0,90,51,Ryerson University,0.08,CANADA,CE/CS
+934,314,2.3,5.8,62,60,Royal Roads University,0.56,CANADA,CE/CS
+935,91,3.2,6.3,80,65,Thompson Rivers University,0.16,CANADA,CE/CS
+936,330,2.8,2.3,44,96,University of Waterloo,0.84,CANADA,CE/CS
+937,42,1.2,0.3,94,41,Simon Fraser University,0.03,CANADA,CE/CS
+938,313,1.9,7.9,55,84,McMaster University,1.0,CANADA,CE/CS
+939,152,2.7,2.9,19,21,University of Toronto,0.12,CANADA,CE/CS
+940,187,0.3,8.6,56,17,University of British Columbia,0.46,CANADA,CE/CS
+941,290,0.3,4.6,51,28,Royal Roads University,0.91,CANADA,CE/CS
+942,7,1.3,6.4,31,18,University of Moncton.,0.2,CANADA,CE/CS
+943,191,2.1,8.0,63,55,Laval University,0.92,CANADA,CE/CS
+944,5,4.0,8.8,44,79,Laurentian University,0.01,CANADA,CE/CS
+945,99,0.5,2.2,86,42,University of Lethbridge,0.36,CANADA,CE/CS
+946,272,2.9,1.4,8,62,University of Waterloo,0.39,CANADA,CE/CS
+947,320,2.7,0.8,74,59,University of Montreal,0.16,CANADA,CE/CS
+948,47,3.5,0.5,51,58,Mount Royal University,0.52,CANADA,CE/CS
+949,61,2.4,0.7,20,81,Simon Fraser University,0.6,CANADA,CE/CS
+950,37,3.6,7.8,72,100,University of Waterloo,0.37,CANADA,CE/CS
+951,30,2.9,4.7,49,94,McMaster University,0.33,CANADA,CE/CS
+952,244,3.1,2.7,86,46,University of Guelph,0.58,CANADA,CE/CS
+953,330,2.2,7.8,72,36,University of Toronto,0.24,CANADA,CE/CS
+954,274,1.6,8.4,55,81,Cape Breton University,0.11,CANADA,CE/CS
+955,38,3.0,5.2,93,89,University of Fraser Valley,0.07,CANADA,CE/CS
+956,151,1.5,8.8,60,16,University of Regina,0.93,CANADA,CE/CS
+957,199,0.4,4.6,67,27,Concordia University,0.97,CANADA,CE/CS
+958,241,2.4,5.2,89,86,Simon Fraser University,0.36,CANADA,CE/CS
+959,46,2.0,0.1,25,34,Cape Breton University,0.93,CANADA,CE/CS
+960,87,1.7,5.2,28,33,Laval University,0.1,CANADA,CE/CS
+961,220,0.1,1.3,19,80,University of Fraser Valley,0.32,CANADA,CE/CS
+962,317,2.8,3.0,7,70,University of Northern British Columbia,0.84,CANADA,CE/CS
+963,74,0.3,3.2,45,84,Nipissing University,0.83,CANADA,CE/CS
+964,105,0.7,5.2,27,72,University of Windsor,0.12,CANADA,CE/CS
+965,119,2.3,1.2,24,85,University of Fraser Valley,0.88,CANADA,CE/CS
+966,229,1.5,3.0,7,16,University of Prince Edward Island,0.57,CANADA,CE/CS
+967,308,1.6,8.1,75,23,Queen's University,0.3,CANADA,CE/CS
+968,269,3.0,6.8,92,21,University of Victoria,0.85,CANADA,CE/CS
+969,25,2.7,1.1,33,93,University of New Brunswick,0.71,CANADA,CE/CS
+970,230,3.2,4.2,72,43,University of Western Ontario,0.41,CANADA,CE/CS
+971,176,2.2,4.3,65,10,Royal Roads University,0.06,CANADA,CE/CS
+972,299,1.1,3.9,76,15,University of Toronto,0.51,CANADA,CE/CS
+973,148,1.4,0.6,92,90,Thompson Rivers University,0.42,CANADA,CE/CS
+974,50,1.3,7.2,76,49,University of Winnipeg,0.33,CANADA,CE/CS
+975,114,1.8,0.5,43,85,University of New Brunswick,0.55,CANADA,CE/CS
+976,203,3.1,7.0,92,32,York University,0.18,CANADA,CE/CS
+977,264,0.9,7.1,68,9,University of Lethbridge,0.51,CANADA,CE/CS
+978,196,3.8,7.6,55,92,University of Alberta,0.58,CANADA,CE/CS
+979,98,2.9,0.4,75,59,Bishop's University,0.4,CANADA,CE/CS
+980,182,2.4,0.3,27,53,University of Sherbrooke,0.89,CANADA,CE/CS
+981,329,2.9,0.5,10,68,Laurentian University,0.01,CANADA,CE/CS
+982,152,1.5,5.1,98,4,University of Manitoba,0.01,CANADA,CE/CS
+983,36,1.4,5.5,83,71,Athabasca University,0.63,CANADA,CE/CS
+984,301,1.5,7.8,45,63,Bishop's University,0.81,CANADA,CE/CS
+985,252,4.0,7.1,27,63,Saint Mary's University,0.53,CANADA,CE/CS
+986,302,1.8,3.7,29,62,University of Toronto,0.84,CANADA,CE/CS
+987,39,3.0,7.1,53,6,University of Regina,0.18,CANADA,CE/CS
+988,310,3.0,5.6,13,56,Memorial University of Newfoundland,0.15,CANADA,CE/CS
+989,79,1.4,6.8,23,78,University of Western Ontario,0.23,CANADA,CE/CS
+990,327,1.0,4.8,44,19,University of Prince Edward Island,0.92,CANADA,CE/CS
+991,44,3.4,1.2,50,10,Mount Royal University,0.76,CANADA,CE/CS
+992,231,1.0,4.2,44,13,Mount Allison University,0.69,CANADA,CE/CS
+993,131,2.3,4.5,41,79,University of Victoria,0.3,CANADA,CE/CS
+994,58,1.6,6.6,21,73,Royal Roads University,0.43,CANADA,CE/CS
+995,65,2.7,6.6,30,64,Thompson Rivers University,0.5,CANADA,CE/CS
+996,159,3.6,4.4,51,47,Cape Breton University,0.43,CANADA,CE/CS
+997,15,1.3,2.7,33,35,University of Ottawa,0.84,CANADA,CE/CS
+998,70,1.9,2.4,10,98,University of Prince Edward Island,0.04,CANADA,CE/CS

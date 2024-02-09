@@ -1,0 +1,1999 @@
+GRE Score,GPA,IELTS Score,Research Paper,University Ranking,University Name,Admit Probability,country,course
+51,0.5,3.7,55,77,California Institute of Technology (Caltech),0.62,US,CE/CS
+163,1.0,8.0,45,66,Los Angeles (UCLA),0.11,US,CE/CS
+176,1.2,4.9,7,83,University of Rochester,0.22,US,CE/CS
+145,1.7,4.3,37,67,University of Notre Dame,0.58,US,CE/CS
+44,2.2,2.3,5,55,University of Virginia,0.04,US,CE/CS
+209,3.9,4.4,95,17,University of Chicago,0.93,US,CE/CS
+7,0.3,8.2,25,86,Clemson University,0.83,US,CE/CS
+65,2.1,5.2,84,87,Princeton University,0.14,US,CE/CS
+94,4.0,8.2,80,35,University of Virginia,0.14,US,CE/CS
+222,0.3,8.5,66,13,Johns Hopkins University,0.88,US,CE/CS
+131,2.7,2.9,92,49,San Diego (UCSD),0.95,US,CE/CS
+224,1.1,7.9,37,32,Auburn University.,0.04,US,CE/CS
+271,3.9,6.8,28,67,University of Notre Dame,0.84,US,CE/CS
+157,0.3,7.7,57,71,University of California,0.59,US,CE/CS
+255,1.3,7.5,3,25,Northwestern University,0.61,US,CE/CS
+215,1.9,5.5,87,8,University of Pittsburgh,0.24,US,CE/CS
+268,2.0,6.7,17,29,Michigan State University,0.67,US,CE/CS
+231,2.1,1.0,36,64,University of California,0.1,US,CE/CS
+109,2.8,5.3,44,79,University of Colorado Boulder,0.13,US,CE/CS
+72,1.6,2.5,56,46,Davis (UC Davis),0.58,US,CE/CS
+298,2.4,7.6,76,40,University of Michigan - Ann Arbor,0.45,US,CE/CS
+50,2.6,1.3,60,60,Iowa State University,0.77,US,CE/CS
+146,3.0,1.7,56,5,Northwestern University,0.47,US,CE/CS
+16,3.8,4.2,60,67,Colorado State University,0.77,US,CE/CS
+150,3.8,2.8,50,81,Johns Hopkins University,0.35,US,CE/CS
+20,1.3,0.3,26,68,University of Virginia,0.25,US,CE/CS
+222,0.9,8.7,60,4,The State University of New Jersey,0.56,US,CE/CS
+233,1.6,6.3,55,43,Iowa State University,0.1,US,CE/CS
+44,2.0,6.7,59,28,University of Oklahoma,0.85,US,CE/CS
+255,1.2,1.7,80,57,University of California,0.28,US,CE/CS
+245,1.1,3.7,77,75,Purdue University,0.38,US,CE/CS
+153,0.8,6.9,54,86,University of Oregon,0.64,US,CE/CS
+93,0.3,2.3,19,26,University of Maryland,0.73,US,CE/CS
+276,0.6,2.3,62,97,Georgia Institute of Technology,0.21,US,CE/CS
+253,2.4,5.0,38,3,University of Wisconsin-Madison,0.41,US,CE/CS
+59,0.8,6.7,53,33,University of Kansas,0.81,US,CE/CS
+254,2.6,7.9,57,46,Massachusetts Institute of Technology (MIT),0.79,US,CE/CS
+102,2.6,3.3,12,18,Florida State University,0.02,US,CE/CS
+251,1.3,1.7,62,6,University of South Carolina,0.18,US,CE/CS
+322,2.3,2.1,50,43,Swiss Federal Institute of Technology (ETH Zurich),0.95,US,CE/CS
+340,2.2,4.0,47,72,California Institute of Technology (Caltech),0.05,US,CE/CS
+202,0.8,3.2,76,51,Ohio State University,0.94,US,CE/CS
+7,1.1,7.9,90,28,University of Delaware,0.95,US,CE/CS
+74,3.0,4.9,85,17,Santa Barbara (UCSB),0.96,US,CE/CS
+273,1.6,4.5,88,82,University of California,0.0,US,CE/CS
+337,3.5,6.1,59,21,Brown University,0.95,US,CE/CS
+19,3.5,6.5,26,68,University of Notre Dame,0.27,US,CE/CS
+77,0.2,3.5,42,26,College Park,0.4,US,CE/CS
+174,0.6,8.2,51,6,University of Washington,0.65,US,CE/CS
+89,2.4,7.3,41,87,New York University (NYU),0.84,US,CE/CS
+312,1.8,8.5,61,46,Purdue University,0.65,US,CE/CS
+32,3.2,6.5,21,25,University of Florida,0.75,US,CE/CS
+145,1.9,7.2,11,25,Berkeley,0.92,US,CE/CS
+294,2.7,2.0,98,19,University of Chicago,0.01,US,CE/CS
+161,2.4,0.8,33,61,Iowa State University,0.79,US,CE/CS
+261,3.3,4.1,77,74,University of Pittsburgh,0.73,US,CE/CS
+18,1.9,2.7,96,49,Los Angeles (UCLA),0.09,US,CE/CS
+255,0.0,3.2,38,15,Vanderbilt University,0.5,US,CE/CS
+130,0.3,1.3,90,68,Brown University,0.08,US,CE/CS
+75,3.7,4.2,71,70,College Park,0.05,US,CE/CS
+3,2.8,1.5,9,16,University of Florida,0.06,US,CE/CS
+72,2.4,8.7,80,67,Vanderbilt University,0.53,US,CE/CS
+188,3.9,0.7,79,86,Rutgers,0.45,US,CE/CS
+30,3.7,8.9,4,15,University of Nebraska-Lincoln,0.77,US,CE/CS
+285,1.8,3.6,83,71,Princeton University,0.31,US,CE/CS
+324,0.8,8.6,26,52,University of Florida,0.06,US,CE/CS
+211,0.1,8.6,17,100,University of Maryland,0.53,US,CE/CS
+193,2.7,3.2,2,89,Swiss Federal Institute of Technology (ETH Zurich),0.49,US,CE/CS
+129,1.0,8.4,97,50,University of New Hampshire,0.3,US,CE/CS
+94,2.0,1.7,45,57,University of Chicago,0.18,US,CE/CS
+194,0.3,4.3,6,43,University of Virginia,0.98,US,CE/CS
+240,1.7,2.4,77,18,University of Connecticut,0.53,US,CE/CS
+210,1.6,9.0,28,91,University of Kansas,0.61,US,CE/CS
+122,0.7,2.6,97,76,Johns Hopkins University,0.09,US,CE/CS
+136,1.1,6.5,25,92,Texas A&M University,0.92,US,CE/CS
+290,2.2,7.5,70,8,College Park,0.29,US,CE/CS
+94,0.1,3.6,87,37,University of California,0.29,US,CE/CS
+178,0.5,8.1,50,40,California Institute of Technology (Caltech),0.36,US,CE/CS
+266,2.9,2.4,42,28,University of California,0.49,US,CE/CS
+300,1.9,1.1,23,56,Vanderbilt University,0.48,US,CE/CS
+289,0.9,6.8,88,66,Case Western Reserve University,0.22,US,CE/CS
+224,0.8,2.0,51,48,University of Washington,0.84,US,CE/CS
+288,3.0,7.9,27,34,Texas A&M University,0.74,US,CE/CS
+81,1.2,3.2,18,67,Colorado State University,0.19,US,CE/CS
+129,2.3,2.4,32,29,Emory University,0.15,US,CE/CS
+273,2.4,3.0,11,80,University of California,0.4,US,CE/CS
+198,1.6,7.0,74,63,Stanford University,0.55,US,CE/CS
+228,1.8,6.3,66,91,University of Maryland,0.43,US,CE/CS
+193,1.7,1.4,60,55,University of Miami,0.71,US,CE/CS
+257,0.9,1.0,55,19,Auburn University.,0.29,US,CE/CS
+21,3.9,7.7,48,23,University of South Carolina,0.45,US,CE/CS
+284,3.3,6.3,95,7,Michigan State University,0.1,US,CE/CS
+205,0.8,4.2,62,94,University of Pittsburgh,0.25,US,CE/CS
+108,0.6,6.7,99,60,University of Pittsburgh,0.42,US,CE/CS
+140,1.1,4.9,88,53,University of California,0.59,US,CE/CS
+304,1.9,8.0,1,41,Harvard University,0.89,US,CE/CS
+110,0.2,5.0,83,100,University of Florida,0.91,US,CE/CS
+170,0.7,1.0,24,37,Los Angeles (UCLA),0.31,US,CE/CS
+15,2.3,3.0,42,34,University of Minnesota - Twin Cities,0.8,US,CE/CS
+96,0.2,0.3,70,20,University of California,0.51,US,CE/CS
+227,3.7,3.3,44,0,University of Virginia,0.68,US,CE/CS
+304,0.8,5.9,34,45,Colorado State University,0.71,US,CE/CS
+280,3.6,4.7,5,69,Florida State University,0.59,US,CE/CS
+140,2.0,8.8,9,73,Massachusetts Institute of Technology (MIT),0.55,US,CE/CS
+267,3.6,7.9,35,16,Irvine (UCI),0.81,US,CE/CS
+121,1.4,2.9,29,81,University of Southern California (USC),0.63,US,CE/CS
+143,1.1,2.4,85,92,University of Florida,0.31,US,CE/CS
+275,2.7,4.1,50,13,University of California,0.5,US,CE/CS
+320,2.1,5.0,58,88,University of Colorado Boulder,0.3,US,CE/CS
+173,0.6,6.7,93,71,University of California,0.63,US,CE/CS
+140,2.4,1.9,5,38,Boston University,0.95,US,CE/CS
+104,2.2,7.1,85,30,Auburn University.,0.84,US,CE/CS
+265,2.7,6.1,73,42,University of Wisconsin-Madison,0.18,US,CE/CS
+10,3.8,7.7,80,3,University of Maryland,0.18,US,CE/CS
+130,3.7,8.8,74,42,Texas A&M University,0.24,US,CE/CS
+111,3.8,5.8,51,5,University of California,0.48,US,CE/CS
+102,2.4,6.1,65,14,University of Alabama,0.43,US,CE/CS
+33,2.3,4.4,34,29,University of Virginia,0.19,US,CE/CS
+296,2.0,2.8,56,5,University of Minnesota - Twin Cities,0.72,US,CE/CS
+308,1.0,0.5,76,47,George Washington University,0.95,US,CE/CS
+313,2.1,6.5,8,25,University of Virginia,0.81,US,CE/CS
+206,3.4,7.4,90,7,University of Arizona,0.2,US,CE/CS
+323,3.4,1.0,59,47,University of New Hampshire,0.29,US,CE/CS
+38,3.2,8.0,17,94,University of California,0.73,US,CE/CS
+173,3.3,8.9,95,79,Purdue University,0.99,US,CE/CS
+137,3.5,6.1,19,75,Michigan State University,0.58,US,CE/CS
+284,0.4,3.8,100,11,University of Oregon,0.54,US,CE/CS
+179,0.0,8.0,92,43,University of Southern California (USC),0.9,US,CE/CS
+193,1.3,4.7,76,19,University of Iowa,0.3,US,CE/CS
+172,2.0,3.0,38,15,Riverside,0.76,US,CE/CS
+304,1.1,3.2,41,83,Emory University,0.63,US,CE/CS
+161,1.2,6.9,76,22,Case Western Reserve University,0.08,US,CE/CS
+319,0.7,1.0,61,86,University of Delaware,0.17,US,CE/CS
+82,3.8,5.7,46,18,University of Nebraska-Lincoln,0.25,US,CE/CS
+270,2.2,5.1,60,16,Berkeley,0.43,US,CE/CS
+128,2.3,6.3,43,17,Texas A&M University,0.59,US,CE/CS
+150,1.4,7.4,71,48,University of Maryland,0.57,US,CE/CS
+141,0.4,5.1,15,84,University of Miami,0.27,US,CE/CS
+41,0.4,0.8,83,81,University of California,0.79,US,CE/CS
+325,0.2,6.7,52,59,University of California,0.87,US,CE/CS
+210,0.9,4.9,84,8,University of Iowa,0.09,US,CE/CS
+65,1.5,0.1,70,82,George Washington University,0.77,US,CE/CS
+24,0.1,0.3,82,16,University of California,0.92,US,CE/CS
+14,0.2,7.8,39,36,University of Nebraska-Lincoln,0.8,US,CE/CS
+297,2.8,5.6,1,78,San Diego (UCSD),0.81,US,CE/CS
+97,1.2,1.8,75,52,Washington University in St. Louis,0.06,US,CE/CS
+142,1.6,3.7,11,87,University of Pittsburgh,0.98,US,CE/CS
+70,0.3,5.9,36,87,Pennsylvania State University,0.22,US,CE/CS
+284,2.6,1.8,61,14,University of Washington,0.59,US,CE/CS
+263,2.3,3.2,82,100,University of Oregon,0.97,US,CE/CS
+152,3.9,2.1,47,29,Riverside,0.51,US,CE/CS
+156,2.6,0.3,68,85,University of California,0.3,US,CE/CS
+208,1.4,2.6,98,79,University of California,0.9,US,CE/CS
+46,3.9,6.6,54,21,University of Maryland,0.32,US,CE/CS
+168,0.8,7.5,74,59,University of California,0.55,US,CE/CS
+185,2.4,6.7,50,66,California Institute of Technology (Caltech),0.64,US,CE/CS
+118,2.6,5.8,71,81,University of California,0.0,US,CE/CS
+196,0.5,4.7,4,16,Princeton University,0.56,US,CE/CS
+233,2.2,6.6,10,10,University of Minnesota - Twin Cities,0.54,US,CE/CS
+231,1.0,2.3,60,79,Swiss Federal Institute of Technology (ETH Zurich),0.07,US,CE/CS
+195,2.4,7.2,37,20,Virginia Tech,0.84,US,CE/CS
+223,2.8,8.1,57,37,University of Rochester,0.88,US,CE/CS
+324,2.1,1.6,79,47,University of South Carolina,0.91,US,CE/CS
+281,3.1,5.1,73,40,University of Florida,0.38,US,CE/CS
+181,0.2,5.5,9,15,University of Maryland,0.85,US,CE/CS
+101,0.0,3.8,70,86,Case Western Reserve University,0.16,US,CE/CS
+62,2.0,6.9,44,39,Riverside,0.28,US,CE/CS
+259,1.0,4.8,33,83,University of Kansas,0.72,US,CE/CS
+20,0.3,5.5,100,20,Ohio State University,0.04,US,CE/CS
+25,0.3,5.9,6,40,University of Connecticut,0.82,US,CE/CS
+249,0.8,3.2,37,43,Emory University,0.82,US,CE/CS
+223,3.4,3.7,75,70,Johns Hopkins University,0.19,US,CE/CS
+165,0.9,5.3,52,89,University of Virginia,0.81,US,CE/CS
+197,3.9,7.5,17,56,Texas A&M University,0.45,US,CE/CS
+254,2.8,6.2,55,100,University of Notre Dame,0.78,US,CE/CS
+231,0.1,8.3,95,100,Pennsylvania State University,0.3,US,CE/CS
+228,0.7,3.2,75,57,Rutgers,0.87,US,CE/CS
+214,0.2,0.8,3,93,University of Michigan - Ann Arbor,0.16,US,CE/CS
+132,1.6,0.6,92,69,University of California,0.31,US,CE/CS
+315,1.9,1.9,56,19,University of Pittsburgh,0.05,US,CE/CS
+63,1.3,0.7,49,62,Stanford University,0.52,US,CE/CS
+85,1.5,5.8,76,90,San Francisco (UCSF),0.91,US,CE/CS
+189,3.4,6.3,76,43,Columbia University,0.35,US,CE/CS
+338,2.9,3.8,25,39,University of Nebraska-Lincoln,0.84,US,CE/CS
+114,3.4,0.0,48,98,University of Cincinnati,0.35,US,CE/CS
+5,2.3,2.9,52,35,Davis (UC Davis),0.02,US,CE/CS
+209,2.9,1.8,8,10,Johns Hopkins University,0.28,US,CE/CS
+166,3.8,8.6,81,84,University of Colorado Boulder,0.42,US,CE/CS
+299,2.1,7.8,62,87,University of Iowa,0.13,US,CE/CS
+116,3.2,6.8,12,31,Rice University,0.33,US,CE/CS
+309,2.1,8.2,54,2,Rice University,0.54,US,CE/CS
+327,3.4,2.2,74,68,Rice University,0.57,US,CE/CS
+114,3.7,2.2,93,96,University of Arizona,0.03,US,CE/CS
+265,3.8,5.9,56,59,Harvard University,0.87,US,CE/CS
+51,3.3,5.1,34,84,University of California,0.58,US,CE/CS
+334,0.9,4.5,30,78,University of Rochester,0.04,US,CE/CS
+236,1.3,6.8,74,25,University of Minnesota - Twin Cities,0.43,US,CE/CS
+313,1.6,4.4,52,46,University of Nebraska-Lincoln,0.74,US,CE/CS
+187,3.7,4.4,32,77,University of Miami,0.03,US,CE/CS
+340,3.4,5.4,30,3,University of Cincinnati,0.41,US,CE/CS
+194,2.0,7.4,61,76,Stanford University,0.13,US,CE/CS
+232,2.5,4.5,85,6,Virginia Tech,0.49,US,CE/CS
+227,3.3,0.7,69,92,Stanford University,0.35,US,CE/CS
+298,2.2,5.3,26,31,Michigan State University,0.06,US,CE/CS
+43,3.8,5.3,35,78,Davis (UC Davis),0.51,US,CE/CS
+221,1.8,4.2,33,41,Iowa State University,0.91,US,CE/CS
+265,1.7,5.1,7,35,University of New Hampshire,0.21,US,CE/CS
+85,1.2,1.6,24,65,Virginia Tech,0.78,US,CE/CS
+75,0.0,7.9,87,60,San Francisco (UCSF),0.34,US,CE/CS
+126,2.9,4.8,44,94,University of Miami,0.62,US,CE/CS
+219,2.3,5.9,35,90,University of North Carolina at Chapel Hill,0.19,US,CE/CS
+100,1.0,2.9,37,41,University of Oregon,0.42,US,CE/CS
+228,2.1,8.8,76,76,University of Connecticut,0.65,US,CE/CS
+234,2.4,8.5,61,22,University of Chicago,0.03,US,CE/CS
+124,2.3,7.0,16,78,University of Pennsylvania,0.79,US,CE/CS
+292,1.0,1.7,23,48,Rice University,0.21,US,CE/CS
+126,0.9,6.3,1,4,Ohio State University,0.93,US,CE/CS
+265,3.5,2.0,25,33,University of Oregon,0.35,US,CE/CS
+127,0.7,2.9,43,47,San Francisco (UCSF),0.7,US,CE/CS
+30,2.0,4.3,71,76,University of Wisconsin-Madison,0.29,US,CE/CS
+264,4.0,6.3,100,29,University of Miami,0.41,US,CE/CS
+75,0.4,6.6,18,40,University of Iowa,0.62,US,CE/CS
+331,2.6,8.8,97,79,Virginia Tech,0.5,US,CE/CS
+191,3.8,0.4,92,88,Boston University,0.55,US,CE/CS
+271,1.6,2.1,20,57,University of California,0.26,US,CE/CS
+330,1.5,7.1,43,5,University of California,0.45,US,CE/CS
+63,0.9,8.7,30,7,University of North Carolina at Chapel Hill,0.75,US,CE/CS
+143,0.2,1.8,75,60,Stanford University,0.18,US,CE/CS
+163,3.0,7.7,66,93,Los Angeles (UCLA),0.97,US,CE/CS
+163,2.1,7.0,37,82,Brown University,0.56,US,CE/CS
+326,2.8,2.3,43,77,Florida State University,0.03,US,CE/CS
+35,1.3,5.2,35,99,Auburn University.,0.6,US,CE/CS
+171,0.2,5.0,36,22,University of California,0.94,US,CE/CS
+16,3.2,4.6,10,54,College Park,0.47,US,CE/CS
+19,2.5,0.3,78,68,Stanford University,0.69,US,CE/CS
+111,0.9,4.6,22,17,Rice University,0.35,US,CE/CS
+48,1.2,3.2,96,93,University of Pennsylvania,0.15,US,CE/CS
+205,2.5,3.8,9,78,Swiss Federal Institute of Technology (ETH Zurich),0.31,US,CE/CS
+112,0.6,3.5,68,99,Johns Hopkins University,0.92,US,CE/CS
+323,2.8,8.0,5,18,University of Florida,0.99,US,CE/CS
+120,1.3,8.4,100,4,Brown University,0.72,US,CE/CS
+103,3.4,4.7,78,42,Auburn University.,0.57,US,CE/CS
+309,3.3,0.1,70,25,New York University (NYU),0.85,US,CE/CS
+145,0.0,4.9,42,67,University of California,0.53,US,CE/CS
+195,1.0,6.1,65,4,College Park,0.13,US,CE/CS
+307,0.0,4.6,36,54,University of Oklahoma,0.81,US,CE/CS
+75,2.1,0.7,22,70,University of Utah,0.8,US,CE/CS
+275,3.1,8.9,83,0,University of Virginia,0.67,US,CE/CS
+326,0.8,7.9,53,32,Iowa State University,0.85,US,CE/CS
+76,2.9,2.7,66,53,Massachusetts Institute of Technology (MIT),0.88,US,CE/CS
+279,0.5,3.1,93,93,University of California,0.99,US,CE/CS
+231,1.5,5.0,3,1,Duke University,0.18,US,CE/CS
+50,1.6,1.4,66,98,University of Maryland,0.76,US,CE/CS
+291,1.1,2.3,20,9,Irvine (UCI),0.56,US,CE/CS
+213,4.0,1.5,55,19,Ohio State University,0.9,US,CE/CS
+4,1.7,1.0,75,83,University of Florida,0.64,US,CE/CS
+181,1.2,3.5,19,72,University of Oklahoma,0.18,US,CE/CS
+40,1.1,8.9,2,75,George Washington University,0.45,US,CE/CS
+58,1.4,5.0,38,46,Pennsylvania State University,0.36,US,CE/CS
+225,2.1,3.3,23,44,Berkeley,0.54,US,CE/CS
+95,0.3,4.4,90,94,University of California,0.75,US,CE/CS
+93,0.3,1.7,79,41,Iowa State University,0.63,US,CE/CS
+29,1.5,3.9,33,76,Syracuse University,0.5,US,CE/CS
+312,0.3,7.2,33,98,College Park,0.33,US,CE/CS
+263,1.2,2.1,56,41,University of Maryland,0.09,US,CE/CS
+111,0.8,2.3,35,66,Virginia Tech,0.96,US,CE/CS
+340,0.1,0.5,80,0,Los Angeles (UCLA),0.97,US,CE/CS
+182,1.7,2.5,10,34,Irvine (UCI),0.06,US,CE/CS
+4,1.5,4.2,27,15,University of Chicago,0.84,US,CE/CS
+297,3.2,4.9,79,68,Arizona State University,0.92,US,CE/CS
+137,3.4,5.6,40,36,Iowa State University,0.36,US,CE/CS
+279,1.3,3.8,83,85,California Institute of Technology (Caltech),0.01,US,CE/CS
+119,3.3,5.0,76,20,University of California,0.04,US,CE/CS
+178,3.7,1.9,90,84,Vanderbilt University,0.23,US,CE/CS
+67,3.1,5.7,19,95,George Washington University,0.47,US,CE/CS
+101,2.1,7.5,20,50,University of Nebraska-Lincoln,0.59,US,CE/CS
+7,1.8,0.7,22,12,New York University (NYU),0.33,US,CE/CS
+228,1.6,4.3,35,79,University of Cincinnati,0.15,US,CE/CS
+114,2.7,2.8,12,29,University of Illinois Urbana-Champaign,0.42,US,CE/CS
+319,1.8,1.9,52,56,University of Maryland,0.41,US,CE/CS
+50,1.6,7.2,68,3,University of Maryland,1.0,US,CE/CS
+134,1.9,2.0,56,42,Columbia University,0.59,US,CE/CS
+291,3.4,0.9,40,52,Emory University,0.97,US,CE/CS
+209,0.5,3.5,39,50,Emory University,0.16,US,CE/CS
+185,2.2,8.7,37,23,Georgia Institute of Technology,0.76,US,CE/CS
+292,3.1,2.5,56,69,University of California,0.34,US,CE/CS
+196,3.5,3.4,23,56,University of California,0.49,US,CE/CS
+333,3.1,7.6,5,84,San Francisco (UCSF),0.33,US,CE/CS
+270,0.5,3.7,80,64,University of California,0.89,US,CE/CS
+215,0.1,0.1,57,35,Princeton University,0.7,US,CE/CS
+14,3.2,0.1,85,98,University of Pennsylvania,0.36,US,CE/CS
+310,2.0,1.1,46,95,University of Rochester,0.51,US,CE/CS
+81,2.9,6.7,30,41,Carnegie Mellon University,0.42,US,CE/CS
+97,1.2,2.5,44,35,University of California,0.88,US,CE/CS
+18,1.1,6.7,84,23,Riverside,0.09,US,CE/CS
+310,0.4,4.0,92,6,University of California,0.44,US,CE/CS
+75,2.3,0.7,3,91,University of Oregon,0.67,US,CE/CS
+211,0.1,4.5,29,16,University of Florida,0.91,US,CE/CS
+88,3.6,0.4,13,47,Brown University,0.9,US,CE/CS
+284,1.0,2.0,39,6,University of Nebraska-Lincoln,0.6,US,CE/CS
+142,3.8,4.1,36,34,Berkeley,0.19,US,CE/CS
+270,3.2,0.9,19,37,University of California,0.19,US,CE/CS
+58,1.0,6.7,78,56,California Institute of Technology (Caltech),0.23,US,CE/CS
+45,2.7,6.2,21,46,University of Miami,0.31,US,CE/CS
+250,0.2,8.4,59,35,Rutgers,0.7,US,CE/CS
+89,2.9,0.1,84,67,Princeton University,0.09,US,CE/CS
+37,0.3,5.2,85,23,Harvard University,0.67,US,CE/CS
+215,2.4,0.1,55,8,Texas A&M University,0.39,US,CE/CS
+323,2.4,1.2,76,45,University of Alabama,0.38,US,CE/CS
+153,2.9,3.7,100,20,Northwestern University,0.44,US,CE/CS
+174,0.4,8.0,32,29,Virginia Tech,0.54,US,CE/CS
+116,3.4,2.2,33,68,Carnegie Mellon University,0.88,US,CE/CS
+37,2.3,4.4,43,31,University of Pittsburgh,0.92,US,CE/CS
+64,1.1,4.2,38,20,Clemson University,0.4,US,CE/CS
+207,3.5,4.1,10,89,University of California,0.9,US,CE/CS
+132,3.3,2.7,7,99,Syracuse University,0.11,US,CE/CS
+143,2.3,0.4,60,66,Riverside,0.37,US,CE/CS
+49,2.4,6.8,20,85,Colorado State University,0.11,US,CE/CS
+135,1.8,2.7,51,57,University of Maryland,0.93,US,CE/CS
+131,2.7,5.0,97,26,Emory University,0.3,US,CE/CS
+230,3.5,4.8,53,13,Los Angeles (UCLA),0.21,US,CE/CS
+28,3.6,2.7,98,27,Massachusetts Institute of Technology (MIT),0.89,US,CE/CS
+16,0.0,2.2,96,77,University of Florida,0.12,US,CE/CS
+255,0.2,5.8,38,17,University of California,0.98,US,CE/CS
+243,3.5,0.1,76,70,University of Virginia,0.38,US,CE/CS
+269,2.4,0.6,78,10,New York University (NYU),0.51,US,CE/CS
+29,2.1,3.7,97,73,University of Alabama,0.23,US,CE/CS
+153,2.6,2.5,32,41,University of North Carolina at Chapel Hill,0.81,US,CE/CS
+228,0.3,0.9,43,48,University of Iowa,0.21,US,CE/CS
+108,0.5,4.5,65,34,University of Florida,0.32,US,CE/CS
+333,3.8,2.2,49,49,University of Southern California (USC),0.34,US,CE/CS
+55,1.0,7.9,82,23,Georgia Institute of Technology,0.56,US,CE/CS
+203,2.6,7.9,8,62,California Institute of Technology (Caltech),0.91,US,CE/CS
+110,0.7,0.2,73,60,Berkeley,0.26,US,CE/CS
+68,2.7,0.7,31,19,University of Chicago,0.65,US,CE/CS
+123,0.8,5.3,88,73,Santa Barbara (UCSB),0.12,US,CE/CS
+190,3.7,0.7,27,37,University of Colorado Boulder,0.62,US,CE/CS
+139,2.7,7.2,51,79,University of Michigan - Ann Arbor,0.14,US,CE/CS
+66,1.1,3.3,55,13,Auburn University.,0.3,US,CE/CS
+299,2.5,4.5,55,1,University of California,0.26,US,CE/CS
+333,3.3,1.6,52,73,University of Alabama,0.56,US,CE/CS
+48,1.8,1.1,38,85,University of Kansas,0.0,US,CE/CS
+77,0.4,5.9,52,46,Vanderbilt University,0.63,US,CE/CS
+194,1.8,5.9,41,64,Syracuse University,0.1,US,CE/CS
+56,1.5,5.2,38,76,University of Southern California (USC),0.11,US,CE/CS
+191,0.7,2.1,25,75,University of Notre Dame,0.11,US,CE/CS
+73,0.4,2.8,71,94,Davis (UC Davis),0.02,US,CE/CS
+223,0.2,4.7,47,26,University of Oklahoma,0.76,US,CE/CS
+245,1.0,2.5,68,84,Stanford University,0.23,US,CE/CS
+312,1.8,7.7,35,37,University of Oklahoma,0.07,US,CE/CS
+88,1.0,5.4,18,44,Pennsylvania State University,0.55,US,CE/CS
+128,1.4,7.3,16,90,University of Oklahoma,0.8,US,CE/CS
+272,1.0,4.4,92,85,Rice University,0.05,US,CE/CS
+70,2.9,6.6,88,40,Northwestern University,0.89,US,CE/CS
+28,1.0,8.8,18,81,University of Iowa,0.96,US,CE/CS
+78,0.6,7.3,44,63,University of California,0.31,US,CE/CS
+40,3.8,8.7,1,59,Massachusetts Institute of Technology (MIT),0.18,US,CE/CS
+39,3.4,8.1,11,90,Washington University in St. Louis,0.54,US,CE/CS
+36,1.1,6.5,47,76,Purdue University,0.51,US,CE/CS
+78,1.2,6.6,53,90,Carnegie Mellon University,0.79,US,CE/CS
+301,2.1,8.5,19,3,Northwestern University,0.71,US,CE/CS
+40,3.5,8.6,34,71,Texas A&M University,0.26,US,CE/CS
+62,2.4,5.5,67,60,University of Delaware,0.9,US,CE/CS
+332,2.1,8.7,11,28,University of New Hampshire,0.87,US,CE/CS
+286,0.7,4.1,20,99,University of California,0.51,US,CE/CS
+299,3.5,3.5,32,100,University of Notre Dame,0.67,US,CE/CS
+7,0.4,0.4,62,56,Pennsylvania State University,0.74,US,CE/CS
+37,3.9,1.9,75,93,Rutgers,0.86,US,CE/CS
+231,3.5,0.5,86,100,Ohio State University,0.54,US,CE/CS
+191,1.9,3.4,47,97,Duke University,0.68,US,CE/CS
+266,1.2,5.2,28,40,University of Florida,0.82,US,CE/CS
+89,2.2,7.6,45,94,Iowa State University,0.77,US,CE/CS
+293,1.2,1.2,12,80,University of New Hampshire,0.57,US,CE/CS
+132,1.4,5.3,17,41,Davis (UC Davis),0.32,US,CE/CS
+202,3.7,2.7,84,2,University of Chicago,0.74,US,CE/CS
+95,2.1,5.2,67,27,University of Pennsylvania,0.1,US,CE/CS
+122,0.7,8.5,11,89,Duke University,0.65,US,CE/CS
+226,1.1,6.8,15,6,The State University of New Jersey,0.55,US,CE/CS
+29,3.5,4.2,51,65,University of Washington,0.28,US,CE/CS
+137,1.0,6.4,31,24,University of Texas at Austin,0.11,US,CE/CS
+22,1.0,4.4,52,21,University of Maryland,0.77,US,CE/CS
+152,0.9,2.8,18,92,Arizona State University,0.07,US,CE/CS
+194,1.5,0.5,59,45,University of Connecticut,0.06,US,CE/CS
+60,0.8,0.0,88,100,University of North Carolina at Chapel Hill,0.7,US,CE/CS
+237,1.4,8.6,53,98,Davis (UC Davis),0.74,US,CE/CS
+133,2.0,5.7,34,96,University of Michigan - Ann Arbor,0.48,US,CE/CS
+163,2.2,1.1,78,33,University of Arizona,0.75,US,CE/CS
+152,3.7,2.1,15,15,University of Pennsylvania,0.22,US,CE/CS
+159,2.8,4.6,84,87,Irvine (UCI),0.29,US,CE/CS
+108,3.5,1.0,41,53,Ohio State University,0.25,US,CE/CS
+181,3.2,1.1,71,8,University of Connecticut,0.42,US,CE/CS
+339,2.4,6.2,56,33,Virginia Tech,0.11,US,CE/CS
+311,0.6,7.1,86,14,University of California,0.23,US,CE/CS
+111,2.3,2.3,99,20,Columbia University,0.47,US,CE/CS
+245,1.2,2.4,47,53,Carnegie Mellon University,0.24,US,CE/CS
+39,0.3,4.6,27,16,Iowa State University,0.78,US,CE/CS
+176,0.4,4.8,15,18,University of Michigan - Ann Arbor,0.45,US,CE/CS
+11,0.1,5.6,68,15,University of California,0.34,US,CE/CS
+163,0.4,4.9,83,16,University of Virginia,0.39,US,CE/CS
+188,3.2,5.9,99,97,Stanford University,0.74,US,CE/CS
+206,3.8,4.8,86,17,The State University of New Jersey,1.0,US,CE/CS
+117,3.2,7.4,20,14,University of Maryland,0.94,US,CE/CS
+1,2.4,7.0,25,47,University of Virginia,0.57,US,CE/CS
+281,0.9,3.9,62,66,University of Miami,0.29,US,CE/CS
+232,2.1,2.0,53,22,Northwestern University,0.5,US,CE/CS
+238,0.5,6.7,71,43,University of Miami,0.17,US,CE/CS
+73,2.1,8.7,77,4,Stanford University,0.91,US,CE/CS
+246,1.8,5.1,100,43,University of Florida,0.83,US,CE/CS
+300,2.6,5.3,52,7,Washington University in St. Louis,0.29,US,CE/CS
+266,2.6,3.9,84,36,Massachusetts Institute of Technology (MIT),0.52,US,CE/CS
+130,0.3,4.3,24,0,University of Virginia,0.32,US,CE/CS
+25,2.4,6.8,90,79,Swiss Federal Institute of Technology (ETH Zurich),0.55,US,CE/CS
+71,3.7,3.7,24,80,University of Minnesota - Twin Cities,0.08,US,CE/CS
+206,3.4,8.7,94,95,University of Michigan - Ann Arbor,0.09,US,CE/CS
+197,2.7,5.8,92,11,Case Western Reserve University,0.77,US,CE/CS
+36,1.6,8.6,91,79,Washington University in St. Louis,0.25,US,CE/CS
+226,1.1,3.6,38,44,University of California,0.58,US,CE/CS
+95,3.1,2.7,93,6,Rice University,0.58,US,CE/CS
+104,3.4,5.9,95,21,Clemson University,0.69,US,CE/CS
+100,1.9,1.1,49,22,University of Oregon,0.27,US,CE/CS
+162,1.1,6.5,47,95,Ohio State University,0.12,US,CE/CS
+23,0.7,3.2,82,60,Duke University,0.07,US,CE/CS
+85,2.2,8.0,79,63,University of California,0.4,US,CE/CS
+188,1.1,4.7,1,51,Irvine (UCI),0.01,US,CE/CS
+297,1.7,6.1,79,66,San Francisco (UCSF),0.98,US,CE/CS
+22,0.8,0.3,49,89,Rutgers,0.05,US,CE/CS
+98,0.8,5.3,52,5,San Francisco (UCSF),0.5,US,CE/CS
+11,2.3,8.4,16,97,University of Texas at Austin,0.76,US,CE/CS
+303,2.2,8.1,2,57,Davis (UC Davis),0.52,US,CE/CS
+146,0.2,8.2,70,6,Swiss Federal Institute of Technology (ETH Zurich),0.61,US,CE/CS
+226,1.2,2.5,30,4,Arizona State University,0.42,US,CE/CS
+265,2.0,4.8,27,17,Riverside,0.39,US,CE/CS
+68,3.7,0.7,84,51,Boston University,0.18,US,CE/CS
+290,0.4,5.5,50,19,University of California,1.0,US,CE/CS
+274,0.3,1.1,14,89,University of Minnesota - Twin Cities,0.75,US,CE/CS
+44,0.3,8.8,41,79,Case Western Reserve University,0.57,US,CE/CS
+298,0.3,3.2,27,0,University of California,0.89,US,CE/CS
+234,3.5,4.7,52,68,Virginia Tech,0.26,US,CE/CS
+304,0.3,8.3,7,40,Washington University in St. Louis,0.18,US,CE/CS
+272,1.5,4.1,71,92,University of Iowa,0.28,US,CE/CS
+166,3.4,1.6,81,88,Case Western Reserve University,0.75,US,CE/CS
+108,3.3,6.4,84,93,San Diego (UCSD),0.09,US,CE/CS
+273,3.6,4.7,14,24,Princeton University,0.92,US,CE/CS
+2,2.9,1.2,18,98,University of California,0.48,US,CE/CS
+78,0.8,1.1,77,88,University of Alabama,0.89,US,CE/CS
+91,1.1,2.4,21,64,Santa Barbara (UCSB),0.63,US,CE/CS
+227,2.6,0.7,46,57,Case Western Reserve University,0.86,US,CE/CS
+334,2.1,7.9,92,25,University of California,0.72,US,CE/CS
+153,3.9,2.0,49,46,Carnegie Mellon University,0.12,US,CE/CS
+75,2.9,0.7,65,80,University of Notre Dame,0.92,US,CE/CS
+5,2.8,3.9,32,65,University of Arizona,0.32,US,CE/CS
+243,0.2,0.2,93,37,Clemson University,0.69,US,CE/CS
+224,3.5,7.2,35,34,University of Colorado Boulder,0.54,US,CE/CS
+198,1.2,6.8,18,90,University of Oregon,0.34,US,CE/CS
+328,0.7,2.2,70,13,Davis (UC Davis),0.97,US,CE/CS
+134,0.3,5.6,8,85,Virginia Tech,0.61,US,CE/CS
+57,2.9,6.3,14,16,University of Kansas,0.93,US,CE/CS
+262,2.2,6.4,38,20,University of Washington,0.51,US,CE/CS
+203,0.5,5.5,15,66,Purdue University,0.25,US,CE/CS
+126,1.3,7.3,45,49,University of Pennsylvania,0.9,US,CE/CS
+138,0.4,2.3,44,48,Harvard University,0.76,US,CE/CS
+46,3.0,4.0,24,97,Michigan State University,0.08,US,CE/CS
+104,2.3,2.9,14,71,Pennsylvania State University,0.62,US,CE/CS
+300,1.2,1.1,23,83,New York University (NYU),0.64,US,CE/CS
+24,2.0,5.7,19,13,University of Oregon,0.23,US,CE/CS
+339,2.2,3.3,46,61,University of Pennsylvania,0.66,US,CE/CS
+159,1.0,6.8,79,31,Brown University,0.82,US,CE/CS
+142,3.5,0.6,65,92,University of Cincinnati,0.88,US,CE/CS
+180,2.9,7.9,35,51,University of Pittsburgh,0.94,US,CE/CS
+4,1.6,7.5,71,50,University of Alabama,0.41,US,CE/CS
+199,3.0,4.3,11,57,University of Oregon,0.15,US,CE/CS
+46,1.0,3.7,59,41,University of Texas at Austin,0.18,US,CE/CS
+7,1.2,5.1,27,57,Carnegie Mellon University,0.38,US,CE/CS
+230,2.0,5.6,56,45,Pennsylvania State University,0.84,US,CE/CS
+59,2.4,0.2,46,90,Syracuse University,0.92,US,CE/CS
+330,2.1,3.5,52,17,University of California,0.08,US,CE/CS
+281,1.4,6.3,60,82,University of California,0.15,US,CE/CS
+253,3.6,8.4,9,2,Rice University,0.81,US,CE/CS
+283,1.4,3.4,28,62,Santa Barbara (UCSB),0.44,US,CE/CS
+271,3.7,7.1,27,30,Stanford University,0.28,US,CE/CS
+63,0.1,8.8,16,87,Berkeley,0.18,US,CE/CS
+102,3.8,7.3,30,56,Swiss Federal Institute of Technology (ETH Zurich),0.03,US,CE/CS
+324,3.3,5.6,19,30,University of Miami,0.15,US,CE/CS
+208,1.0,7.8,8,53,University of Miami,0.88,US,CE/CS
+247,4.0,5.5,16,43,Boston University,0.46,US,CE/CS
+141,4.0,2.0,78,56,Arizona State University,0.34,US,CE/CS
+312,2.3,1.6,67,80,Pennsylvania State University,0.77,US,CE/CS
+264,3.5,3.7,79,96,University of Southern California (USC),0.87,US,CE/CS
+81,2.5,2.4,9,46,University of Utah,0.52,US,CE/CS
+229,1.7,0.6,88,87,University of Washington,0.1,US,CE/CS
+50,3.2,6.4,98,76,University of California,0.45,US,CE/CS
+254,3.8,4.5,56,72,University of California,0.81,US,CE/CS
+219,0.2,6.1,30,30,Rice University,0.83,US,CE/CS
+81,1.8,7.1,1,25,Colorado State University,0.73,US,CE/CS
+87,3.4,1.2,58,44,University of Southern California (USC),0.58,US,CE/CS
+53,1.6,4.3,64,59,Brown University,0.68,US,CE/CS
+262,1.6,8.5,66,34,The State University of New Jersey,0.29,US,CE/CS
+182,2.5,5.4,22,63,University of Pennsylvania,0.81,US,CE/CS
+16,3.9,5.7,12,57,University of Illinois Urbana-Champaign,0.06,US,CE/CS
+236,2.8,0.2,72,71,New York University (NYU),0.34,US,CE/CS
+255,2.5,7.2,4,78,Pennsylvania State University,0.53,US,CE/CS
+248,3.5,0.9,18,46,Berkeley,0.96,US,CE/CS
+298,0.7,1.5,9,60,University of California,0.69,US,CE/CS
+50,3.3,7.5,91,56,University of Southern California (USC),0.47,US,CE/CS
+1,3.4,8.8,76,31,Clemson University,0.79,US,CE/CS
+136,1.4,4.4,80,16,Purdue University,0.6,US,CE/CS
+77,3.5,0.9,11,86,Columbia University,0.63,US,CE/CS
+319,0.5,2.2,54,25,Harvard University,0.61,US,CE/CS
+340,3.6,4.6,92,31,University of Pittsburgh,0.13,US,CE/CS
+216,1.3,4.7,84,89,University of Rochester,0.77,US,CE/CS
+128,1.7,2.0,10,44,San Diego (UCSD),0.63,US,CE/CS
+183,3.7,1.9,77,26,University of California,0.54,US,CE/CS
+137,1.3,6.5,50,64,University of Arizona,0.12,US,CE/CS
+63,0.8,0.7,45,10,Iowa State University,0.91,US,CE/CS
+146,2.8,1.4,77,43,University of Chicago,0.14,US,CE/CS
+146,1.8,2.0,71,85,Boston University,0.83,US,CE/CS
+277,3.3,2.2,72,20,George Washington University,0.28,US,CE/CS
+85,3.9,8.4,68,94,Carnegie Mellon University,0.14,US,CE/CS
+143,3.0,2.0,37,32,Carnegie Mellon University,0.95,US,CE/CS
+268,2.9,4.8,22,26,Purdue University,0.38,US,CE/CS
+39,0.4,3.2,91,35,Rutgers,0.58,US,CE/CS
+69,2.2,1.8,53,25,Rice University,0.79,US,CE/CS
+178,2.4,0.4,50,56,University of Pittsburgh,0.77,US,CE/CS
+247,2.3,5.4,66,31,University of Pittsburgh,0.52,US,CE/CS
+86,1.3,6.4,88,85,Emory University,0.98,US,CE/CS
+326,2.1,3.8,7,9,University of Pittsburgh,0.33,US,CE/CS
+150,2.9,7.6,96,57,University of Colorado Boulder,1.0,US,CE/CS
+115,2.7,0.2,27,83,New York University (NYU),0.35,US,CE/CS
+213,3.2,3.2,20,94,University of Kansas,0.89,US,CE/CS
+29,0.1,7.5,82,68,University of Alabama,0.38,US,CE/CS
+267,3.4,3.6,96,0,Duke University,0.1,US,CE/CS
+153,0.0,7.4,72,60,Northwestern University,0.19,US,CE/CS
+285,0.2,3.8,11,50,University of Iowa,0.13,US,CE/CS
+40,2.1,8.4,48,4,University of California,0.78,US,CE/CS
+44,2.9,3.4,14,43,University of Kansas,0.68,US,CE/CS
+9,1.2,5.6,68,4,Georgia Institute of Technology,0.18,US,CE/CS
+70,3.4,0.1,98,99,University of Iowa,0.09,US,CE/CS
+4,2.5,7.1,28,79,University of Arizona,0.47,US,CE/CS
+334,1.1,6.2,71,64,University of Pittsburgh,0.41,US,CE/CS
+122,2.2,6.9,39,13,Iowa State University,0.78,US,CE/CS
+225,0.2,2.9,71,10,University of California,0.21,US,CE/CS
+52,0.6,7.8,43,51,Michigan State University,0.15,US,CE/CS
+306,2.3,5.7,57,23,Johns Hopkins University,0.38,US,CE/CS
+339,1.7,3.7,35,1,College Park,0.34,US,CE/CS
+115,2.2,3.3,99,83,Arizona State University,0.52,US,CE/CS
+28,0.3,1.8,62,43,University of Alabama,0.73,US,CE/CS
+273,2.1,8.5,26,70,University of Chicago,0.32,US,CE/CS
+252,1.2,7.9,96,81,Rutgers,0.28,US,CE/CS
+302,2.6,1.1,3,21,Massachusetts Institute of Technology (MIT),0.12,US,CE/CS
+200,2.3,8.1,100,11,University of Virginia,0.31,US,CE/CS
+123,2.5,6.8,77,3,University of Illinois Urbana-Champaign,0.34,US,CE/CS
+322,0.9,5.1,36,18,Stanford University,0.51,US,CE/CS
+96,2.7,3.1,38,82,Ohio State University,0.42,US,CE/CS
+40,3.6,3.9,48,30,University of Alabama,0.49,US,CE/CS
+258,2.4,4.3,45,83,Colorado State University,0.17,US,CE/CS
+103,1.8,8.5,76,5,University of Notre Dame,0.33,US,CE/CS
+151,4.0,4.9,76,1,Santa Barbara (UCSB),0.25,US,CE/CS
+135,3.3,1.2,45,88,Boston University,0.87,US,CE/CS
+170,2.1,3.5,91,43,University of Utah,0.08,US,CE/CS
+166,3.7,7.9,58,68,Vanderbilt University,0.8,US,CE/CS
+158,3.8,8.1,21,21,University of Michigan - Ann Arbor,0.9,US,CE/CS
+312,0.2,6.3,18,63,California Institute of Technology (Caltech),0.12,US,CE/CS
+57,3.2,3.1,7,69,University of New Hampshire,0.13,US,CE/CS
+194,1.7,6.5,12,18,Iowa State University,0.57,US,CE/CS
+187,2.7,4.8,52,41,University of Pittsburgh,0.84,US,CE/CS
+54,0.7,2.8,50,30,University of Michigan - Ann Arbor,0.6,US,CE/CS
+168,0.0,0.4,67,26,University of Arizona,0.14,US,CE/CS
+212,1.7,7.9,82,50,Berkeley,0.37,US,CE/CS
+273,2.6,5.6,57,36,Columbia University,0.36,US,CE/CS
+254,3.3,3.0,48,93,Vanderbilt University,0.21,US,CE/CS
+330,3.2,7.7,63,27,University of Southern California (USC),0.81,US,CE/CS
+231,0.1,6.0,67,34,Purdue University,0.45,US,CE/CS
+167,1.5,5.2,78,74,Harvard University,0.99,US,CE/CS
+84,2.9,1.1,21,30,University of Illinois Urbana-Champaign,0.79,US,CE/CS
+71,1.8,3.0,60,38,Auburn University.,0.94,US,CE/CS
+241,0.9,5.4,25,96,University of California,0.46,US,CE/CS
+190,2.7,4.5,48,72,Davis (UC Davis),0.87,US,CE/CS
+71,3.2,3.4,7,20,Auburn University.,0.5,US,CE/CS
+118,1.1,5.2,53,25,Iowa State University,0.35,US,CE/CS
+272,2.1,6.2,42,44,Michigan State University,0.47,US,CE/CS
+32,4.0,5.0,46,41,The State University of New Jersey,0.34,US,CE/CS
+86,1.8,6.1,14,79,Davis (UC Davis),0.03,US,CE/CS
+143,2.3,3.3,20,44,Harvard University,0.17,US,CE/CS
+99,2.2,8.7,69,34,University of Oklahoma,0.35,US,CE/CS
+311,1.2,6.6,64,60,Rutgers,0.79,US,CE/CS
+32,4.0,0.1,39,77,Brown University,0.03,US,CE/CS
+292,2.5,8.6,88,37,Brown University,0.63,US,CE/CS
+338,3.4,1.3,63,83,Swiss Federal Institute of Technology (ETH Zurich),0.52,US,CE/CS
+238,3.9,5.9,79,8,University of California,0.92,US,CE/CS
+336,3.7,1.9,28,32,The State University of New Jersey,0.94,US,CE/CS
+330,3.9,4.7,38,66,Georgia Institute of Technology,0.66,US,CE/CS
+338,3.0,5.0,87,32,University of California,0.21,US,CE/CS
+82,1.6,5.0,63,27,Stanford University,0.61,US,CE/CS
+152,1.9,0.2,45,53,Auburn University.,0.46,US,CE/CS
+147,0.3,5.6,98,51,University of Minnesota - Twin Cities,0.56,US,CE/CS
+199,2.5,4.8,58,45,University of Michigan - Ann Arbor,0.05,US,CE/CS
+188,3.7,2.9,51,97,University of Iowa,0.18,US,CE/CS
+190,3.9,5.4,48,54,University of Pittsburgh,0.97,US,CE/CS
+217,2.0,3.7,42,97,Pennsylvania State University,0.5,US,CE/CS
+161,1.6,4.2,80,62,University of Virginia,0.88,US,CE/CS
+66,0.5,6.6,74,43,Florida State University,0.07,US,CE/CS
+129,0.5,3.3,49,12,Irvine (UCI),0.38,US,CE/CS
+314,3.8,8.4,88,38,Purdue University,0.96,US,CE/CS
+6,1.9,7.0,91,69,Duke University,0.6,US,CE/CS
+172,1.4,6.9,65,86,Rutgers,0.01,US,CE/CS
+316,1.9,5.4,56,30,University of Rochester,0.58,US,CE/CS
+134,2.9,0.7,80,92,Berkeley,0.04,US,CE/CS
+307,2.3,1.4,79,79,Case Western Reserve University,0.26,US,CE/CS
+295,1.2,1.1,23,43,Georgia Institute of Technology,0.02,US,CE/CS
+5,1.4,3.3,4,59,College Park,0.13,US,CE/CS
+59,3.3,7.1,68,55,University of Illinois Urbana-Champaign,0.42,US,CE/CS
+72,3.5,3.7,65,35,University of North Carolina at Chapel Hill,0.53,US,CE/CS
+140,0.8,2.5,5,3,Pennsylvania State University,0.89,US,CE/CS
+199,3.2,7.5,26,55,University of Florida,0.5,US,CE/CS
+240,3.8,7.9,86,39,Case Western Reserve University,0.39,US,CE/CS
+331,3.6,8.7,46,37,San Francisco (UCSF),0.78,US,CE/CS
+208,3.7,5.6,19,44,University of Nebraska-Lincoln,0.93,US,CE/CS
+152,2.3,4.7,52,95,University of Virginia,0.18,US,CE/CS
+139,1.5,8.8,18,42,University of Virginia,0.71,US,CE/CS
+36,3.2,4.2,78,79,The State University of New Jersey,0.07,US,CE/CS
+236,1.3,2.0,39,55,Auburn University.,0.51,US,CE/CS
+299,1.3,8.5,37,42,New York University (NYU),0.2,US,CE/CS
+295,2.0,0.4,89,61,University of Southern California (USC),0.27,US,CE/CS
+118,1.7,0.4,92,46,University of Rochester,0.93,US,CE/CS
+209,0.6,0.8,64,2,University of Washington,0.27,US,CE/CS
+77,1.2,6.0,99,3,University of California,0.54,US,CE/CS
+193,3.2,6.7,83,44,University of Washington,0.86,US,CE/CS
+334,0.3,5.3,58,54,University of Florida,0.51,US,CE/CS
+243,3.9,6.8,58,83,Rice University,0.65,US,CE/CS
+19,0.3,6.7,14,50,University of Pennsylvania,0.83,US,CE/CS
+285,3.2,1.8,99,75,Massachusetts Institute of Technology (MIT),0.3,US,CE/CS
+241,2.9,5.4,31,95,Clemson University,0.12,US,CE/CS
+340,2.3,6.8,15,94,Purdue University,0.33,US,CE/CS
+158,2.4,1.7,67,51,Texas A&M University,0.11,US,CE/CS
+283,0.2,3.5,66,22,Purdue University,0.57,US,CE/CS
+182,2.9,6.8,73,12,Washington University in St. Louis,0.02,US,CE/CS
+298,1.1,3.4,40,56,Georgia Institute of Technology,0.12,US,CE/CS
+149,0.1,3.5,33,11,Iowa State University,0.45,US,CE/CS
+35,0.8,8.9,64,26,Santa Barbara (UCSB),0.6,US,CE/CS
+238,1.3,1.3,17,37,Duke University,0.3,US,CE/CS
+240,2.7,1.7,57,45,George Washington University,0.12,US,CE/CS
+239,3.8,7.8,43,96,University of Oklahoma,0.75,US,CE/CS
+67,2.0,5.0,80,93,Berkeley,0.22,US,CE/CS
+268,1.8,4.2,52,50,University of California,0.1,US,CE/CS
+339,1.3,3.0,70,94,University of Oklahoma,0.37,US,CE/CS
+9,2.1,0.7,55,50,University of Kansas,0.04,US,CE/CS
+44,1.5,1.9,23,76,Texas A&M University,0.5,US,CE/CS
+189,2.4,1.3,95,76,University of New Hampshire,0.0,US,CE/CS
+236,3.1,3.9,39,97,University of Florida,0.38,US,CE/CS
+302,0.0,4.9,40,86,University of Oregon,0.85,US,CE/CS
+257,1.9,1.2,26,38,University of California,0.29,US,CE/CS
+265,1.7,8.1,42,97,University of Miami,0.85,US,CE/CS
+22,1.6,5.4,9,76,Rutgers,0.53,US,CE/CS
+324,2.8,1.2,95,17,The State University of New Jersey,0.79,US,CE/CS
+34,3.5,5.7,25,85,University of Nebraska-Lincoln,0.42,US,CE/CS
+249,2.6,3.9,68,43,Purdue University,0.09,US,CE/CS
+329,2.3,1.3,76,55,University of Southern California (USC),0.82,US,CE/CS
+112,0.2,7.2,8,0,The State University of New Jersey,0.28,US,CE/CS
+311,2.6,3.6,96,43,Boston University,0.37,US,CE/CS
+319,2.4,5.6,46,97,University of California,0.15,US,CE/CS
+100,3.0,2.7,24,42,University of New Hampshire,0.87,US,CE/CS
+25,4.0,4.3,84,88,University of California,0.79,US,CE/CS
+49,3.5,4.4,13,77,Case Western Reserve University,0.11,US,CE/CS
+265,0.2,6.7,47,36,Emory University,0.82,US,CE/CS
+212,0.7,8.9,19,53,Johns Hopkins University,0.75,US,CE/CS
+102,2.6,1.7,46,23,Virginia Tech,0.29,US,CE/CS
+245,1.1,8.4,14,0,Purdue University,0.84,US,CE/CS
+247,3.6,7.7,100,95,University of Virginia,0.28,US,CE/CS
+222,3.1,7.8,42,31,Brown University,0.08,US,CE/CS
+220,1.8,2.5,25,19,University of New Hampshire,0.89,US,CE/CS
+6,2.8,5.4,91,59,University of Kansas,0.94,US,CE/CS
+160,2.7,5.0,25,26,Pennsylvania State University,0.76,US,CE/CS
+223,2.8,0.3,74,11,Berkeley,0.24,US,CE/CS
+175,2.4,8.2,7,47,University of California,0.02,US,CE/CS
+289,0.9,3.9,45,41,Virginia Tech,0.46,US,CE/CS
+223,1.9,6.7,23,82,San Francisco (UCSF),0.37,US,CE/CS
+97,0.1,0.2,31,25,Irvine (UCI),0.29,US,CE/CS
+297,2.9,1.4,70,88,University of Texas at Austin,0.34,US,CE/CS
+0,2.1,4.7,13,93,California Institute of Technology (Caltech),0.48,US,CE/CS
+15,1.3,0.3,78,14,Columbia University,0.56,US,CE/CS
+173,1.3,2.8,11,3,Riverside,0.06,US,CE/CS
+332,3.7,5.8,39,47,Massachusetts Institute of Technology (MIT),0.06,US,CE/CS
+228,2.1,2.6,75,87,Auburn University.,0.08,US,CE/CS
+48,1.2,6.4,5,42,University of Virginia,0.33,US,CE/CS
+99,1.5,3.8,44,5,University of Cincinnati,0.09,US,CE/CS
+150,0.5,7.8,73,81,University of Michigan - Ann Arbor,0.92,US,CE/CS
+53,0.8,3.0,59,43,University of Miami,0.37,US,CE/CS
+123,2.8,0.8,70,94,University of Texas at Austin,0.27,US,CE/CS
+98,0.8,7.3,27,97,Auburn University.,0.36,US,CE/CS
+114,0.0,2.0,83,81,Duke University,0.3,US,CE/CS
+269,1.7,7.5,94,87,Duke University,0.73,US,CE/CS
+27,3.3,8.1,7,69,University of Connecticut,0.77,US,CE/CS
+257,3.7,2.7,42,77,University of California,0.16,US,CE/CS
+297,0.4,0.7,75,57,University of Oklahoma,0.97,US,CE/CS
+333,1.5,4.5,52,100,Clemson University,0.36,US,CE/CS
+92,2.5,6.5,15,23,University of Pittsburgh,0.79,US,CE/CS
+24,2.3,2.5,83,71,Rice University,0.15,US,CE/CS
+53,1.4,3.4,63,17,Swiss Federal Institute of Technology (ETH Zurich),0.77,US,CE/CS
+245,2.8,1.5,87,38,University of Virginia,0.32,US,CE/CS
+137,1.9,8.3,87,46,University of Texas at Austin,0.31,US,CE/CS
+211,2.0,3.5,100,26,University of Michigan - Ann Arbor,0.74,US,CE/CS
+69,2.3,5.9,9,24,George Washington University,0.92,US,CE/CS
+280,0.3,7.0,36,5,Stanford University,0.02,US,CE/CS
+260,1.3,4.7,14,21,Florida State University,0.99,US,CE/CS
+11,3.2,6.2,85,87,Brown University,0.74,US,CE/CS
+20,3.8,2.1,88,4,Michigan State University,0.5,US,CE/CS
+129,2.7,5.2,73,7,University of Oregon,0.24,US,CE/CS
+25,0.6,7.5,32,61,University of Illinois Urbana-Champaign,0.35,US,CE/CS
+222,1.7,3.0,24,66,University of California,0.05,US,CE/CS
+330,0.4,1.9,95,79,University of California,0.47,US,CE/CS
+57,2.6,8.3,99,11,Swiss Federal Institute of Technology (ETH Zurich),0.96,US,CE/CS
+326,0.9,6.7,23,66,Berkeley,0.15,US,CE/CS
+140,1.5,6.1,33,27,Massachusetts Institute of Technology (MIT),0.94,US,CE/CS
+98,3.8,2.0,68,96,Princeton University,0.98,US,CE/CS
+183,3.5,0.2,82,75,University of Chicago,0.67,US,CE/CS
+197,3.3,2.5,8,63,University of Wisconsin-Madison,0.42,US,CE/CS
+40,0.9,5.4,19,5,Pennsylvania State University,0.19,US,CE/CS
+34,3.6,5.9,24,89,Colorado State University,0.32,US,CE/CS
+183,1.3,3.0,92,2,Boston University,0.94,US,CE/CS
+3,1.7,5.7,21,57,University of Chicago,0.41,US,CE/CS
+279,0.3,3.1,63,47,Massachusetts Institute of Technology (MIT),0.59,US,CE/CS
+147,1.5,0.4,29,73,University of California,0.99,US,CE/CS
+271,0.4,4.4,26,84,University of California,0.5,US,CE/CS
+285,1.2,1.4,48,1,University of Pennsylvania,0.19,US,CE/CS
+92,3.6,5.2,25,74,Los Angeles (UCLA),0.76,US,CE/CS
+114,0.9,2.3,44,24,Stanford University,0.22,US,CE/CS
+102,1.4,1.4,53,64,Brown University,0.18,US,CE/CS
+103,0.8,1.8,83,88,University of Arizona,0.36,US,CE/CS
+18,1.9,7.1,37,95,University of Southern California (USC),0.91,US,CE/CS
+310,0.3,1.9,36,96,Princeton University,0.87,US,CE/CS
+338,1.8,4.4,47,63,University of Rochester,0.66,US,CE/CS
+161,1.7,8.8,18,16,University of California,0.39,US,CE/CS
+95,1.0,4.5,88,70,Massachusetts Institute of Technology (MIT),0.71,US,CE/CS
+74,2.3,6.5,29,34,University of Minnesota - Twin Cities,0.99,US,CE/CS
+172,0.4,1.2,4,98,Purdue University,0.74,US,CE/CS
+33,3.2,6.4,75,17,University of Iowa,0.53,US,CE/CS
+63,1.5,2.4,27,52,University of Pennsylvania,0.97,US,CE/CS
+224,1.6,5.7,97,43,University of California,0.86,US,CE/CS
+95,2.5,0.1,23,16,University of California,0.01,US,CE/CS
+324,3.9,4.1,72,96,Washington University in St. Louis,0.28,US,CE/CS
+284,2.9,4.6,18,43,Rutgers,0.1,US,CE/CS
+256,2.0,1.6,31,63,University of Kansas,0.35,US,CE/CS
+133,2.6,0.5,57,17,Berkeley,0.07,US,CE/CS
+112,0.6,2.2,65,74,College Park,0.43,US,CE/CS
+284,2.8,7.5,20,12,Davis (UC Davis),0.13,US,CE/CS
+185,3.3,3.4,84,54,Duke University,0.11,US,CE/CS
+104,3.3,5.9,94,24,University of California,0.62,US,CE/CS
+76,0.6,2.4,45,52,Clemson University,0.13,US,CE/CS
+39,2.5,0.8,61,75,University of Alabama,0.02,US,CE/CS
+30,1.8,4.2,81,6,Syracuse University,0.85,US,CE/CS
+120,2.3,6.2,42,91,Boston University,0.53,US,CE/CS
+31,2.4,4.5,9,8,New York University (NYU),0.05,US,CE/CS
+170,0.3,0.4,17,25,Texas A&M University,0.69,US,CE/CS
+176,1.4,3.5,19,89,Vanderbilt University,0.39,US,CE/CS
+123,1.0,6.2,81,86,Florida State University,0.93,US,CE/CS
+230,2.7,0.6,5,41,University of Rochester,0.93,US,CE/CS
+108,3.2,1.8,47,23,Virginia Tech,0.92,US,CE/CS
+288,1.2,8.0,98,48,The State University of New Jersey,0.62,US,CE/CS
+286,0.8,7.6,82,69,University of Maryland,0.86,US,CE/CS
+301,0.8,8.7,94,23,University of Oregon,0.87,US,CE/CS
+260,2.6,8.7,13,58,College Park,0.14,US,CE/CS
+34,0.9,4.4,19,62,University of Miami,0.76,US,CE/CS
+225,3.9,2.8,95,90,University of Oregon,0.79,US,CE/CS
+91,2.0,1.8,39,61,Brown University,0.67,US,CE/CS
+180,2.7,4.1,62,4,University of Connecticut,0.79,US,CE/CS
+38,1.3,0.4,95,81,Ohio State University,0.71,US,CE/CS
+256,2.6,0.2,92,15,University of California,0.06,US,CE/CS
+102,3.1,3.6,31,43,California Institute of Technology (Caltech),0.59,US,CE/CS
+0,3.7,4.4,67,61,University of Illinois Urbana-Champaign,0.64,US,CE/CS
+63,3.5,6.7,37,12,Stanford University,0.96,US,CE/CS
+226,0.8,6.6,82,58,University of California,0.8,US,CE/CS
+9,4.0,0.9,65,66,New York University (NYU),0.62,US,CE/CS
+117,1.6,0.8,99,95,University of California,0.84,US,CE/CS
+59,2.3,7.0,99,76,University of South Carolina,0.12,US,CE/CS
+196,3.1,2.1,55,99,Syracuse University,0.82,US,CE/CS
+208,1.9,3.6,83,100,Massachusetts Institute of Technology (MIT),0.01,US,CE/CS
+242,1.2,4.5,53,82,The State University of New Jersey,0.17,US,CE/CS
+34,3.5,2.5,73,46,University of California,0.09,US,CE/CS
+191,2.7,7.2,60,57,University of Oklahoma,0.65,US,CE/CS
+335,0.5,2.4,5,52,Auburn University.,0.67,US,CE/CS
+295,2.1,3.3,78,78,University of Chicago,0.21,US,CE/CS
+237,1.0,5.3,2,88,University of California,0.98,US,CE/CS
+296,3.6,1.9,72,93,University of Cincinnati,0.89,US,CE/CS
+14,3.9,5.4,88,67,Purdue University,0.31,US,CE/CS
+254,3.8,6.0,26,70,Riverside,0.93,US,CE/CS
+174,0.7,2.8,19,80,University of Minnesota - Twin Cities,0.2,US,CE/CS
+213,2.6,8.1,13,16,Rutgers,0.39,US,CE/CS
+260,3.5,7.2,37,21,University of Delaware,0.82,US,CE/CS
+188,2.4,4.1,57,1,Los Angeles (UCLA),0.21,US,CE/CS
+135,3.7,7.0,3,11,Riverside,0.61,US,CE/CS
+299,3.7,3.9,23,57,Michigan State University,0.09,US,CE/CS
+266,1.4,2.3,30,46,University of Nebraska-Lincoln,0.59,US,CE/CS
+253,3.2,0.4,79,15,Rutgers,0.14,US,CE/CS
+219,3.5,1.0,89,16,University of North Carolina at Chapel Hill,0.63,US,CE/CS
+159,0.7,2.8,90,23,Georgia Institute of Technology,0.07,US,CE/CS
+253,2.7,8.8,24,22,University of Pittsburgh,0.77,US,CE/CS
+324,2.1,4.3,13,65,University of Oklahoma,0.63,US,CE/CS
+167,3.3,6.2,10,16,University of California,0.05,US,CE/CS
+149,1.3,5.4,47,6,University of Rochester,0.44,US,CE/CS
+253,0.0,1.2,60,99,University of Pittsburgh,0.1,US,CE/CS
+113,2.9,4.1,8,26,University of Southern California (USC),0.59,US,CE/CS
+244,2.4,1.1,40,42,University of Colorado Boulder,0.36,US,CE/CS
+302,2.0,0.1,54,65,University of Maryland,0.74,US,CE/CS
+160,2.6,4.7,60,96,Harvard University,0.2,US,CE/CS
+153,0.5,2.7,47,19,Stanford University,0.28,US,CE/CS
+2,0.2,1.4,60,8,University of California,0.17,US,CE/CS
+206,1.8,5.9,71,81,University of Delaware,0.21,US,CE/CS
+58,3.7,6.5,45,39,University of California,0.29,US,CE/CS
+288,2.3,8.9,1,7,University of Cincinnati,0.3,US,CE/CS
+249,1.8,4.7,34,85,University of Oregon,0.92,US,CE/CS
+91,0.7,5.0,48,33,San Diego (UCSD),0.81,US,CE/CS
+146,3.2,7.6,58,1,University of Chicago,0.4,US,CE/CS
+167,3.7,3.2,39,10,University of North Carolina at Chapel Hill,0.87,US,CE/CS
+169,2.8,4.7,28,25,University of New Hampshire,0.2,US,CE/CS
+199,0.4,1.0,83,28,University of Florida,0.18,US,CE/CS
+275,3.9,1.3,67,33,Michigan State University,0.48,US,CE/CS
+153,0.9,1.5,22,55,University of Southern California (USC),0.81,US,CE/CS
+126,2.1,0.0,82,85,Berkeley,0.8,US,CE/CS
+132,0.5,6.7,79,78,Virginia Tech,0.61,US,CE/CS
+31,3.2,8.9,39,50,Syracuse University,0.57,US,CE/CS
+28,2.9,4.4,8,11,Clemson University,0.82,US,CE/CS
+100,1.0,1.7,8,62,Davis (UC Davis),0.22,US,CE/CS
+317,1.8,4.6,20,78,University of Illinois Urbana-Champaign,0.18,US,CE/CS
+295,0.4,0.6,85,83,University of Chicago,0.28,US,CE/CS
+244,3.4,1.2,42,38,New York University (NYU),0.75,US,CE/CS
+323,1.0,3.9,67,45,Harvard University,0.34,US,CE/CS
+58,2.1,3.3,64,14,New York University (NYU),0.33,US,CE/CS
+134,2.7,4.7,63,78,Emory University,0.77,US,CE/CS
+65,2.1,1.7,35,10,University of Connecticut,0.55,US,CE/CS
+123,0.3,8.3,37,10,Purdue University,0.95,US,CE/CS
+210,0.5,0.0,26,77,Princeton University,0.71,US,CE/CS
+150,0.8,4.5,54,14,University of Washington,0.03,US,CE/CS
+257,2.9,2.5,97,20,University of Colorado Boulder,0.82,US,CE/CS
+278,2.1,4.8,86,68,University of Delaware,0.01,US,CE/CS
+308,2.9,1.7,77,87,University of Delaware,0.04,US,CE/CS
+189,2.2,8.9,43,9,Duke University,0.0,US,CE/CS
+157,1.3,8.1,29,40,Princeton University,0.86,US,CE/CS
+191,0.4,1.9,82,60,Irvine (UCI),0.2,US,CE/CS
+73,1.0,2.7,84,81,Texas A&M University,0.81,US,CE/CS
+60,3.3,2.9,98,31,Massachusetts Institute of Technology (MIT),0.54,US,CE/CS
+304,2.3,5.6,86,68,University of New Hampshire,0.63,US,CE/CS
+171,3.5,1.2,16,12,University of Delaware,0.14,US,CE/CS
+326,0.5,6.1,81,25,Texas A&M University,0.58,US,CE/CS
+250,2.0,2.4,62,100,University of California,0.12,US,CE/CS
+293,3.2,9.0,45,70,Boston University,0.55,US,CE/CS
+299,1.9,3.7,89,35,Columbia University,0.57,US,CE/CS
+39,3.7,5.7,70,41,Michigan State University,0.1,US,CE/CS
+230,0.4,0.9,46,38,University of Miami,0.91,US,CE/CS
+282,1.8,3.5,88,9,University of California,0.64,US,CE/CS
+152,3.2,0.9,35,7,University of Wisconsin-Madison,0.97,US,CE/CS
+114,1.3,3.8,26,83,Santa Barbara (UCSB),0.84,US,CE/CS
+141,0.7,4.8,69,76,Swiss Federal Institute of Technology (ETH Zurich),0.37,US,CE/CS
+318,2.8,8.3,88,85,University of Oklahoma,0.52,US,CE/CS
+38,0.2,6.9,3,12,Iowa State University,0.32,US,CE/CS
+131,1.1,7.1,53,59,Princeton University,0.36,US,CE/CS
+84,1.2,6.1,12,43,Riverside,0.13,US,CE/CS
+276,0.0,3.7,3,83,Colorado State University,0.24,US,CE/CS
+58,2.7,4.9,73,50,University of Virginia,0.75,US,CE/CS
+258,3.7,2.9,89,22,University of California,0.72,US,CE/CS
+219,1.6,1.2,63,1,University of Virginia,0.12,US,CE/CS
+325,3.1,7.0,81,16,Purdue University,0.74,US,CE/CS
+224,0.6,6.9,82,94,University of California,0.21,US,CE/CS
+66,4.0,6.9,15,61,Swiss Federal Institute of Technology (ETH Zurich),0.83,US,CE/CS
+194,2.4,6.2,10,22,University of Michigan - Ann Arbor,0.38,US,CE/CS
+240,0.1,0.1,99,69,University of California,0.78,US,CE/CS
+38,3.9,7.1,85,95,University of Illinois Urbana-Champaign,0.66,US,CE/CS
+170,2.9,7.0,16,29,University of California,0.71,US,CE/CS
+202,2.7,8.0,77,23,Case Western Reserve University,0.96,US,CE/CS
+0,2.7,5.1,15,70,University of Miami,0.9,US,CE/CS
+31,0.5,1.5,56,75,University of Alabama,0.69,US,CE/CS
+136,0.9,3.7,3,86,University of California,0.69,US,CE/CS
+21,2.0,7.3,54,76,San Francisco (UCSF),0.44,US,CE/CS
+155,1.9,0.6,92,60,Michigan State University,0.17,US,CE/CS
+63,3.8,0.6,99,23,Riverside,0.67,US,CE/CS
+184,3.4,1.6,53,45,Irvine (UCI),0.71,US,CE/CS
+110,1.6,7.3,36,46,Stanford University,0.85,US,CE/CS
+132,4.0,4.6,23,38,Pennsylvania State University,0.19,US,CE/CS
+279,3.5,3.1,30,15,Santa Barbara (UCSB),0.26,US,CE/CS
+305,0.8,0.1,78,62,Swiss Federal Institute of Technology (ETH Zurich),0.43,US,CE/CS
+83,4.0,2.3,7,62,Berkeley,0.75,US,CE/CS
+278,3.0,2.0,32,79,Arizona State University,0.74,US,CE/CS
+176,0.2,8.9,4,96,University of Nebraska-Lincoln,0.74,US,CE/CS
+48,3.0,3.2,82,68,Washington University in St. Louis,0.5,US,CE/CS
+42,2.7,7.2,30,53,San Diego (UCSD),0.56,US,CE/CS
+323,0.4,5.5,62,24,College Park,0.49,US,CE/CS
+58,0.4,5.8,80,56,University of Notre Dame,0.77,US,CE/CS
+307,2.7,2.5,39,77,Berkeley,0.34,US,CE/CS
+206,3.4,2.6,62,0,Rice University,0.34,US,CE/CS
+3,2.4,4.7,57,80,The State University of New Jersey,0.41,US,CE/CS
+326,3.6,5.3,24,49,Johns Hopkins University,0.63,US,CE/CS
+35,1.1,0.3,56,85,University of Utah,0.66,US,CE/CS
+64,1.0,0.8,80,97,Carnegie Mellon University,0.24,US,CE/CS
+86,3.4,8.7,79,86,University of California,0.59,US,CE/CS
+257,0.1,8.2,21,62,Vanderbilt University,0.09,US,CE/CS
+196,1.0,8.2,22,99,University of South Carolina,0.52,US,CE/CS
+332,1.3,1.9,52,22,Texas A&M University,0.98,US,CE/CS
+74,0.2,5.5,68,40,Swiss Federal Institute of Technology (ETH Zurich),0.33,US,CE/CS
+162,0.6,3.2,60,9,University of Maryland,0.05,US,CE/CS
+245,2.6,5.3,33,52,San Diego (UCSD),0.45,US,CE/CS
+14,0.3,1.9,48,13,University of Connecticut,0.71,US,CE/CS
+152,2.3,0.1,98,92,University of California,0.39,US,CE/CS
+322,1.9,4.6,14,68,University of Iowa,0.56,US,CE/CS
+307,3.6,8.0,24,13,Georgia Institute of Technology,0.31,US,CE/CS
+339,3.2,0.7,63,49,University of North Carolina at Chapel Hill,0.69,US,CE/CS
+329,2.7,3.3,49,26,George Washington University,0.42,US,CE/CS
+174,0.7,0.1,63,19,University of Arizona,0.57,US,CE/CS
+131,3.8,8.8,13,70,Rice University,0.06,US,CE/CS
+130,3.9,5.7,8,52,Georgia Institute of Technology,0.11,US,CE/CS
+47,2.2,3.8,75,20,Vanderbilt University,0.68,US,CE/CS
+95,1.8,6.0,52,20,Johns Hopkins University,0.73,US,CE/CS
+21,1.2,8.6,90,55,Syracuse University,0.47,US,CE/CS
+305,2.3,7.3,29,97,San Francisco (UCSF),0.39,US,CE/CS
+159,3.0,5.8,1,66,University of Virginia,0.27,US,CE/CS
+246,4.0,4.8,91,95,San Diego (UCSD),0.83,US,CE/CS
+98,0.4,5.8,34,64,Massachusetts Institute of Technology (MIT),0.56,US,CE/CS
+104,0.3,3.4,94,13,Riverside,0.62,US,CE/CS
+45,3.6,4.8,38,20,Harvard University,1.0,US,CE/CS
+152,1.6,6.3,62,70,University of Delaware,0.73,US,CE/CS
+138,2.0,1.5,54,0,University of Illinois Urbana-Champaign,0.15,US,CE/CS
+106,2.0,7.7,41,99,Michigan State University,0.73,US,CE/CS
+15,3.4,3.7,41,0,Auburn University.,0.84,US,CE/CS
+315,1.2,5.0,79,43,Rutgers,0.89,US,CE/CS
+168,3.7,4.9,92,25,University of Arizona,0.96,US,CE/CS
+146,1.7,7.9,80,7,University of North Carolina at Chapel Hill,0.99,US,CE/CS
+133,2.3,6.7,71,48,University of Kansas,0.75,US,CE/CS
+79,2.5,3.7,23,94,Vanderbilt University,0.68,US,CE/CS
+239,1.8,0.8,35,6,Michigan State University,0.89,US,CE/CS
+339,3.9,1.0,28,57,University of California,0.36,US,CE/CS
+12,1.6,1.9,32,53,Georgia Institute of Technology,0.69,US,CE/CS
+329,1.7,8.7,31,65,Davis (UC Davis),0.61,US,CE/CS
+30,3.3,4.6,11,66,Virginia Tech,0.61,US,CE/CS
+10,2.9,5.0,26,98,Columbia University,0.21,US,CE/CS
+207,1.3,3.9,86,70,San Francisco (UCSF),1.0,US,CE/CS
+83,0.1,3.2,22,70,University of California,0.59,US,CE/CS
+336,2.8,8.2,62,62,University of South Carolina,0.23,US,CE/CS
+314,0.3,5.5,70,27,Brown University,0.86,US,CE/CS
+217,0.4,3.1,51,79,Rice University,0.15,US,CE/CS
+210,2.4,6.4,99,75,Auburn University.,0.63,US,CE/CS
+339,3.3,3.7,58,35,University of Virginia,0.61,US,CE/CS
+121,0.8,3.6,2,53,Duke University,0.31,US,CE/CS
+203,1.2,2.6,81,20,Vanderbilt University,0.72,US,CE/CS
+118,3.7,8.0,41,28,Boston University,0.33,US,CE/CS
+107,0.6,1.7,49,9,University of Kansas,0.99,US,CE/CS
+176,1.6,4.0,16,74,University of Maryland,0.43,US,CE/CS
+56,0.2,0.5,76,96,University of Virginia,0.02,US,CE/CS
+211,0.3,3.4,22,48,Davis (UC Davis),0.77,US,CE/CS
+13,1.5,4.8,6,80,Davis (UC Davis),0.24,US,CE/CS
+339,2.8,5.4,77,85,Berkeley,0.04,US,CE/CS
+287,1.3,5.7,24,31,University of Michigan - Ann Arbor,0.79,US,CE/CS
+157,2.2,7.6,60,63,San Diego (UCSD),0.73,US,CE/CS
+85,1.6,8.9,26,85,Riverside,0.94,US,CE/CS
+216,2.0,3.8,47,63,University of Colorado Boulder,0.77,US,CE/CS
+30,3.4,5.9,54,98,Johns Hopkins University,0.93,US,CE/CS
+148,1.5,0.9,55,23,Duke University,0.14,US,CE/CS
+266,2.7,2.6,47,37,University of Kansas,0.96,US,CE/CS
+98,2.2,8.6,24,78,University of Oregon,0.29,US,CE/CS
+263,0.7,2.7,55,47,Johns Hopkins University,0.03,US,CE/CS
+311,2.9,8.6,96,44,University of Florida,0.89,US,CE/CS
+270,0.5,2.6,35,39,Auburn University.,0.36,US,CE/CS
+231,3.2,6.5,59,0,University of Illinois Urbana-Champaign,0.31,US,CE/CS
+8,2.6,7.3,26,86,Boston University,0.29,US,CE/CS
+134,2.0,2.0,61,82,California Institute of Technology (Caltech),0.16,US,CE/CS
+53,0.9,7.8,40,90,Irvine (UCI),0.58,US,CE/CS
+248,1.0,5.5,71,43,University of Florida,0.36,US,CE/CS
+337,3.5,1.2,61,95,Purdue University,0.6,US,CE/CS
+180,2.7,6.4,33,96,University of Alabama,0.99,US,CE/CS
+331,3.9,2.1,31,28,Purdue University,0.11,US,CE/CS
+193,1.6,4.1,4,61,University of Wisconsin-Madison,0.04,US,CE/CS
+130,1.1,9.0,38,93,Auburn University.,0.38,US,CE/CS
+274,3.8,6.2,72,42,Swiss Federal Institute of Technology (ETH Zurich),0.29,US,CE/CS
+312,2.7,5.4,94,98,Pennsylvania State University,0.2,US,CE/CS
+313,2.5,7.7,65,52,University of Pennsylvania,0.61,US,CE/CS
+271,0.9,3.6,29,3,University of Miami,0.49,US,CE/CS
+100,1.3,4.4,7,89,University of Chicago,0.18,US,CE/CS
+228,1.7,6.6,90,18,Irvine (UCI),0.28,US,CE/CS
+118,1.9,1.5,3,77,University of North Carolina at Chapel Hill,0.29,US,CE/CS
+280,0.2,1.6,43,10,Colorado State University,0.33,US,CE/CS
+166,2.1,5.2,88,25,University of Oklahoma,0.85,US,CE/CS
+166,2.1,7.9,59,37,Columbia University,0.63,US,CE/CS
+235,1.8,3.8,84,96,George Washington University,0.48,US,CE/CS
+295,2.2,5.7,60,92,University of California,0.45,US,CE/CS
+158,1.0,1.6,12,16,Davis (UC Davis),0.26,US,CE/CS
+6,2.2,2.7,63,57,Syracuse University,0.86,US,CE/CS
+73,1.7,7.5,83,85,University of California,0.99,US,CE/CS
+108,0.6,7.1,94,9,Vanderbilt University,0.83,US,CE/CS
+115,1.0,4.8,43,99,Clemson University,0.52,US,CE/CS
+242,2.0,3.2,35,54,Syracuse University,0.31,US,CE/CS
+98,1.3,6.8,82,78,University of California,0.53,US,CE/CS
+181,3.3,7.4,58,15,Washington University in St. Louis,0.31,US,CE/CS
+296,3.3,5.2,47,31,University of Wisconsin-Madison,0.87,US,CE/CS
+1,2.3,2.2,37,65,Swiss Federal Institute of Technology (ETH Zurich),0.71,US,CE/CS
+117,1.5,3.8,76,64,Riverside,0.38,US,CE/CS
+82,1.8,4.0,91,8,George Washington University,0.84,US,CE/CS
+101,0.0,4.0,93,64,University of Florida,0.83,US,CE/CS
+186,0.5,3.0,65,65,Berkeley,0.02,US,CE/CS
+254,0.2,2.7,18,88,Irvine (UCI),0.94,US,CE/CS
+301,0.9,7.3,4,66,University of Pennsylvania,0.5,US,CE/CS
+232,1.5,2.3,64,24,University of Iowa,0.3,US,CE/CS
+142,2.3,8.2,79,11,Florida State University,0.25,US,CE/CS
+45,1.6,4.9,20,48,McMaster University,0.28,CANADA,CE/CS
+326,0.4,8.3,71,66,University of Western Ontario,0.97,CANADA,CE/CS
+25,3.6,5.4,50,68,Thompson Rivers University,0.37,CANADA,CE/CS
+311,2.4,1.7,17,2,University of New Brunswick,0.4,CANADA,CE/CS
+243,2.9,2.5,66,99,University of Calgary,0.4,CANADA,CE/CS
+140,3.6,6.8,6,32,University of Regina,0.36,CANADA,CE/CS
+181,2.8,0.2,97,52,University of Moncton.,0.77,CANADA,CE/CS
+327,1.4,1.2,67,31,Bishop's University,0.25,CANADA,CE/CS
+187,1.4,0.1,63,71,University of Ontario Institute of Technology,0.32,CANADA,CE/CS
+229,0.5,6.2,22,34,University of Saskatchewan,0.52,CANADA,CE/CS
+50,0.6,0.8,77,70,Trent University,0.46,CANADA,CE/CS
+158,1.5,8.9,50,63,University of Manitoba,0.67,CANADA,CE/CS
+267,3.2,2.1,17,23,University of Alberta,0.43,CANADA,CE/CS
+110,3.0,7.3,39,83,Dalhousie University,0.23,CANADA,CE/CS
+183,3.0,1.7,92,28,University of Fraser Valley,0.69,CANADA,CE/CS
+311,0.7,5.5,97,32,University of Victoria,0.02,CANADA,CE/CS
+224,1.8,8.2,40,84,Queen's University,0.86,CANADA,CE/CS
+272,0.0,6.6,97,5,University of Western Ontario,0.05,CANADA,CE/CS
+159,0.8,2.7,38,7,University of Manitoba,0.8,CANADA,CE/CS
+139,2.4,0.8,58,42,Simon Fraser University,0.42,CANADA,CE/CS
+122,1.5,8.2,67,28,Thompson Rivers University,0.47,CANADA,CE/CS
+92,0.1,0.4,56,50,Simon Fraser University,0.29,CANADA,CE/CS
+21,2.2,4.7,78,33,University of Waterloo,0.19,CANADA,CE/CS
+47,2.2,4.1,91,94,University of Lethbridge,0.95,CANADA,CE/CS
+93,1.6,4.9,73,18,University of Fraser Valley,0.87,CANADA,CE/CS
+265,1.1,0.0,90,81,University of Guelph,0.25,CANADA,CE/CS
+253,2.4,8.0,81,53,University of King's College,0.06,CANADA,CE/CS
+125,3.3,8.3,11,91,McMaster University,0.5,CANADA,CE/CS
+37,3.9,4.5,19,0,Mount Royal University,0.89,CANADA,CE/CS
+291,2.6,5.7,20,82,Wilfrid Laurier University,0.34,CANADA,CE/CS
+254,1.9,6.5,58,54,University of Prince Edward Island,0.71,CANADA,CE/CS
+50,0.9,3.1,76,74,University of Ontario Institute of Technology,0.58,CANADA,CE/CS
+203,3.1,8.0,81,49,Mount Allison University,0.58,CANADA,CE/CS
+244,1.8,8.7,36,34,Royal Roads University,0.22,CANADA,CE/CS
+178,3.5,7.7,27,68,McGill University,0.23,CANADA,CE/CS
+263,1.4,4.5,97,44,Bishop's University,0.16,CANADA,CE/CS
+185,3.9,8.4,9,41,University of New Brunswick,0.59,CANADA,CE/CS
+51,0.6,5.6,90,89,University of Fraser Valley,0.45,CANADA,CE/CS
+15,0.5,3.6,42,38,University of Winnipeg,0.16,CANADA,CE/CS
+188,2.8,8.4,94,20,University of King's College,0.73,CANADA,CE/CS
+68,3.9,9.0,19,38,University of Ontario Institute of Technology,0.95,CANADA,CE/CS
+89,3.3,8.6,12,14,University of Sherbrooke,0.86,CANADA,CE/CS
+62,1.4,6.8,45,17,University of Windsor,0.84,CANADA,CE/CS
+229,2.9,8.4,14,66,University of Winnipeg,0.6,CANADA,CE/CS
+71,1.4,6.7,49,78,Saint Mary's University,0.06,CANADA,CE/CS
+288,3.6,6.9,58,18,University of Prince Edward Island,0.37,CANADA,CE/CS
+32,2.3,5.8,49,91,Laval University,0.45,CANADA,CE/CS
+79,2.4,8.3,17,15,University of Winnipeg,0.43,CANADA,CE/CS
+138,0.2,1.6,52,91,Saint Mary's University,0.29,CANADA,CE/CS
+223,0.2,7.1,90,52,University of Toronto,0.09,CANADA,CE/CS
+4,0.3,1.0,64,53,University of Fraser Valley,0.32,CANADA,CE/CS
+134,3.5,1.2,19,61,Athabasca University,0.24,CANADA,CE/CS
+282,0.7,4.2,70,27,University of Manitoba,0.86,CANADA,CE/CS
+159,2.5,7.5,60,56,University of Moncton.,0.85,CANADA,CE/CS
+59,3.1,5.8,77,36,University of Prince Edward Island,0.35,CANADA,CE/CS
+232,0.4,4.4,76,94,University of Guelph,0.1,CANADA,CE/CS
+142,2.1,6.0,71,38,University of Alberta,0.03,CANADA,CE/CS
+168,3.9,2.9,79,1,University of Waterloo,0.94,CANADA,CE/CS
+199,4.0,0.4,49,13,University of Manitoba,0.21,CANADA,CE/CS
+179,2.4,1.2,62,40,University of Ontario Institute of Technology,0.06,CANADA,CE/CS
+48,3.5,5.0,88,92,McGill University,0.3,CANADA,CE/CS
+279,3.9,8.9,7,18,University of Montreal,0.96,CANADA,CE/CS
+174,2.4,7.6,60,47,McGill University,0.87,CANADA,CE/CS
+250,1.6,0.3,25,83,Nipissing University,0.22,CANADA,CE/CS
+220,2.4,8.1,32,19,University of Toronto,0.87,CANADA,CE/CS
+329,3.1,1.6,85,62,University of Lethbridge,0.66,CANADA,CE/CS
+323,3.7,5.9,59,37,University of New Brunswick,0.4,CANADA,CE/CS
+102,1.1,6.3,42,63,Laval University,0.51,CANADA,CE/CS
+249,2.0,1.3,35,79,Laval University,0.48,CANADA,CE/CS
+217,2.3,3.6,74,1,University of Alberta,0.93,CANADA,CE/CS
+235,1.0,7.4,14,21,University of King's College,0.87,CANADA,CE/CS
+51,3.0,6.9,84,22,Mount Allison University,0.73,CANADA,CE/CS
+190,0.9,2.4,6,61,Royal Roads University,0.8,CANADA,CE/CS
+286,2.7,6.3,49,76,University of Saskatchewan,0.5,CANADA,CE/CS
+77,3.2,2.7,49,95,University of Western Ontario,0.68,CANADA,CE/CS
+238,0.2,8.7,5,16,University of Montreal,0.57,CANADA,CE/CS
+252,1.9,0.6,42,7,University of Alberta,0.49,CANADA,CE/CS
+37,0.3,0.9,36,96,University of Moncton.,0.43,CANADA,CE/CS
+3,2.7,7.9,14,81,University of King's College,0.21,CANADA,CE/CS
+2,3.6,0.4,100,24,University of Calgary,0.51,CANADA,CE/CS
+269,1.8,7.2,78,46,Mount Royal University,0.67,CANADA,CE/CS
+203,2.7,8.8,55,45,Laval University,0.07,CANADA,CE/CS
+216,0.4,1.2,24,28,Carleton University,0.66,CANADA,CE/CS
+272,0.3,0.9,87,76,Mount Royal University,0.52,CANADA,CE/CS
+78,2.4,4.7,80,2,University of Alberta,0.98,CANADA,CE/CS
+325,3.6,5.6,85,67,Saint Mary's University,0.95,CANADA,CE/CS
+262,0.9,6.8,58,99,McMaster University,0.54,CANADA,CE/CS
+256,0.3,3.3,18,2,University of Winnipeg,0.34,CANADA,CE/CS
+201,2.3,0.3,25,35,University of Lethbridge,0.85,CANADA,CE/CS
+116,0.4,7.7,19,72,York University,0.0,CANADA,CE/CS
+175,3.6,2.2,90,45,University of Victoria,0.53,CANADA,CE/CS
+23,3.4,1.4,51,82,University of Montreal,0.87,CANADA,CE/CS
+131,0.3,0.8,94,2,University of Fraser Valley,0.61,CANADA,CE/CS
+81,0.9,4.6,72,0,Brock University,0.28,CANADA,CE/CS
+139,0.5,4.7,65,44,University of Ontario Institute of Technology,0.95,CANADA,CE/CS
+40,0.8,9.0,16,64,Dalhousie University,0.51,CANADA,CE/CS
+228,2.9,0.0,10,5,Mount Allison University,0.73,CANADA,CE/CS
+242,0.3,5.6,56,19,University of Toronto,0.3,CANADA,CE/CS
+26,2.8,4.3,66,22,University of Sherbrooke,0.48,CANADA,CE/CS
+61,1.2,1.4,53,19,Laurentian University,0.95,CANADA,CE/CS
+190,3.1,0.6,75,88,Laval University,0.58,CANADA,CE/CS
+311,0.6,2.6,57,59,University of Prince Edward Island,0.66,CANADA,CE/CS
+86,1.0,8.7,19,25,University of New Brunswick,0.3,CANADA,CE/CS
+191,1.7,1.9,66,56,Brock University,0.4,CANADA,CE/CS
+132,0.5,6.3,80,3,University of Regina,0.38,CANADA,CE/CS
+86,2.9,6.5,62,87,University of Lethbridge,0.11,CANADA,CE/CS
+239,3.3,3.4,84,6,Laval University,0.36,CANADA,CE/CS
+198,3.6,1.8,29,79,University of New Brunswick,0.05,CANADA,CE/CS
+198,3.5,0.3,31,40,University of Winnipeg,0.28,CANADA,CE/CS
+336,0.8,6.5,72,29,University of Ottawa,0.32,CANADA,CE/CS
+134,2.0,5.8,71,81,University of Western Ontario,0.31,CANADA,CE/CS
+57,1.7,4.7,17,74,Mount Royal University,0.58,CANADA,CE/CS
+144,0.5,8.8,41,13,Carleton University,0.24,CANADA,CE/CS
+237,3.5,5.5,70,49,University of Western Ontario,0.34,CANADA,CE/CS
+20,1.6,8.8,99,59,University of Toronto,0.72,CANADA,CE/CS
+337,3.6,6.1,43,57,Mount Allison University,0.95,CANADA,CE/CS
+299,1.5,5.6,53,92,Wilfrid Laurier University,0.08,CANADA,CE/CS
+100,3.8,5.1,5,59,University of Toronto,0.59,CANADA,CE/CS
+199,0.1,3.9,24,49,Trent University,0.92,CANADA,CE/CS
+145,3.4,2.0,56,52,University of Lethbridge,0.65,CANADA,CE/CS
+209,1.3,5.6,73,19,University of Regina,0.64,CANADA,CE/CS
+3,3.2,1.4,65,38,University of Sherbrooke,0.16,CANADA,CE/CS
+230,3.1,7.0,82,18,Thompson Rivers University,0.29,CANADA,CE/CS
+128,1.0,8.5,43,41,University of Alberta,0.76,CANADA,CE/CS
+85,1.2,0.8,32,6,University of Alberta,0.65,CANADA,CE/CS
+238,3.9,8.0,53,79,Royal Roads University,0.82,CANADA,CE/CS
+59,1.6,8.9,56,72,Trent University,0.3,CANADA,CE/CS
+231,1.9,1.6,94,4,Nipissing University,0.24,CANADA,CE/CS
+302,1.8,5.7,90,23,University of Moncton.,0.78,CANADA,CE/CS
+58,4.0,2.1,84,99,McGill University,0.47,CANADA,CE/CS
+253,0.9,0.8,32,45,University of New Brunswick,0.81,CANADA,CE/CS
+238,0.8,3.7,19,64,University of Winnipeg,0.19,CANADA,CE/CS
+119,1.0,5.9,48,82,Queen's University,0.9,CANADA,CE/CS
+331,1.8,5.9,15,28,Ryerson University,0.28,CANADA,CE/CS
+323,1.2,7.9,77,62,Dalhousie University,0.75,CANADA,CE/CS
+208,0.3,5.7,98,95,Ryerson University,0.88,CANADA,CE/CS
+183,0.7,8.2,5,72,Saint Mary's University,0.4,CANADA,CE/CS
+262,0.4,0.7,77,12,McGill University,0.77,CANADA,CE/CS
+232,1.8,1.4,18,57,University of Windsor,0.72,CANADA,CE/CS
+52,2.5,1.9,12,93,University of Victoria,0.7,CANADA,CE/CS
+184,0.1,0.5,58,19,University of Toronto,0.07,CANADA,CE/CS
+36,2.6,7.5,86,72,Thompson Rivers University,0.02,CANADA,CE/CS
+159,3.7,6.9,55,55,McMaster University,0.45,CANADA,CE/CS
+116,3.1,8.0,89,9,Trent University,0.28,CANADA,CE/CS
+197,1.6,4.5,73,84,University of Saskatchewan,0.2,CANADA,CE/CS
+254,3.8,4.1,21,12,Nipissing University,0.6,CANADA,CE/CS
+167,1.3,1.9,53,81,University of Regina,0.09,CANADA,CE/CS
+255,3.5,2.0,22,53,Wilfrid Laurier University,0.9,CANADA,CE/CS
+170,3.6,3.6,31,57,Carleton University,0.47,CANADA,CE/CS
+38,0.5,3.6,48,68,Royal Roads University,0.61,CANADA,CE/CS
+124,1.3,4.0,45,36,University of Sherbrooke,0.68,CANADA,CE/CS
+278,0.8,6.9,2,70,Brock University,0.54,CANADA,CE/CS
+255,1.9,2.3,82,72,Cape Breton University,0.76,CANADA,CE/CS
+285,0.7,6.9,56,89,University of Regina,0.04,CANADA,CE/CS
+239,3.8,2.2,70,87,Laval University,0.82,CANADA,CE/CS
+3,2.9,4.7,60,92,University of Saskatchewan,0.35,CANADA,CE/CS
+275,2.3,5.6,4,46,York University,0.4,CANADA,CE/CS
+177,0.7,7.8,47,88,Ryerson University,0.77,CANADA,CE/CS
+243,2.2,8.2,10,76,University of Western Ontario,0.5,CANADA,CE/CS
+206,2.7,2.8,69,3,University of Montreal,0.64,CANADA,CE/CS
+321,2.1,0.4,46,94,York University,0.42,CANADA,CE/CS
+310,3.4,1.7,51,91,University of Manitoba,0.71,CANADA,CE/CS
+255,3.9,4.4,31,2,University of Toronto,0.97,CANADA,CE/CS
+253,1.5,3.4,11,37,University of Prince Edward Island,0.24,CANADA,CE/CS
+241,2.5,6.2,47,25,Mount Royal University,0.06,CANADA,CE/CS
+273,0.3,4.6,70,57,University of Victoria,0.7,CANADA,CE/CS
+302,0.2,0.9,43,25,Nipissing University,0.58,CANADA,CE/CS
+48,3.0,8.5,62,44,Wilfrid Laurier University,0.68,CANADA,CE/CS
+103,0.6,4.0,5,43,University of Prince Edward Island,0.97,CANADA,CE/CS
+180,1.3,0.1,21,58,University of Toronto,0.76,CANADA,CE/CS
+160,1.6,7.7,25,13,Wilfrid Laurier University,0.26,CANADA,CE/CS
+281,3.3,7.5,82,97,University of Montreal,0.57,CANADA,CE/CS
+0,0.7,7.7,69,13,University of Lethbridge,0.96,CANADA,CE/CS
+182,0.8,8.0,12,73,Mount Royal University,0.85,CANADA,CE/CS
+93,2.1,7.3,70,94,University of Calgary,0.15,CANADA,CE/CS
+311,3.3,0.8,71,80,University of Moncton.,0.31,CANADA,CE/CS
+87,3.6,1.4,18,35,Nipissing University,0.66,CANADA,CE/CS
+14,1.7,0.8,3,40,University of Guelph,0.3,CANADA,CE/CS
+114,3.5,9.0,66,42,Bishop's University,0.56,CANADA,CE/CS
+277,2.5,3.2,73,87,University of Manitoba,0.11,CANADA,CE/CS
+253,3.0,5.0,99,98,University of Northern British Columbia,0.88,CANADA,CE/CS
+162,0.3,2.6,4,9,Saint Mary's University,0.29,CANADA,CE/CS
+295,0.6,3.2,8,62,Queen's University,0.64,CANADA,CE/CS
+143,0.8,5.3,95,48,Thompson Rivers University,0.24,CANADA,CE/CS
+276,1.2,8.3,69,6,Trent University,0.92,CANADA,CE/CS
+214,0.2,6.5,26,51,University of Moncton.,0.11,CANADA,CE/CS
+297,3.6,5.8,37,23,Mount Allison University,0.32,CANADA,CE/CS
+241,1.8,1.8,36,77,University of Northern British Columbia,0.27,CANADA,CE/CS
+177,0.7,0.1,41,18,Mount Royal University,0.55,CANADA,CE/CS
+199,3.2,8.5,1,59,Laurentian University,0.81,CANADA,CE/CS
+263,0.1,8.5,38,7,Athabasca University,0.2,CANADA,CE/CS
+179,2.8,0.5,41,42,University of Prince Edward Island,0.7,CANADA,CE/CS
+207,3.5,2.0,64,59,Cape Breton University,0.52,CANADA,CE/CS
+233,1.0,6.7,63,92,York University,0.82,CANADA,CE/CS
+198,1.0,7.6,92,71,Royal Roads University,0.46,CANADA,CE/CS
+276,3.3,1.5,83,79,McGill University,0.55,CANADA,CE/CS
+300,3.8,8.5,15,73,Thompson Rivers University,0.79,CANADA,CE/CS
+51,2.5,8.2,62,88,University of Western Ontario,0.52,CANADA,CE/CS
+112,3.4,7.0,14,56,Mount Royal University,0.31,CANADA,CE/CS
+102,1.6,0.4,72,22,University of Ottawa,0.63,CANADA,CE/CS
+123,0.8,7.8,25,65,University of Lethbridge,0.82,CANADA,CE/CS
+165,1.7,3.2,9,80,University of King's College,0.38,CANADA,CE/CS
+187,1.3,0.9,24,78,Carleton University,0.85,CANADA,CE/CS
+235,2.9,8.6,100,74,University of Alberta,0.59,CANADA,CE/CS
+326,0.3,7.1,30,97,University of Northern British Columbia,0.49,CANADA,CE/CS
+249,1.2,0.3,85,34,Wilfrid Laurier University,0.58,CANADA,CE/CS
+114,1.7,5.1,1,16,Athabasca University,0.57,CANADA,CE/CS
+330,1.5,8.9,33,44,Concordia University,0.76,CANADA,CE/CS
+258,2.0,8.0,86,16,University of Winnipeg,0.91,CANADA,CE/CS
+68,3.9,3.1,87,52,York University,0.2,CANADA,CE/CS
+38,1.8,2.1,37,100,Nipissing University,0.32,CANADA,CE/CS
+311,3.4,1.4,85,1,Trent University,0.42,CANADA,CE/CS
+299,2.5,4.5,99,26,Nipissing University,0.35,CANADA,CE/CS
+0,3.0,0.6,54,54,University of New Brunswick,0.92,CANADA,CE/CS
+174,2.0,1.1,29,15,Queen's University,0.88,CANADA,CE/CS
+276,2.7,6.1,69,64,University of Toronto,0.87,CANADA,CE/CS
+278,1.7,6.1,55,65,University of Fraser Valley,0.71,CANADA,CE/CS
+184,2.8,8.7,24,12,Concordia University,0.04,CANADA,CE/CS
+231,3.4,7.8,77,59,Mount Royal University,0.05,CANADA,CE/CS
+180,3.7,3.6,80,69,University of Guelph,0.81,CANADA,CE/CS
+116,0.9,8.2,75,57,University of Fraser Valley,0.88,CANADA,CE/CS
+319,3.5,6.5,54,47,Laval University,0.63,CANADA,CE/CS
+170,3.2,8.9,49,7,University of New Brunswick,0.47,CANADA,CE/CS
+270,2.6,0.5,58,81,Ryerson University,0.32,CANADA,CE/CS
+265,1.9,2.6,31,82,Ryerson University,0.22,CANADA,CE/CS
+221,1.3,4.3,89,23,Wilfrid Laurier University,0.39,CANADA,CE/CS
+316,0.8,8.6,1,73,Memorial University of Newfoundland,0.33,CANADA,CE/CS
+212,3.5,1.2,72,98,University of Sherbrooke,0.15,CANADA,CE/CS
+117,1.3,4.0,36,71,Brock University,0.03,CANADA,CE/CS
+300,3.1,7.7,67,63,University of Moncton.,0.99,CANADA,CE/CS
+118,2.1,2.3,15,44,University of Ontario Institute of Technology,0.7,CANADA,CE/CS
+60,0.3,3.1,45,55,University of Guelph,0.98,CANADA,CE/CS
+193,3.9,3.3,3,80,Trent University,0.11,CANADA,CE/CS
+32,2.0,5.4,8,43,University of British Columbia,0.12,CANADA,CE/CS
+219,0.2,1.2,79,41,Mount Allison University,0.35,CANADA,CE/CS
+27,0.3,7.6,16,80,Wilfrid Laurier University,0.64,CANADA,CE/CS
+278,0.4,2.5,72,87,Wilfrid Laurier University,0.06,CANADA,CE/CS
+110,2.3,7.9,15,41,University of Toronto,0.32,CANADA,CE/CS
+59,3.6,2.7,3,72,University of Ontario Institute of Technology,0.06,CANADA,CE/CS
+104,2.1,6.5,64,33,University of Guelph,0.37,CANADA,CE/CS
+74,1.3,8.6,49,92,Dalhousie University,0.34,CANADA,CE/CS
+70,1.6,6.1,48,66,Wilfrid Laurier University,0.92,CANADA,CE/CS
+27,1.1,5.9,25,2,University of Prince Edward Island,0.88,CANADA,CE/CS
+295,2.2,7.9,34,66,Royal Roads University,0.49,CANADA,CE/CS
+218,2.0,1.6,4,87,University of Lethbridge,0.29,CANADA,CE/CS
+148,1.5,7.3,7,23,Royal Roads University,0.06,CANADA,CE/CS
+218,0.4,7.6,26,32,Ryerson University,0.58,CANADA,CE/CS
+172,2.5,6.0,92,23,Bishop's University,0.15,CANADA,CE/CS
+325,3.5,1.4,100,7,Concordia University,0.49,CANADA,CE/CS
+286,1.0,5.9,17,59,Dalhousie University,0.33,CANADA,CE/CS
+84,1.6,6.6,91,69,Thompson Rivers University,0.61,CANADA,CE/CS
+146,3.1,3.2,50,47,Brock University,0.67,CANADA,CE/CS
+75,2.2,6.9,70,78,Bishop's University,0.3,CANADA,CE/CS
+83,0.5,4.4,27,98,York University,0.47,CANADA,CE/CS
+108,3.7,1.3,57,76,University of New Brunswick,0.03,CANADA,CE/CS
+51,1.8,7.6,73,15,Memorial University of Newfoundland,0.16,CANADA,CE/CS
+278,2.6,4.0,2,46,Queen's University,0.02,CANADA,CE/CS
+101,1.9,8.5,38,81,University of Saskatchewan,0.95,CANADA,CE/CS
+59,3.4,0.1,58,77,Athabasca University,0.95,CANADA,CE/CS
+226,2.3,6.2,56,91,Simon Fraser University,0.88,CANADA,CE/CS
+24,1.3,6.4,59,6,Mount Royal University,0.09,CANADA,CE/CS
+326,1.0,1.4,78,88,Ryerson University,0.4,CANADA,CE/CS
+180,3.3,8.3,92,99,University of New Brunswick,0.91,CANADA,CE/CS
+90,3.3,8.8,1,90,Dalhousie University,0.29,CANADA,CE/CS
+22,0.1,4.6,29,17,University of Toronto,0.2,CANADA,CE/CS
+144,0.1,4.0,6,44,University of Regina,0.43,CANADA,CE/CS
+88,1.7,7.5,37,49,Laval University,0.44,CANADA,CE/CS
+235,0.2,5.7,12,21,University of Lethbridge,0.5,CANADA,CE/CS
+100,0.3,6.0,82,82,University of Manitoba,0.57,CANADA,CE/CS
+42,1.8,3.5,68,66,University of Ottawa,0.31,CANADA,CE/CS
+64,3.9,1.9,13,0,University of Prince Edward Island,0.64,CANADA,CE/CS
+249,2.6,3.5,10,43,Laval University,0.59,CANADA,CE/CS
+275,1.8,4.6,64,30,Laurentian University,0.82,CANADA,CE/CS
+128,2.5,6.0,89,2,University of Guelph,0.0,CANADA,CE/CS
+53,1.9,2.9,98,40,Mount Allison University,0.1,CANADA,CE/CS
+128,0.4,7.3,26,82,University of Ontario Institute of Technology,0.42,CANADA,CE/CS
+200,0.2,4.3,35,18,University of King's College,0.59,CANADA,CE/CS
+24,0.4,8.9,3,47,York University,0.82,CANADA,CE/CS
+14,2.8,6.6,46,14,University of Fraser Valley,0.45,CANADA,CE/CS
+170,0.6,9.0,42,58,University of Western Ontario,0.27,CANADA,CE/CS
+119,1.4,2.2,11,87,Laval University,0.38,CANADA,CE/CS
+328,3.0,6.1,31,7,University of Victoria,0.75,CANADA,CE/CS
+23,0.2,7.3,48,85,University of New Brunswick,0.48,CANADA,CE/CS
+146,0.8,4.4,94,22,University of Moncton.,0.21,CANADA,CE/CS
+48,2.5,7.4,95,40,University of Waterloo,0.2,CANADA,CE/CS
+91,3.7,2.2,18,14,Saint Mary's University,0.38,CANADA,CE/CS
+58,3.5,3.5,87,70,University of Victoria,0.9,CANADA,CE/CS
+174,3.4,3.5,82,25,Royal Roads University,0.03,CANADA,CE/CS
+233,3.4,8.7,60,37,University of Toronto,0.82,CANADA,CE/CS
+248,2.3,1.4,28,67,Athabasca University,0.58,CANADA,CE/CS
+290,1.0,8.1,83,39,Brock University,0.42,CANADA,CE/CS
+183,0.8,4.5,75,70,Nipissing University,0.67,CANADA,CE/CS
+150,3.4,2.2,41,75,Cape Breton University,0.55,CANADA,CE/CS
+35,1.0,5.9,83,56,University of New Brunswick,0.16,CANADA,CE/CS
+278,3.6,1.8,34,58,Mount Royal University,0.75,CANADA,CE/CS
+301,0.4,7.0,26,54,University of New Brunswick,0.25,CANADA,CE/CS
+136,0.2,0.3,94,82,Thompson Rivers University,0.64,CANADA,CE/CS
+58,3.4,4.8,5,91,Ryerson University,0.11,CANADA,CE/CS
+76,3.1,6.9,75,13,University of Manitoba,0.16,CANADA,CE/CS
+133,0.4,0.3,7,62,Royal Roads University,0.91,CANADA,CE/CS
+43,2.8,5.3,13,70,Thompson Rivers University,0.71,CANADA,CE/CS
+172,3.5,8.4,10,59,University of Manitoba,0.81,CANADA,CE/CS
+230,1.0,2.8,11,32,Queen's University,0.9,CANADA,CE/CS
+270,3.2,8.9,36,76,University of Moncton.,0.52,CANADA,CE/CS
+89,1.4,0.5,30,54,University of Calgary,0.04,CANADA,CE/CS
+101,1.3,1.5,5,86,University of Ottawa,0.55,CANADA,CE/CS
+148,3.9,8.2,14,11,Cape Breton University,0.88,CANADA,CE/CS
+136,0.9,1.0,47,80,Carleton University,0.96,CANADA,CE/CS
+309,0.1,3.9,15,39,University of Western Ontario,0.61,CANADA,CE/CS
+92,1.2,7.5,56,30,University of Toronto,0.1,CANADA,CE/CS
+153,2.6,6.2,24,15,Memorial University of Newfoundland,0.0,CANADA,CE/CS
+284,2.5,2.5,80,40,University of Guelph,0.36,CANADA,CE/CS
+98,0.6,8.6,49,26,Mount Allison University,0.34,CANADA,CE/CS
+208,2.4,8.0,75,69,Dalhousie University,0.15,CANADA,CE/CS
+294,1.1,1.1,66,91,Cape Breton University,0.67,CANADA,CE/CS
+33,3.2,3.3,95,76,University of Regina,0.57,CANADA,CE/CS
+287,3.2,1.9,19,60,University of Montreal,0.19,CANADA,CE/CS
+218,4.0,8.4,41,97,Nipissing University,0.24,CANADA,CE/CS
+243,2.8,2.5,46,51,University of Waterloo,0.29,CANADA,CE/CS
+203,2.2,1.5,27,39,University of Waterloo,0.61,CANADA,CE/CS
+316,3.5,1.6,46,8,University of New Brunswick,0.42,CANADA,CE/CS
+57,3.2,3.9,65,33,University of Manitoba,0.12,CANADA,CE/CS
+250,1.4,3.8,4,41,Queen's University,0.53,CANADA,CE/CS
+181,0.8,5.2,32,13,University of Toronto,0.85,CANADA,CE/CS
+270,2.9,1.0,98,65,University of Waterloo,0.39,CANADA,CE/CS
+340,3.9,2.9,81,47,Dalhousie University,0.69,CANADA,CE/CS
+169,0.2,5.7,10,2,University of British Columbia,0.06,CANADA,CE/CS
+99,3.7,3.0,71,34,University of New Brunswick,0.61,CANADA,CE/CS
+228,3.4,8.4,69,51,Brock University,0.73,CANADA,CE/CS
+324,4.0,2.6,17,96,University of Ontario Institute of Technology,0.28,CANADA,CE/CS
+125,1.3,7.6,80,73,University of Saskatchewan,0.98,CANADA,CE/CS
+249,1.7,4.0,58,13,University of Lethbridge,0.37,CANADA,CE/CS
+252,0.8,7.2,71,85,Cape Breton University,0.94,CANADA,CE/CS
+72,3.4,6.9,100,6,University of Ontario Institute of Technology,0.55,CANADA,CE/CS
+59,0.9,4.5,69,47,Carleton University,0.05,CANADA,CE/CS
+74,1.1,3.5,54,82,University of Lethbridge,0.73,CANADA,CE/CS
+323,3.6,8.9,60,93,University of King's College,0.69,CANADA,CE/CS
+166,3.5,8.5,49,85,University of Manitoba,0.9,CANADA,CE/CS
+31,3.2,1.5,31,67,Cape Breton University,0.55,CANADA,CE/CS
+212,0.1,3.6,50,92,University of Calgary,0.04,CANADA,CE/CS
+65,2.8,0.9,18,16,Carleton University,0.39,CANADA,CE/CS
+325,2.1,3.9,3,11,McMaster University,0.95,CANADA,CE/CS
+131,3.1,1.1,61,34,Nipissing University,0.24,CANADA,CE/CS
+25,0.5,5.1,69,60,Cape Breton University,0.49,CANADA,CE/CS
+241,3.1,4.6,32,90,Concordia University,0.14,CANADA,CE/CS
+108,4.0,2.4,96,91,Queen's University,0.59,CANADA,CE/CS
+49,1.2,2.5,19,31,University of Regina,0.79,CANADA,CE/CS
+310,0.2,3.0,91,31,Mount Allison University,0.93,CANADA,CE/CS
+328,3.3,5.7,13,29,Carleton University,0.34,CANADA,CE/CS
+141,0.3,5.7,30,8,University of Toronto,0.77,CANADA,CE/CS
+64,2.5,7.9,3,8,University of Manitoba,0.88,CANADA,CE/CS
+92,0.1,3.9,100,53,University of Fraser Valley,0.33,CANADA,CE/CS
+28,1.7,0.6,91,55,University of Saskatchewan,0.44,CANADA,CE/CS
+236,2.7,2.2,55,99,Queen's University,0.48,CANADA,CE/CS
+113,2.9,1.8,3,73,University of Ontario Institute of Technology,0.82,CANADA,CE/CS
+48,0.4,7.8,5,63,Mount Allison University,0.48,CANADA,CE/CS
+89,3.1,0.0,73,44,University of Calgary,0.86,CANADA,CE/CS
+76,0.2,2.9,46,29,McMaster University,0.34,CANADA,CE/CS
+320,3.7,6.7,2,26,McMaster University,0.72,CANADA,CE/CS
+62,0.2,7.3,71,57,Nipissing University,0.69,CANADA,CE/CS
+5,3.0,0.6,54,10,Laval University,0.88,CANADA,CE/CS
+61,0.3,3.6,2,58,University of British Columbia,0.76,CANADA,CE/CS
+21,0.4,5.0,5,19,University of Victoria,0.51,CANADA,CE/CS
+255,1.4,6.4,18,58,University of Guelph,0.18,CANADA,CE/CS
+68,3.3,6.1,72,90,Ryerson University,0.86,CANADA,CE/CS
+259,1.9,4.1,86,68,Nipissing University,0.66,CANADA,CE/CS
+255,3.1,1.3,38,69,University of Fraser Valley,0.76,CANADA,CE/CS
+36,0.4,3.5,47,63,University of Ontario Institute of Technology,0.74,CANADA,CE/CS
+137,2.1,0.1,59,66,York University,0.94,CANADA,CE/CS
+14,2.2,6.4,83,44,University of Saskatchewan,0.67,CANADA,CE/CS
+153,2.1,7.8,47,43,Athabasca University,0.02,CANADA,CE/CS
+5,1.1,2.0,13,53,Simon Fraser University,0.43,CANADA,CE/CS
+26,0.1,0.5,15,59,University of Lethbridge,0.2,CANADA,CE/CS
+335,1.8,6.8,24,83,University of Guelph,0.53,CANADA,CE/CS
+111,3.1,0.4,12,27,York University,0.07,CANADA,CE/CS
+301,0.3,1.0,88,40,Brock University,0.65,CANADA,CE/CS
+51,0.7,4.4,54,18,University of Ottawa,0.14,CANADA,CE/CS
+305,1.2,3.4,37,62,Laval University,0.57,CANADA,CE/CS
+101,0.1,4.9,5,17,University of Moncton.,0.58,CANADA,CE/CS
+237,1.5,7.7,19,83,York University,0.38,CANADA,CE/CS
+251,0.9,4.0,99,31,Athabasca University,0.56,CANADA,CE/CS
+245,2.0,8.3,62,80,York University,0.86,CANADA,CE/CS
+14,0.5,8.5,78,1,Laurentian University,0.45,CANADA,CE/CS
+184,4.0,2.6,75,63,Memorial University of Newfoundland,0.08,CANADA,CE/CS
+265,2.2,3.9,42,14,University of Winnipeg,0.43,CANADA,CE/CS
+327,1.7,3.0,15,83,University of Lethbridge,0.55,CANADA,CE/CS
+141,0.2,1.4,35,58,University of Lethbridge,0.27,CANADA,CE/CS
+27,0.1,2.1,49,26,Simon Fraser University,0.29,CANADA,CE/CS
+295,3.9,8.7,16,5,Nipissing University,0.14,CANADA,CE/CS
+189,0.7,8.8,14,91,Concordia University,0.07,CANADA,CE/CS
+20,1.2,5.1,45,75,Thompson Rivers University,0.45,CANADA,CE/CS
+224,3.4,1.9,77,48,University of Winnipeg,0.44,CANADA,CE/CS
+150,2.1,0.9,25,71,University of Toronto,0.65,CANADA,CE/CS
+329,1.8,2.3,5,96,University of Lethbridge,0.5,CANADA,CE/CS
+325,3.9,8.7,51,75,Royal Roads University,0.17,CANADA,CE/CS
+132,0.7,8.4,38,12,Simon Fraser University,0.88,CANADA,CE/CS
+265,1.2,3.2,91,16,University of Winnipeg,0.55,CANADA,CE/CS
+241,2.9,5.8,39,44,University of Fraser Valley,0.37,CANADA,CE/CS
+43,0.8,2.7,49,55,Dalhousie University,0.43,CANADA,CE/CS
+268,2.0,0.9,1,85,Mount Royal University,0.59,CANADA,CE/CS
+316,3.1,1.1,17,40,University of Victoria,0.1,CANADA,CE/CS
+115,1.1,3.8,16,69,University of Alberta,0.6,CANADA,CE/CS
+146,2.7,0.6,35,11,University of Alberta,0.15,CANADA,CE/CS
+184,0.7,7.1,81,50,Dalhousie University,0.69,CANADA,CE/CS
+223,4.0,3.8,67,26,University of Fraser Valley,0.89,CANADA,CE/CS
+86,3.6,1.6,68,89,Trent University,0.72,CANADA,CE/CS
+107,3.5,1.3,45,49,Trent University,0.5,CANADA,CE/CS
+5,3.4,0.8,10,56,Mount Royal University,0.62,CANADA,CE/CS
+290,3.8,4.4,40,17,University of Calgary,0.39,CANADA,CE/CS
+110,1.0,7.0,77,15,Athabasca University,0.72,CANADA,CE/CS
+285,0.9,5.6,43,56,University of Prince Edward Island,0.16,CANADA,CE/CS
+241,2.6,8.6,44,82,University of Waterloo,0.27,CANADA,CE/CS
+299,0.7,5.1,27,69,University of New Brunswick,0.6,CANADA,CE/CS
+215,2.4,0.8,88,98,Carleton University,0.33,CANADA,CE/CS
+263,0.7,7.4,44,94,University of King's College,0.23,CANADA,CE/CS
+211,2.9,6.1,4,82,Simon Fraser University,0.49,CANADA,CE/CS
+35,0.9,1.3,66,63,University of Montreal,0.05,CANADA,CE/CS
+130,2.5,4.6,42,59,McGill University,0.94,CANADA,CE/CS
+160,2.9,3.2,51,18,University of Northern British Columbia,0.6,CANADA,CE/CS
+337,1.5,1.0,18,14,University of Waterloo,0.88,CANADA,CE/CS
+231,1.2,6.1,63,49,University of Calgary,0.05,CANADA,CE/CS
+13,2.5,2.1,32,92,Mount Allison University,0.65,CANADA,CE/CS
+96,2.0,6.5,75,98,University of Winnipeg,0.52,CANADA,CE/CS
+199,3.8,4.1,71,38,University of King's College,0.77,CANADA,CE/CS
+14,3.1,2.9,8,88,University of Regina,0.25,CANADA,CE/CS
+142,0.6,2.6,63,74,University of Ottawa,0.04,CANADA,CE/CS
+257,0.5,7.4,60,83,University of Northern British Columbia,0.06,CANADA,CE/CS
+30,0.1,2.1,54,62,University of Ottawa,0.98,CANADA,CE/CS
+7,2.6,6.9,83,67,University of Waterloo,0.16,CANADA,CE/CS
+273,4.0,3.0,32,91,Memorial University of Newfoundland,0.34,CANADA,CE/CS
+37,3.7,4.6,4,19,University of Alberta,0.15,CANADA,CE/CS
+28,1.5,6.3,96,54,Queen's University,0.24,CANADA,CE/CS
+93,3.5,3.0,67,14,University of Lethbridge,0.11,CANADA,CE/CS
+35,2.6,7.7,49,94,University of New Brunswick,0.54,CANADA,CE/CS
+52,1.4,3.5,40,60,Bishop's University,0.65,CANADA,CE/CS
+236,3.7,0.6,13,79,University of Manitoba,0.06,CANADA,CE/CS
+215,0.8,2.1,55,72,Nipissing University,0.18,CANADA,CE/CS
+164,1.4,1.3,72,0,University of Northern British Columbia,0.76,CANADA,CE/CS
+116,3.5,1.9,93,9,University of Toronto,0.67,CANADA,CE/CS
+203,3.8,4.0,40,73,Royal Roads University,0.22,CANADA,CE/CS
+197,3.1,0.3,32,20,University of Toronto,0.97,CANADA,CE/CS
+223,1.9,3.1,33,84,University of Guelph,0.12,CANADA,CE/CS
+324,0.2,5.5,15,63,Trent University,0.43,CANADA,CE/CS
+246,2.8,3.9,20,86,Cape Breton University,0.27,CANADA,CE/CS
+282,1.7,4.7,56,10,Cape Breton University,0.95,CANADA,CE/CS
+5,1.3,3.9,79,72,Dalhousie University,0.86,CANADA,CE/CS
+336,0.1,6.6,40,19,University of Victoria,1.0,CANADA,CE/CS
+92,3.9,3.2,8,62,University of Fraser Valley,0.03,CANADA,CE/CS
+41,3.9,5.8,48,17,Saint Mary's University,0.83,CANADA,CE/CS
+151,2.9,7.3,8,94,Queen's University,0.77,CANADA,CE/CS
+293,0.5,7.4,85,52,Concordia University,0.06,CANADA,CE/CS
+24,2.3,5.5,60,30,University of Calgary,0.36,CANADA,CE/CS
+24,2.5,7.7,5,73,Brock University,0.38,CANADA,CE/CS
+82,2.5,3.2,25,16,University of Moncton.,0.29,CANADA,CE/CS
+64,0.8,3.9,70,32,University of Western Ontario,0.98,CANADA,CE/CS
+324,0.3,4.8,60,1,Mount Allison University,0.98,CANADA,CE/CS
+124,2.7,0.1,75,90,University of Ottawa,0.52,CANADA,CE/CS
+183,0.7,4.9,11,4,University of British Columbia,0.58,CANADA,CE/CS
+190,1.4,1.9,33,98,Saint Mary's University,0.06,CANADA,CE/CS
+275,0.9,4.2,85,79,Wilfrid Laurier University,0.88,CANADA,CE/CS
+19,1.1,4.8,47,65,University of New Brunswick,0.74,CANADA,CE/CS
+159,3.8,0.9,95,90,University of Toronto,0.31,CANADA,CE/CS
+129,3.9,1.0,62,73,Mount Allison University,0.21,CANADA,CE/CS
+117,0.9,1.8,66,61,York University,0.24,CANADA,CE/CS
+150,2.7,4.1,60,37,Nipissing University,0.99,CANADA,CE/CS
+243,3.7,4.4,89,22,University of Windsor,0.7,CANADA,CE/CS
+203,0.2,5.0,24,76,Mount Allison University,0.66,CANADA,CE/CS
+255,1.9,6.6,34,17,Simon Fraser University,0.94,CANADA,CE/CS
+5,3.4,1.9,93,94,McMaster University,0.55,CANADA,CE/CS
+87,2.1,4.9,85,58,Mount Royal University,0.96,CANADA,CE/CS
+207,3.4,3.5,48,76,Trent University,0.53,CANADA,CE/CS
+140,2.5,4.0,8,78,Dalhousie University,0.59,CANADA,CE/CS
+138,2.5,3.7,8,39,University of King's College,0.04,CANADA,CE/CS
+262,0.6,3.3,50,88,Thompson Rivers University,0.71,CANADA,CE/CS
+234,1.2,0.5,75,49,University of King's College,0.7,CANADA,CE/CS
+172,2.3,1.6,32,35,University of Ottawa,0.76,CANADA,CE/CS
+329,0.4,3.4,12,88,University of Saskatchewan,0.76,CANADA,CE/CS
+326,1.6,5.2,76,41,University of Calgary,0.95,CANADA,CE/CS
+161,1.8,8.1,22,26,University of Guelph,0.37,CANADA,CE/CS
+16,2.5,0.9,10,62,University of Montreal,0.46,CANADA,CE/CS
+181,3.3,6.2,33,4,University of Ottawa,0.49,CANADA,CE/CS
+79,2.2,0.9,60,6,University of King's College,0.88,CANADA,CE/CS
+262,1.2,3.0,82,44,University of Calgary,0.72,CANADA,CE/CS
+45,0.7,2.6,74,7,University of Manitoba,0.81,CANADA,CE/CS
+180,2.3,2.6,86,45,University of Windsor,0.84,CANADA,CE/CS
+252,1.3,1.5,75,82,Carleton University,0.45,CANADA,CE/CS
+60,0.6,8.1,17,22,Carleton University,0.24,CANADA,CE/CS
+140,1.1,0.9,19,69,University of Western Ontario,0.9,CANADA,CE/CS
+188,1.5,0.4,1,35,University of Winnipeg,0.81,CANADA,CE/CS
+14,3.4,8.5,37,19,Brock University,0.23,CANADA,CE/CS
+158,0.7,2.8,44,95,University of Moncton.,0.69,CANADA,CE/CS
+109,1.0,1.6,48,56,Royal Roads University,0.88,CANADA,CE/CS
+323,0.3,0.8,88,68,University of New Brunswick,0.95,CANADA,CE/CS
+198,2.0,7.8,66,34,Carleton University,0.95,CANADA,CE/CS
+316,3.7,3.2,18,10,University of New Brunswick,0.08,CANADA,CE/CS
+83,1.2,7.7,96,73,University of Windsor,0.56,CANADA,CE/CS
+160,3.2,2.9,39,81,Bishop's University,0.82,CANADA,CE/CS
+223,1.5,4.0,63,48,University of New Brunswick,0.24,CANADA,CE/CS
+323,1.2,8.4,27,18,Laurentian University,0.21,CANADA,CE/CS
+51,1.2,8.0,99,91,University of Calgary,0.73,CANADA,CE/CS
+335,3.3,1.2,92,62,Cape Breton University,0.67,CANADA,CE/CS
+302,2.5,2.6,20,31,Carleton University,0.77,CANADA,CE/CS
+179,0.2,9.0,28,71,University of Moncton.,0.73,CANADA,CE/CS
+201,0.8,2.2,20,59,Trent University,0.2,CANADA,CE/CS
+252,2.0,4.5,29,1,Wilfrid Laurier University,0.68,CANADA,CE/CS
+277,0.9,6.2,82,51,Mount Allison University,0.26,CANADA,CE/CS
+157,1.3,3.2,20,90,University of Guelph,0.44,CANADA,CE/CS
+44,1.5,0.8,20,42,University of Waterloo,0.34,CANADA,CE/CS
+10,0.7,0.6,19,80,York University,0.48,CANADA,CE/CS
+91,2.8,8.2,21,16,University of Moncton.,0.97,CANADA,CE/CS
+249,0.1,2.9,93,8,Memorial University of Newfoundland,0.87,CANADA,CE/CS
+261,0.0,4.6,90,46,Bishop's University,0.13,CANADA,CE/CS
+321,1.5,2.8,32,92,Thompson Rivers University,0.16,CANADA,CE/CS
+79,1.4,3.3,63,43,Cape Breton University,0.95,CANADA,CE/CS
+128,2.3,1.5,87,34,Simon Fraser University,0.15,CANADA,CE/CS
+259,2.1,1.2,40,37,University of Saskatchewan,0.58,CANADA,CE/CS
+39,0.3,5.4,71,95,University of Alberta,0.33,CANADA,CE/CS
+218,1.3,2.1,16,45,University of Saskatchewan,0.75,CANADA,CE/CS
+104,0.4,0.2,96,73,University of Saskatchewan,0.17,CANADA,CE/CS
+127,1.0,7.0,50,8,University of Montreal,0.47,CANADA,CE/CS
+146,1.9,5.9,72,29,McMaster University,0.44,CANADA,CE/CS
+270,1.7,7.7,42,2,University of New Brunswick,0.28,CANADA,CE/CS
+119,1.5,1.0,17,68,University of Saskatchewan,0.08,CANADA,CE/CS
+50,3.0,7.5,59,40,University of New Brunswick,0.22,CANADA,CE/CS
+151,2.0,8.0,70,11,Laval University,0.36,CANADA,CE/CS
+57,3.0,2.4,48,28,University of New Brunswick,0.74,CANADA,CE/CS
+210,2.0,0.2,42,16,Thompson Rivers University,0.26,CANADA,CE/CS
+191,2.3,8.6,67,38,University of Lethbridge,0.51,CANADA,CE/CS
+254,0.1,3.9,42,86,University of Fraser Valley,0.88,CANADA,CE/CS
+244,1.7,1.6,75,86,University of Winnipeg,0.3,CANADA,CE/CS
+6,2.0,5.2,10,82,Thompson Rivers University,0.7,CANADA,CE/CS
+334,3.9,1.2,32,57,University of Alberta,0.77,CANADA,CE/CS
+121,1.9,0.9,78,48,University of Winnipeg,0.86,CANADA,CE/CS
+260,0.0,4.0,29,23,McMaster University,0.12,CANADA,CE/CS
+292,3.1,5.5,86,95,University of New Brunswick,0.57,CANADA,CE/CS
+137,0.5,8.4,25,31,Queen's University,0.61,CANADA,CE/CS
+172,0.1,2.9,11,71,Wilfrid Laurier University,0.62,CANADA,CE/CS
+326,3.9,2.5,98,69,Athabasca University,0.59,CANADA,CE/CS
+115,0.2,8.8,12,10,University of Fraser Valley,0.94,CANADA,CE/CS
+186,0.1,6.5,4,87,Memorial University of Newfoundland,0.09,CANADA,CE/CS
+32,2.4,9.0,84,24,Queen's University,0.06,CANADA,CE/CS
+133,0.6,7.9,83,81,University of New Brunswick,0.28,CANADA,CE/CS
+93,2.7,1.0,98,24,University of British Columbia,0.89,CANADA,CE/CS
+301,2.8,2.0,9,14,Athabasca University,0.58,CANADA,CE/CS
+314,3.0,7.1,7,50,University of Prince Edward Island,0.63,CANADA,CE/CS
+325,3.7,0.1,9,59,University of Sherbrooke,0.66,CANADA,CE/CS
+76,0.6,6.6,79,77,University of Alberta,0.33,CANADA,CE/CS
+168,2.3,7.2,49,82,Mount Allison University,0.74,CANADA,CE/CS
+21,1.7,3.1,37,59,University of Winnipeg,0.32,CANADA,CE/CS
+155,2.0,6.5,41,43,University of New Brunswick,0.2,CANADA,CE/CS
+224,0.9,3.7,33,1,University of Manitoba,0.14,CANADA,CE/CS
+52,1.5,7.9,18,29,University of Lethbridge,0.59,CANADA,CE/CS
+85,2.9,2.1,3,55,Simon Fraser University,0.86,CANADA,CE/CS
+11,2.9,5.3,61,36,McMaster University,0.39,CANADA,CE/CS
+292,0.9,7.6,41,67,Queen's University,0.24,CANADA,CE/CS
+216,3.4,5.7,8,56,University of British Columbia,0.4,CANADA,CE/CS
+57,0.6,8.1,48,52,University of Sherbrooke,0.41,CANADA,CE/CS
+79,1.9,0.6,100,86,University of Calgary,0.45,CANADA,CE/CS
+159,3.7,1.1,18,94,University of Winnipeg,0.32,CANADA,CE/CS
+334,1.0,2.7,69,40,University of Saskatchewan,0.12,CANADA,CE/CS
+288,0.1,7.6,97,6,Cape Breton University,0.73,CANADA,CE/CS
+284,2.7,1.4,52,61,Laval University,0.03,CANADA,CE/CS
+175,1.7,3.8,53,6,Dalhousie University,0.74,CANADA,CE/CS
+261,2.0,2.9,47,77,University of Prince Edward Island,1.0,CANADA,CE/CS
+153,2.7,4.9,26,78,Wilfrid Laurier University,0.09,CANADA,CE/CS
+195,0.8,1.4,95,75,Simon Fraser University,0.24,CANADA,CE/CS
+114,3.8,4.8,93,93,Trent University,0.6,CANADA,CE/CS
+196,0.9,7.1,53,59,Carleton University,0.95,CANADA,CE/CS
+121,3.7,8.6,81,75,Brock University,0.62,CANADA,CE/CS
+266,0.9,8.6,99,96,University of Sherbrooke,0.75,CANADA,CE/CS
+158,4.0,6.8,70,95,University of Manitoba,0.93,CANADA,CE/CS
+274,3.6,4.3,6,63,McMaster University,0.48,CANADA,CE/CS
+93,1.5,8.8,37,18,Laurentian University,0.56,CANADA,CE/CS
+226,2.9,0.4,51,100,University of Montreal,0.57,CANADA,CE/CS
+7,1.3,4.0,13,63,University of Northern British Columbia,0.91,CANADA,CE/CS
+98,3.5,6.1,83,49,University of Regina,0.51,CANADA,CE/CS
+224,0.7,3.7,23,81,Mount Royal University,0.15,CANADA,CE/CS
+109,2.7,8.5,67,54,University of Manitoba,0.73,CANADA,CE/CS
+282,1.9,2.4,45,70,Wilfrid Laurier University,0.58,CANADA,CE/CS
+333,1.2,7.0,3,76,University of Saskatchewan,0.49,CANADA,CE/CS
+55,3.8,8.4,83,26,McGill University,0.96,CANADA,CE/CS
+134,0.4,6.8,95,79,University of Manitoba,0.65,CANADA,CE/CS
+24,3.6,6.6,80,73,York University,0.7,CANADA,CE/CS
+123,3.8,5.5,24,99,McMaster University,0.38,CANADA,CE/CS
+315,2.0,4.7,19,39,University of Prince Edward Island,0.32,CANADA,CE/CS
+266,0.2,0.2,99,31,University of Western Ontario,0.01,CANADA,CE/CS
+24,2.9,6.3,58,47,University of Waterloo,0.46,CANADA,CE/CS
+279,1.2,4.0,43,87,University of Victoria,0.5,CANADA,CE/CS
+80,2.3,4.6,24,89,University of Windsor,0.49,CANADA,CE/CS
+84,0.6,1.4,84,0,York University,0.14,CANADA,CE/CS
+20,3.2,4.3,86,20,University of Sherbrooke,0.07,CANADA,CE/CS
+110,3.0,9.0,54,0,University of Manitoba,0.76,CANADA,CE/CS
+328,2.3,6.5,84,33,University of Manitoba,0.06,CANADA,CE/CS
+282,2.7,4.1,63,1,University of Windsor,0.14,CANADA,CE/CS
+141,3.5,3.5,89,96,McMaster University,0.51,CANADA,CE/CS
+190,0.2,2.0,29,70,Mount Royal University,0.59,CANADA,CE/CS
+299,1.7,7.8,21,25,Saint Mary's University,0.06,CANADA,CE/CS
+4,1.2,5.9,25,44,University of Montreal,0.59,CANADA,CE/CS
+251,0.9,8.8,78,61,University of Ottawa,0.5,CANADA,CE/CS
+182,1.7,4.9,68,7,Athabasca University,0.01,CANADA,CE/CS
+197,2.3,1.2,53,70,Brock University,0.16,CANADA,CE/CS
+133,3.3,0.0,43,32,University of Sherbrooke,0.28,CANADA,CE/CS
+263,0.1,3.5,19,0,Wilfrid Laurier University,0.1,CANADA,CE/CS
+265,3.0,5.4,77,8,Mount Royal University,0.1,CANADA,CE/CS
+19,3.3,1.9,49,32,University of Winnipeg,0.44,CANADA,CE/CS
+258,2.6,6.6,2,98,University of Alberta,0.43,CANADA,CE/CS
+159,2.7,4.2,53,70,Bishop's University,0.97,CANADA,CE/CS
+41,0.7,6.7,81,87,University of Manitoba,0.84,CANADA,CE/CS
+219,1.0,5.5,36,67,Mount Royal University,0.33,CANADA,CE/CS
+318,3.4,0.6,32,31,University of Guelph,0.29,CANADA,CE/CS
+125,3.1,4.1,41,50,McGill University,0.52,CANADA,CE/CS
+285,0.6,4.4,61,74,Athabasca University,0.39,CANADA,CE/CS
+229,3.2,1.9,55,61,Mount Allison University,0.56,CANADA,CE/CS
+141,2.4,1.1,79,4,University of Northern British Columbia,0.47,CANADA,CE/CS
+268,0.4,8.8,82,4,University of Winnipeg,0.08,CANADA,CE/CS
+146,2.8,8.0,53,40,Mount Allison University,0.72,CANADA,CE/CS
+15,1.2,5.4,48,64,Carleton University,0.93,CANADA,CE/CS
+93,2.5,9.0,98,12,Memorial University of Newfoundland,0.62,CANADA,CE/CS
+157,0.7,8.5,2,8,Laurentian University,0.39,CANADA,CE/CS
+23,2.3,2.4,75,20,University of Windsor,0.27,CANADA,CE/CS
+332,1.7,1.1,15,79,Nipissing University,0.94,CANADA,CE/CS
+251,2.5,5.7,50,37,Mount Royal University,0.15,CANADA,CE/CS
+168,0.6,2.2,77,97,University of Winnipeg,0.54,CANADA,CE/CS
+312,0.3,1.7,99,26,University of Prince Edward Island,0.37,CANADA,CE/CS
+53,1.8,0.6,64,9,University of Manitoba,0.91,CANADA,CE/CS
+32,3.6,0.9,80,33,Wilfrid Laurier University,0.79,CANADA,CE/CS
+260,3.5,5.4,29,54,Athabasca University,0.11,CANADA,CE/CS
+193,2.7,0.3,65,86,Queen's University,0.47,CANADA,CE/CS
+240,2.4,2.2,1,88,Saint Mary's University,0.94,CANADA,CE/CS
+96,1.4,2.4,71,14,University of Calgary,0.74,CANADA,CE/CS
+228,0.7,3.7,93,68,University of Saskatchewan,0.54,CANADA,CE/CS
+205,2.1,2.3,39,37,University of Regina,0.11,CANADA,CE/CS
+332,2.9,3.4,77,39,University of Guelph,0.43,CANADA,CE/CS
+54,1.4,5.4,80,58,University of King's College,0.7,CANADA,CE/CS
+217,3.2,7.5,47,84,McGill University,0.39,CANADA,CE/CS
+54,3.9,4.1,41,2,University of Winnipeg,0.87,CANADA,CE/CS
+321,3.4,3.2,45,70,Queen's University,0.44,CANADA,CE/CS
+11,0.4,5.4,57,67,University of Guelph,0.07,CANADA,CE/CS
+136,2.0,6.7,73,83,University of Prince Edward Island,0.02,CANADA,CE/CS
+25,2.6,5.9,61,74,University of Manitoba,0.65,CANADA,CE/CS
+340,3.6,6.0,35,78,Brock University,0.7,CANADA,CE/CS
+340,0.6,3.8,50,47,Saint Mary's University,0.52,CANADA,CE/CS
+176,3.3,3.4,97,14,University of Lethbridge,0.51,CANADA,CE/CS
+263,0.1,8.3,34,18,University of New Brunswick,0.15,CANADA,CE/CS
+128,3.6,7.2,75,56,Concordia University,0.62,CANADA,CE/CS
+202,3.6,5.8,66,94,University of Guelph,0.38,CANADA,CE/CS
+125,0.9,7.2,83,53,University of Montreal,0.71,CANADA,CE/CS
+83,1.2,2.5,31,86,University of Waterloo,0.36,CANADA,CE/CS
+294,3.9,2.6,6,44,York University,0.16,CANADA,CE/CS
+80,1.2,7.8,74,61,Mount Royal University,0.94,CANADA,CE/CS
+225,2.1,5.0,34,52,Mount Allison University,0.25,CANADA,CE/CS
+295,0.7,0.3,29,39,Mount Royal University,0.05,CANADA,CE/CS
+17,2.4,5.6,24,31,University of Guelph,0.98,CANADA,CE/CS
+61,2.5,3.8,36,81,University of Regina,0.73,CANADA,CE/CS
+189,1.0,6.2,54,17,University of Toronto,0.76,CANADA,CE/CS
+209,1.4,7.1,92,50,University of British Columbia,0.05,CANADA,CE/CS
+156,0.0,6.6,71,90,University of Calgary,0.4,CANADA,CE/CS
+171,1.1,3.6,58,42,University of Montreal,0.95,CANADA,CE/CS
+148,2.8,8.8,79,73,University of Western Ontario,0.56,CANADA,CE/CS
+279,0.5,8.3,97,11,University of Prince Edward Island,0.48,CANADA,CE/CS
+134,0.0,7.6,6,44,University of Windsor,0.51,CANADA,CE/CS
+164,1.8,5.0,85,23,University of Victoria,0.96,CANADA,CE/CS
+230,2.8,0.3,98,29,University of Ottawa,0.6,CANADA,CE/CS
+50,3.7,4.9,17,86,Saint Mary's University,0.24,CANADA,CE/CS
+280,2.8,2.0,94,37,University of Alberta,0.08,CANADA,CE/CS
+304,3.3,4.8,39,99,University of Moncton.,0.19,CANADA,CE/CS
+41,2.1,3.1,54,49,York University,0.09,CANADA,CE/CS
+203,2.4,2.3,52,9,University of Winnipeg,0.51,CANADA,CE/CS
+281,2.1,0.4,46,51,Simon Fraser University,0.41,CANADA,CE/CS
+45,3.1,3.9,82,91,University of Moncton.,0.13,CANADA,CE/CS
+227,1.5,5.7,7,25,Athabasca University,0.12,CANADA,CE/CS
+201,1.2,3.6,75,84,Brock University,0.25,CANADA,CE/CS
+52,1.4,7.3,34,85,University of Manitoba,0.6,CANADA,CE/CS
+266,2.5,1.3,86,100,University of Manitoba,0.4,CANADA,CE/CS
+131,2.2,2.3,26,55,Simon Fraser University,0.61,CANADA,CE/CS
+270,2.4,4.9,52,92,University of Regina,0.17,CANADA,CE/CS
+276,3.7,7.7,99,78,University of British Columbia,0.81,CANADA,CE/CS
+274,0.6,4.3,31,53,Bishop's University,0.16,CANADA,CE/CS
+154,3.9,4.7,44,28,University of Northern British Columbia,0.07,CANADA,CE/CS
+272,3.0,1.1,70,70,Simon Fraser University,0.32,CANADA,CE/CS
+54,3.6,7.4,49,77,Nipissing University,0.96,CANADA,CE/CS
+41,1.4,8.0,55,87,Thompson Rivers University,0.75,CANADA,CE/CS
+277,2.7,1.4,75,64,University of Manitoba,0.88,CANADA,CE/CS
+45,3.6,5.4,64,13,University of Manitoba,0.54,CANADA,CE/CS
+286,3.1,3.0,8,38,Saint Mary's University,0.61,CANADA,CE/CS
+150,1.2,1.1,38,77,Wilfrid Laurier University,0.34,CANADA,CE/CS
+149,2.1,7.9,51,41,University of Fraser Valley,0.81,CANADA,CE/CS
+175,3.8,2.1,80,82,Memorial University of Newfoundland,0.22,CANADA,CE/CS
+47,2.1,7.9,80,92,Simon Fraser University,0.05,CANADA,CE/CS
+59,0.8,8.2,12,85,University of Prince Edward Island,0.45,CANADA,CE/CS
+118,3.0,3.1,20,39,York University,0.28,CANADA,CE/CS
+243,0.7,2.1,41,25,McMaster University,0.29,CANADA,CE/CS
+160,2.5,6.0,48,19,University of Manitoba,0.54,CANADA,CE/CS
+35,1.7,0.4,78,41,Royal Roads University,0.62,CANADA,CE/CS
+36,2.7,5.2,70,21,Simon Fraser University,0.5,CANADA,CE/CS
+109,1.9,1.9,14,3,Laval University,0.69,CANADA,CE/CS
+275,2.5,6.1,84,2,University of Calgary,0.65,CANADA,CE/CS
+74,2.6,7.0,53,66,University of British Columbia,1.0,CANADA,CE/CS
+188,1.1,6.9,71,74,Nipissing University,0.55,CANADA,CE/CS
+234,0.6,0.3,23,36,University of Regina,0.05,CANADA,CE/CS
+81,2.0,1.4,24,63,University of Toronto,0.92,CANADA,CE/CS
+238,1.8,7.2,49,11,University of Victoria,0.35,CANADA,CE/CS
+103,1.5,0.3,97,35,University of New Brunswick,0.45,CANADA,CE/CS
+20,0.7,7.7,32,28,Trent University,0.61,CANADA,CE/CS
+75,3.7,5.4,76,43,Simon Fraser University,0.21,CANADA,CE/CS
+222,3.3,0.2,52,20,Mount Allison University,0.12,CANADA,CE/CS
+308,2.6,7.4,69,57,University of Fraser Valley,0.96,CANADA,CE/CS
+57,1.0,4.2,61,98,University of Guelph,0.46,CANADA,CE/CS
+167,2.7,2.4,13,47,Saint Mary's University,0.85,CANADA,CE/CS
+207,1.0,2.8,16,65,Memorial University of Newfoundland,0.63,CANADA,CE/CS
+130,0.3,3.4,8,35,University of Regina,0.05,CANADA,CE/CS
+150,2.4,7.0,100,33,Ryerson University,0.45,CANADA,CE/CS
+221,2.1,1.1,30,40,Thompson Rivers University,0.9,CANADA,CE/CS
+57,2.5,8.3,98,9,University of Saskatchewan,0.98,CANADA,CE/CS
+14,1.8,4.3,92,98,McGill University,0.79,CANADA,CE/CS
+315,0.8,2.5,78,51,University of King's College,0.6,CANADA,CE/CS
+177,3.9,2.4,67,57,University of Toronto,0.2,CANADA,CE/CS
+242,0.6,5.8,77,32,Carleton University,0.88,CANADA,CE/CS
+121,1.0,5.7,74,11,Royal Roads University,0.82,CANADA,CE/CS
+235,0.8,0.7,13,95,University of Ottawa,0.9,CANADA,CE/CS
+231,2.8,6.7,73,94,Dalhousie University,0.8,CANADA,CE/CS
+279,1.8,7.5,24,11,Queen's University,0.13,CANADA,CE/CS
+224,3.7,0.4,77,86,University of Western Ontario,0.85,CANADA,CE/CS
+143,2.0,7.1,6,19,Thompson Rivers University,0.86,CANADA,CE/CS
+161,1.5,0.9,56,89,Ryerson University,0.56,CANADA,CE/CS
+47,1.5,5.3,69,79,Memorial University of Newfoundland,0.27,CANADA,CE/CS
+213,2.9,2.5,77,94,University of Lethbridge,0.28,CANADA,CE/CS
+116,3.5,4.5,29,2,Thompson Rivers University,0.4,CANADA,CE/CS
+134,3.9,8.7,24,57,McGill University,0.19,CANADA,CE/CS
+40,1.3,0.9,50,57,Mount Allison University,0.24,CANADA,CE/CS
+124,0.4,2.1,9,92,University of Victoria,0.46,CANADA,CE/CS
+304,2.0,4.8,81,91,University of Ontario Institute of Technology,0.63,CANADA,CE/CS
+166,0.2,2.6,5,14,University of Calgary,0.28,CANADA,CE/CS
+157,3.8,8.6,56,6,Athabasca University,0.94,CANADA,CE/CS
+190,2.5,4.6,12,25,University of Sherbrooke,0.93,CANADA,CE/CS
+268,0.3,1.5,57,71,University of Moncton.,0.05,CANADA,CE/CS
+274,1.4,2.5,40,78,University of New Brunswick,0.62,CANADA,CE/CS
+334,2.4,4.4,29,81,University of King's College,0.21,CANADA,CE/CS
+35,1.5,8.0,77,8,McMaster University,0.89,CANADA,CE/CS
+217,3.3,0.1,12,20,Queen's University,0.14,CANADA,CE/CS
+15,2.4,1.0,60,27,University of Sherbrooke,0.26,CANADA,CE/CS
+212,2.2,5.3,44,94,University of Sherbrooke,0.02,CANADA,CE/CS
+132,3.7,1.6,81,6,University of Fraser Valley,0.2,CANADA,CE/CS
+124,0.4,1.8,70,22,Trent University,0.61,CANADA,CE/CS
+218,1.6,4.2,97,71,University of Winnipeg,0.44,CANADA,CE/CS
+35,3.2,7.2,23,17,University of Toronto,0.66,CANADA,CE/CS
+96,1.3,2.4,46,2,University of Ontario Institute of Technology,0.73,CANADA,CE/CS
+11,0.6,4.5,73,53,University of Moncton.,0.53,CANADA,CE/CS
+124,3.7,2.8,3,46,University of British Columbia,0.84,CANADA,CE/CS
+128,2.5,0.1,84,88,Laval University,0.32,CANADA,CE/CS
+277,1.0,0.7,97,25,McGill University,0.49,CANADA,CE/CS
+157,0.5,0.7,44,33,University of Ottawa,0.48,CANADA,CE/CS
+334,3.2,2.4,25,28,University of New Brunswick,0.94,CANADA,CE/CS
+181,0.3,4.9,45,19,Saint Mary's University,0.6,CANADA,CE/CS
+65,3.6,3.9,34,13,University of New Brunswick,0.64,CANADA,CE/CS
+168,3.0,6.8,92,47,University of Western Ontario,0.44,CANADA,CE/CS
+200,2.9,6.0,48,86,Ryerson University,0.54,CANADA,CE/CS
+142,2.6,4.9,55,82,University of Windsor,0.43,CANADA,CE/CS
+307,2.7,7.9,99,16,Wilfrid Laurier University,0.73,CANADA,CE/CS
+6,1.7,6.5,8,58,University of Victoria,0.19,CANADA,CE/CS
+270,0.0,7.2,37,60,Saint Mary's University,0.48,CANADA,CE/CS
+321,2.6,6.8,14,6,University of Guelph,0.72,CANADA,CE/CS
+68,0.7,5.1,90,76,University of Moncton.,0.54,CANADA,CE/CS
+288,2.1,7.1,82,35,University of Toronto,0.67,CANADA,CE/CS
+222,2.7,3.8,33,8,Concordia University,0.32,CANADA,CE/CS
+260,1.7,0.3,52,94,University of Prince Edward Island,0.6,CANADA,CE/CS
+3,3.6,3.4,58,50,Dalhousie University,0.14,CANADA,CE/CS
+246,2.3,3.8,62,93,University of Lethbridge,0.48,CANADA,CE/CS
+218,0.1,6.5,48,77,Mount Allison University,0.11,CANADA,CE/CS
+197,0.8,7.8,48,73,Ryerson University,0.31,CANADA,CE/CS
+53,0.3,4.3,32,76,University of Winnipeg,0.01,CANADA,CE/CS
+248,1.5,7.7,32,13,University of Lethbridge,0.35,CANADA,CE/CS
+57,2.4,6.0,3,27,Mount Royal University,0.29,CANADA,CE/CS
+196,3.8,5.1,81,11,University of Ottawa,0.71,CANADA,CE/CS
+141,2.0,2.6,99,53,University of Guelph,0.27,CANADA,CE/CS
+61,2.0,0.4,57,57,University of Alberta,0.77,CANADA,CE/CS
+242,0.9,7.3,57,40,University of Northern British Columbia,0.53,CANADA,CE/CS
+110,1.6,0.6,68,80,University of Alberta,0.33,CANADA,CE/CS
+132,1.7,3.2,25,83,Bishop's University,0.24,CANADA,CE/CS
+231,3.8,3.4,11,69,University of British Columbia,0.19,CANADA,CE/CS
+13,2.8,8.2,37,40,York University,0.49,CANADA,CE/CS
+138,3.5,5.0,77,91,University of Manitoba,0.84,CANADA,CE/CS
+44,2.8,5.5,59,61,University of Lethbridge,0.39,CANADA,CE/CS
+183,1.0,1.4,21,94,University of Fraser Valley,0.57,CANADA,CE/CS
+93,1.2,3.8,70,23,University of Manitoba,0.69,CANADA,CE/CS
+215,0.7,1.9,81,78,University of Guelph,0.09,CANADA,CE/CS
+19,3.8,6.3,100,11,Royal Roads University,0.67,CANADA,CE/CS
+70,2.4,7.2,69,33,University of Ontario Institute of Technology,0.52,CANADA,CE/CS
+170,2.0,2.5,70,88,Ryerson University,0.18,CANADA,CE/CS
+300,2.1,4.0,83,42,Ryerson University,0.8,CANADA,CE/CS
+303,1.9,6.7,91,83,Trent University,0.08,CANADA,CE/CS
+178,2.7,4.2,7,89,University of Calgary,0.33,CANADA,CE/CS
+116,3.9,5.3,26,24,Ryerson University,0.11,CANADA,CE/CS
+104,3.8,5.5,35,74,University of Montreal,0.02,CANADA,CE/CS
+268,1.9,7.2,72,80,Nipissing University,0.42,CANADA,CE/CS
+242,2.8,3.0,44,29,Brock University,0.84,CANADA,CE/CS
+49,2.7,0.3,31,85,Ryerson University,0.49,CANADA,CE/CS
+119,3.3,8.6,14,72,University of Alberta,0.22,CANADA,CE/CS
+152,3.7,8.4,63,80,Bishop's University,0.02,CANADA,CE/CS
+221,1.8,3.0,70,90,Bishop's University,0.53,CANADA,CE/CS
+21,2.6,5.6,7,48,Royal Roads University,0.61,CANADA,CE/CS
+23,2.9,0.6,97,44,Mount Royal University,0.87,CANADA,CE/CS
+242,0.8,5.2,92,13,York University,0.1,CANADA,CE/CS
+74,3.2,4.9,60,88,Cape Breton University,0.98,CANADA,CE/CS
+156,0.1,1.8,22,76,Wilfrid Laurier University,0.27,CANADA,CE/CS
+243,2.7,3.4,28,53,University of Alberta,0.23,CANADA,CE/CS
+170,1.2,3.0,46,99,University of Saskatchewan,0.29,CANADA,CE/CS
+195,3.4,0.3,96,28,University of Sherbrooke,0.19,CANADA,CE/CS
+246,3.5,2.7,95,45,University of Guelph,0.45,CANADA,CE/CS
+322,2.3,0.4,41,88,University of Manitoba,0.24,CANADA,CE/CS
+122,1.6,5.3,31,54,McGill University,0.04,CANADA,CE/CS
+211,1.5,7.0,56,74,Concordia University,0.85,CANADA,CE/CS
+287,2.5,0.7,84,61,Ryerson University,0.46,CANADA,CE/CS
+337,3.3,6.4,8,17,McGill University,0.52,CANADA,CE/CS
+148,3.5,8.1,16,87,Thompson Rivers University,0.54,CANADA,CE/CS
+64,1.1,3.5,66,96,Mount Allison University,0.42,CANADA,CE/CS
+177,1.1,5.1,11,47,Trent University,0.64,CANADA,CE/CS
+122,3.8,8.4,41,94,University of Montreal,0.19,CANADA,CE/CS
+49,3.9,0.7,29,98,University of Lethbridge,0.74,CANADA,CE/CS
+246,2.6,5.3,18,47,University of Fraser Valley,0.24,CANADA,CE/CS
+216,3.8,8.5,82,13,University of Sherbrooke,0.57,CANADA,CE/CS
+245,2.4,6.2,78,37,Athabasca University,0.23,CANADA,CE/CS
+294,3.6,4.1,44,20,Carleton University,0.18,CANADA,CE/CS
+245,0.1,6.0,52,48,Simon Fraser University,0.05,CANADA,CE/CS
+138,3.8,0.8,29,73,University of King's College,0.29,CANADA,CE/CS
+327,3.7,6.3,44,71,Saint Mary's University,0.6,CANADA,CE/CS
+196,1.4,4.3,15,53,University of Ontario Institute of Technology,0.37,CANADA,CE/CS
+131,0.0,2.7,79,8,Wilfrid Laurier University,0.94,CANADA,CE/CS
+291,3.6,3.3,69,100,Trent University,0.56,CANADA,CE/CS
+255,3.7,2.1,75,66,Brock University,0.67,CANADA,CE/CS
+320,3.2,3.7,50,51,Brock University,0.1,CANADA,CE/CS
+226,3.1,4.0,99,3,University of Western Ontario,0.71,CANADA,CE/CS
+201,2.8,6.4,83,75,University of Winnipeg,0.8,CANADA,CE/CS
+302,2.9,7.0,3,66,University of Northern British Columbia,0.39,CANADA,CE/CS
+106,2.2,5.1,17,47,Wilfrid Laurier University,0.22,CANADA,CE/CS
+179,3.9,0.3,41,96,University of Waterloo,0.63,CANADA,CE/CS
+321,3.1,7.0,71,90,University of New Brunswick,0.8,CANADA,CE/CS
+223,3.5,3.3,81,26,Carleton University,0.65,CANADA,CE/CS
+310,1.3,9.0,77,12,Laurentian University,0.39,CANADA,CE/CS
+120,3.0,0.4,67,8,Trent University,0.79,CANADA,CE/CS
+71,2.2,7.3,74,61,Queen's University,0.99,CANADA,CE/CS
+301,1.5,7.3,61,35,Concordia University,0.9,CANADA,CE/CS
+252,2.6,7.9,52,3,Concordia University,0.64,CANADA,CE/CS
+208,0.5,6.2,41,84,Thompson Rivers University,0.71,CANADA,CE/CS
+193,1.1,4.4,16,9,Wilfrid Laurier University,0.09,CANADA,CE/CS
+227,4.0,0.2,21,36,University of Alberta,0.05,CANADA,CE/CS
+37,3.1,6.5,64,87,University of New Brunswick,0.14,CANADA,CE/CS
+184,2.7,4.1,86,77,Brock University,0.64,CANADA,CE/CS
+282,1.1,2.2,69,68,University of Ottawa,0.67,CANADA,CE/CS
+287,0.6,1.5,12,40,Concordia University,0.77,CANADA,CE/CS
+158,2.3,1.6,58,98,Nipissing University,0.26,CANADA,CE/CS
+73,3.2,6.2,88,57,University of Sherbrooke,0.3,CANADA,CE/CS
+245,2.4,1.7,88,67,Brock University,0.07,CANADA,CE/CS
+174,3.7,3.5,5,5,University of New Brunswick,0.71,CANADA,CE/CS
+70,0.3,6.2,19,85,University of Windsor,0.68,CANADA,CE/CS
+259,1.6,7.9,2,93,York University,0.29,CANADA,CE/CS
+232,3.0,2.2,76,66,Carleton University,0.04,CANADA,CE/CS
+325,1.6,1.6,41,37,Concordia University,0.07,CANADA,CE/CS
+305,0.7,4.0,39,85,McGill University,0.05,CANADA,CE/CS
+171,2.5,3.3,30,27,University of Toronto,0.06,CANADA,CE/CS
+27,1.2,5.8,26,55,Simon Fraser University,0.96,CANADA,CE/CS
+174,2.3,1.9,17,67,University of Manitoba,0.13,CANADA,CE/CS
+339,3.4,6.0,45,9,University of Calgary,0.24,CANADA,CE/CS
+319,3.2,6.8,84,57,University of Guelph,0.08,CANADA,CE/CS
+223,2.8,1.2,57,48,Concordia University,0.85,CANADA,CE/CS
+147,1.7,8.4,67,69,University of British Columbia,0.63,CANADA,CE/CS
+62,3.3,0.4,58,5,Nipissing University,0.36,CANADA,CE/CS
+75,2.9,4.8,90,0,McGill University,0.31,CANADA,CE/CS
+136,1.0,2.1,35,49,University of New Brunswick,0.85,CANADA,CE/CS
+54,2.0,0.4,66,35,Thompson Rivers University,1.0,CANADA,CE/CS
+266,3.5,4.2,57,39,Brock University,0.92,CANADA,CE/CS
+195,2.8,2.6,52,11,Queen's University,0.29,CANADA,CE/CS
+191,3.9,4.8,67,69,University of Prince Edward Island,0.41,CANADA,CE/CS
+293,0.9,3.6,57,93,University of New Brunswick,0.58,CANADA,CE/CS
+82,2.0,4.7,72,33,University of Toronto,0.15,CANADA,CE/CS
+152,3.0,7.8,51,79,University of Windsor,0.6,CANADA,CE/CS
+108,2.6,4.9,54,79,Trent University,0.2,CANADA,CE/CS
+260,2.6,4.9,4,36,University of Moncton.,0.75,CANADA,CE/CS
+43,2.6,6.2,31,80,University of Moncton.,0.7,CANADA,CE/CS
+184,4.0,3.6,90,36,University of Regina,0.89,CANADA,CE/CS
+301,1.3,6.8,35,96,Brock University,0.71,CANADA,CE/CS
+110,2.8,6.6,7,98,McGill University,0.38,CANADA,CE/CS
+126,0.1,5.9,49,80,Carleton University,0.92,CANADA,CE/CS
+275,4.0,5.3,63,78,University of New Brunswick,0.84,CANADA,CE/CS
+129,1.7,1.6,81,23,Laurentian University,0.52,CANADA,CE/CS
+330,3.9,4.6,28,21,University of Ontario Institute of Technology,0.24,CANADA,CE/CS
+41,2.7,5.6,7,24,Laurentian University,0.02,CANADA,CE/CS
+54,2.4,3.1,84,42,University of Manitoba,0.61,CANADA,CE/CS
+231,0.2,1.8,25,27,University of Winnipeg,0.52,CANADA,CE/CS
+215,3.0,4.2,7,21,University of Ottawa,0.56,CANADA,CE/CS
+213,2.7,5.1,50,0,Trent University,0.58,CANADA,CE/CS
+219,1.9,5.1,8,32,Laurentian University,0.22,CANADA,CE/CS
+98,3.6,0.3,55,52,University of Ontario Institute of Technology,0.86,CANADA,CE/CS
+216,1.7,5.1,69,61,University of Winnipeg,0.69,CANADA,CE/CS
+318,1.0,1.3,81,76,Brock University,0.75,CANADA,CE/CS
+274,0.3,8.1,90,53,University of Waterloo,0.97,CANADA,CE/CS
+113,0.6,2.4,29,14,Memorial University of Newfoundland,0.16,CANADA,CE/CS
+11,0.1,1.7,44,4,University of King's College,0.88,CANADA,CE/CS
+321,1.7,7.6,59,24,University of Manitoba,0.82,CANADA,CE/CS
+248,0.6,2.9,75,24,Cape Breton University,0.65,CANADA,CE/CS
+55,1.9,1.7,60,31,University of Northern British Columbia,0.83,CANADA,CE/CS
+72,2.5,0.0,48,72,Nipissing University,0.02,CANADA,CE/CS
+311,2.6,2.6,24,15,Memorial University of Newfoundland,0.69,CANADA,CE/CS
+157,3.5,4.2,14,44,Mount Royal University,0.82,CANADA,CE/CS
+0,2.3,5.5,99,37,Trent University,0.67,CANADA,CE/CS
+175,2.7,8.1,28,45,University of Victoria,0.91,CANADA,CE/CS
+24,2.4,1.7,68,59,Laval University,0.92,CANADA,CE/CS
+35,0.8,1.2,56,8,University of Manitoba,0.55,CANADA,CE/CS
+316,3.5,6.6,63,50,University of Manitoba,0.28,CANADA,CE/CS
+101,2.2,3.0,49,6,University of Sherbrooke,0.3,CANADA,CE/CS
+119,1.7,7.7,9,23,University of King's College,0.42,CANADA,CE/CS
+109,1.7,2.6,58,86,Wilfrid Laurier University,0.93,CANADA,CE/CS
+117,3.4,1.1,49,26,Royal Roads University,0.61,CANADA,CE/CS
+288,2.9,6.7,48,94,Simon Fraser University,0.31,CANADA,CE/CS
+53,2.5,2.1,97,12,Dalhousie University,0.33,CANADA,CE/CS
+26,3.1,0.1,88,68,University of Guelph,0.44,CANADA,CE/CS
+77,1.8,6.1,74,75,Brock University,0.88,CANADA,CE/CS
+303,3.7,7.5,55,12,University of New Brunswick,0.16,CANADA,CE/CS
+204,1.5,6.3,66,1,University of Saskatchewan,0.93,CANADA,CE/CS
+292,3.4,6.0,94,39,Laurentian University,0.23,CANADA,CE/CS
+80,2.3,3.5,61,91,Laval University,0.17,CANADA,CE/CS
+154,2.7,8.8,72,35,Saint Mary's University,0.98,CANADA,CE/CS
+6,1.4,7.3,43,39,University of British Columbia,0.78,CANADA,CE/CS
+111,1.8,0.3,70,14,University of Prince Edward Island,0.33,CANADA,CE/CS
+297,3.3,5.0,50,32,Memorial University of Newfoundland,0.59,CANADA,CE/CS
+298,2.6,0.4,55,77,Laurentian University,0.62,CANADA,CE/CS
+155,1.5,4.3,85,25,University of British Columbia,0.73,CANADA,CE/CS
+125,0.5,0.3,16,26,University of Waterloo,0.92,CANADA,CE/CS
+197,3.2,2.5,4,85,Laval University,0.5,CANADA,CE/CS
+53,3.9,3.3,50,50,University of Waterloo,0.98,CANADA,CE/CS
+77,1.5,7.0,6,18,University of Moncton.,0.12,CANADA,CE/CS
+7,1.8,1.4,14,98,University of Northern British Columbia,0.86,CANADA,CE/CS
+108,2.7,6.6,59,84,Brock University,0.1,CANADA,CE/CS
+315,2.4,3.0,90,51,Ryerson University,0.08,CANADA,CE/CS
+314,2.3,5.8,62,60,Royal Roads University,0.56,CANADA,CE/CS
+91,3.2,6.3,80,65,Thompson Rivers University,0.16,CANADA,CE/CS
+330,2.8,2.3,44,96,University of Waterloo,0.84,CANADA,CE/CS
+42,1.2,0.3,94,41,Simon Fraser University,0.03,CANADA,CE/CS
+313,1.9,7.9,55,84,McMaster University,1.0,CANADA,CE/CS
+152,2.7,2.9,19,21,University of Toronto,0.12,CANADA,CE/CS
+187,0.3,8.6,56,17,University of British Columbia,0.46,CANADA,CE/CS
+290,0.3,4.6,51,28,Royal Roads University,0.91,CANADA,CE/CS
+7,1.3,6.4,31,18,University of Moncton.,0.2,CANADA,CE/CS
+191,2.1,8.0,63,55,Laval University,0.92,CANADA,CE/CS
+5,4.0,8.8,44,79,Laurentian University,0.01,CANADA,CE/CS
+99,0.5,2.2,86,42,University of Lethbridge,0.36,CANADA,CE/CS
+272,2.9,1.4,8,62,University of Waterloo,0.39,CANADA,CE/CS
+320,2.7,0.8,74,59,University of Montreal,0.16,CANADA,CE/CS
+47,3.5,0.5,51,58,Mount Royal University,0.52,CANADA,CE/CS
+61,2.4,0.7,20,81,Simon Fraser University,0.6,CANADA,CE/CS
+37,3.6,7.8,72,100,University of Waterloo,0.37,CANADA,CE/CS
+30,2.9,4.7,49,94,McMaster University,0.33,CANADA,CE/CS
+244,3.1,2.7,86,46,University of Guelph,0.58,CANADA,CE/CS
+330,2.2,7.8,72,36,University of Toronto,0.24,CANADA,CE/CS
+274,1.6,8.4,55,81,Cape Breton University,0.11,CANADA,CE/CS
+38,3.0,5.2,93,89,University of Fraser Valley,0.07,CANADA,CE/CS
+151,1.5,8.8,60,16,University of Regina,0.93,CANADA,CE/CS
+199,0.4,4.6,67,27,Concordia University,0.97,CANADA,CE/CS
+241,2.4,5.2,89,86,Simon Fraser University,0.36,CANADA,CE/CS
+46,2.0,0.1,25,34,Cape Breton University,0.93,CANADA,CE/CS
+87,1.7,5.2,28,33,Laval University,0.1,CANADA,CE/CS
+220,0.1,1.3,19,80,University of Fraser Valley,0.32,CANADA,CE/CS
+317,2.8,3.0,7,70,University of Northern British Columbia,0.84,CANADA,CE/CS
+74,0.3,3.2,45,84,Nipissing University,0.83,CANADA,CE/CS
+105,0.7,5.2,27,72,University of Windsor,0.12,CANADA,CE/CS
+119,2.3,1.2,24,85,University of Fraser Valley,0.88,CANADA,CE/CS
+229,1.5,3.0,7,16,University of Prince Edward Island,0.57,CANADA,CE/CS
+308,1.6,8.1,75,23,Queen's University,0.3,CANADA,CE/CS
+269,3.0,6.8,92,21,University of Victoria,0.85,CANADA,CE/CS
+25,2.7,1.1,33,93,University of New Brunswick,0.71,CANADA,CE/CS
+230,3.2,4.2,72,43,University of Western Ontario,0.41,CANADA,CE/CS
+176,2.2,4.3,65,10,Royal Roads University,0.06,CANADA,CE/CS
+299,1.1,3.9,76,15,University of Toronto,0.51,CANADA,CE/CS
+148,1.4,0.6,92,90,Thompson Rivers University,0.42,CANADA,CE/CS
+50,1.3,7.2,76,49,University of Winnipeg,0.33,CANADA,CE/CS
+114,1.8,0.5,43,85,University of New Brunswick,0.55,CANADA,CE/CS
+203,3.1,7.0,92,32,York University,0.18,CANADA,CE/CS
+264,0.9,7.1,68,9,University of Lethbridge,0.51,CANADA,CE/CS
+196,3.8,7.6,55,92,University of Alberta,0.58,CANADA,CE/CS
+98,2.9,0.4,75,59,Bishop's University,0.4,CANADA,CE/CS
+182,2.4,0.3,27,53,University of Sherbrooke,0.89,CANADA,CE/CS
+329,2.9,0.5,10,68,Laurentian University,0.01,CANADA,CE/CS
+152,1.5,5.1,98,4,University of Manitoba,0.01,CANADA,CE/CS
+36,1.4,5.5,83,71,Athabasca University,0.63,CANADA,CE/CS
+301,1.5,7.8,45,63,Bishop's University,0.81,CANADA,CE/CS
+252,4.0,7.1,27,63,Saint Mary's University,0.53,CANADA,CE/CS
+302,1.8,3.7,29,62,University of Toronto,0.84,CANADA,CE/CS
+39,3.0,7.1,53,6,University of Regina,0.18,CANADA,CE/CS
+310,3.0,5.6,13,56,Memorial University of Newfoundland,0.15,CANADA,CE/CS
+79,1.4,6.8,23,78,University of Western Ontario,0.23,CANADA,CE/CS
+327,1.0,4.8,44,19,University of Prince Edward Island,0.92,CANADA,CE/CS
+44,3.4,1.2,50,10,Mount Royal University,0.76,CANADA,CE/CS
+231,1.0,4.2,44,13,Mount Allison University,0.69,CANADA,CE/CS
+131,2.3,4.5,41,79,University of Victoria,0.3,CANADA,CE/CS
+58,1.6,6.6,21,73,Royal Roads University,0.43,CANADA,CE/CS
+65,2.7,6.6,30,64,Thompson Rivers University,0.5,CANADA,CE/CS
+159,3.6,4.4,51,47,Cape Breton University,0.43,CANADA,CE/CS
+15,1.3,2.7,33,35,University of Ottawa,0.84,CANADA,CE/CS
+70,1.9,2.4,10,98,University of Prince Edward Island,0.04,CANADA,CE/CS

@@ -37,7 +37,7 @@
             <input type="number" class="form-control" id="research_papers" name="research_papers" required>
         </div>
         <!-- Add more form fields for other important features -->
-
+        <input type="hidden" name="selected_country" id="selected_country" value="{{ selected_country }}">
         <button type="submit" class="btn btn-primary">Predict Top Universities</button>
     </form>
 {% endblock %}

@@ -3,7 +3,7 @@
 {% block title %}Top Universities Prediction{% endblock %}
 
 {% block content %}
-    <h1 class="mb-4">Top Universities Prediction</h1>
+    <h1 class="mb-4">Top Universities Predictions</h1>
     <p>Results based on input data:</p>
     
     <!-- Display the input data -->
@@ -15,14 +15,14 @@
 
     <!-- Display the top 10 university predictions -->
     <h2 class="mt-4">Top 10 University Predictions:</h2>
-    <ol>
-        {% for university, probability in top_universities %}
-            <li>{{ university }} - Probability: {{ probability }}</li>
+    <ul>
+        {% for university in top_10_universities %}
+            <li>{{ university }}</li>
         {% endfor %}
-    </ol>
+    </ul>
 
     <!-- Example link to navigate back to the form page -->
-    <a href="{% url '' %}" class="btn btn-primary">Go back to the form</a>
+    <a href="/" class="btn btn-primary">Go back to the form</a>
 {% endblock %}
 
 {% block js %}
