@@ -9,12 +9,12 @@ university_data1.csv and university_data.csv : Dataset containing information ab
 ## Requirements
 Make sure you have the following dependencies installed:
 
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
-catboost
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- catboost
 
 You can install them using the following command:
 ## pip install pandas matplotlib seaborn scikit-learn xgboost catboost
