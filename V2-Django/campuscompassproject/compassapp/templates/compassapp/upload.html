@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+
+    <title>PlayTube | Upload Video</title>
+</head>
+<body class="bg-gray-100 h-[250px] font-mono">
+
+    <!-- navbar -->
+    <div class="border h-14 shadow-xl bg-gray-800">
+        <div href="/" class="text-red-400 font-bold text-3xl p-1 grid grid-cols-3">
+            
+                <a href="/" class="">
+                    <i class="fa-regular fa-circle-play ml-2"></i> PlayTube
+                </a>
+
+                <div></div>
+
+                <div class="ml-24">
+                    <a class="hover:text-red-600 text-xl text-right text-red-300 border rounded-md px-2 py-1" href="/"><i class="fa-solid fa-play mr-2"></i> Watch Video</a>
+                </div>
+
+        </div>
+    <!-- <div id="colorChangeDiv" >Color Changing Div</div> -->
+
+    </div>
+
+    <div class="px-20 py-10">
+        <div class="text-3xl text-center font-bold mb-10">Upload Video with Subtitle on <i class="fa-regular fa-circle-play mr-2 text-red-400">PlayTube</i> </div>
+
+    <form method="post" enctype="multipart/form-data" class="border p-20 rounded-md shadow-md">
+        <!-- upload_files.html -->
+        {% csrf_token %}
+        
+        
+        <div class="text-center">
+            <label class="w-2/6 mx-auto text-xl font-bold" for="title">Title:</label>
+            <input class="w-2/6 mx-auto text-xl font-bold px-1 border" type="text" name="title" required>
+        </div>
+        
+        
+        <div class="grid grid-cols-2 my-10">
+            <div class="border p-10 mx-4 rounded-md text-center hover:bg-gray-200">
+                <label for="video_file"><b>Video File:</b></label><br>
+                <input type="file" name="video_file" accept="video/*" required>
+            </div>
+
+            <div class="border p-10 mx-4 rounded-md text-center hover:bg-gray-200">
+                <label for="subtitle_file"><b>Subtitle File:</b></label><br>
+                <input type="file" name="subtitle_file" accept=".vtt" required>
+            </div>
+
+        </div>
+
+        
+        <div class="text-center">
+            <button type="submit" 
+                class="text-blue-600 text-xl mx-auto border border-blue-600 px-2 py-1 rounded-md hover:shadow-xl hover:bg-blue-200">
+                <i class="fa-solid fa-cloud-arrow-up mr-2"></i> Upload
+            </button>
+        </div>
+        
+    
+    </form>
+
+    </div>
+    
+</body>
+</html>

@@ -1,0 +1,153 @@
+### Create a Django Project:
+django-admin startproject campuscompassproject
+
+### Create a Django App:
+python manage.py startapp compassapp
+
+
+
+python manage.py startapp aquaapp
+python manage.py startapp inshareapp
+
+
+### Create Django Admin User:
+python manage.py createsuperuser
+
+username : campusAdmin
+password : @campus123
+
+### Run Migrations:
+python manage.py migrate
+
+python manage.py makemigrations teamzeffort
+
+
+### Start Development Server:
+python manage.py runserver
+
+
+
+
+-----------------
+Deployment:
+-----------------
+
+1. Install Required Dependencies:
+    - pip install -r requirements.txt
+
+
+2. Configure Settings for Production:
+    - Adjust your Django project settings for production, including setting DEBUG to False, updating ALLOWED_HOSTS, and configuring the database.
+
+
+3. Collect Static Files:
+    - python manage.py collectstatic
+
+
+4. Run Migrations:
+    - python manage.py migrate
+
+
+5. Configure Secret Key and Database URL:
+    - In a production environment, it's a good practice to use environment variables for sensitive information like secret keys and database URLs.
+
+
+6. Run Application Server:
+    - gunicorn yourprojectname.wsgi:application
+
+
+7. Set Up Database:
+    - python manage.py migrate
+
+
+8. Configure Web Server (if using):
+    - If you are using a web server like Nginx or Apache, configure it to serve your Django application. This involves creating a server block or virtual host.
+
+
+9. Restart Services:
+    - Restart your application server and web server to apply changes.
+
+
+10. Monitor Logs:
+    - Check server logs for any errors or issues.
+
+
+-----------------
+EXTRA:
+-----------------
+
+### Apply Migrations for a Specific App:
+python manage.py migrate yourappname
+
+### Reset Database and Apply Migrations:
+python manage.py migrate --run-syncdb
+
+### Collect Static Files:
+python manage.py collectstatic
+
+### List URL Patterns for the Project:
+python manage.py show_urls
+
+### Display Django Version:
+python manage.py version
+
+### Dump Data from the Database:
+python manage.py dumpdata > data.json
+
+### Load Data into the Database:
+python manage.py loaddata data.json
+
+### Run a Development Server on a Specific Port:
+python manage.py runserver 8080
+
+### Show Django Settings:
+python manage.py diffsettings
+
+### Inspect Database Table Schema:
+python manage.py inspectdb
+
+### Check for Project Errors:
+python manage.py check
+
+### Run Development Server with Automatic Reload on Code Changes:
+python manage.py runserver --noreload
+
+### Generate Database Schema Graph:
+python manage.py graph_models -a -g -o filename.png
+
+### Run Test Coverage Report:
+coverage run manage.py test
+
+### Generate HTML Test Coverage Report:
+coverage html
+
+### Create a Custom Django Middleware:
+python manage.py startmiddleware yourmiddlewarename
+
+### List Django Apps and Their Dependencies:
+python manage.py show_apps
+
+### Generate a Django Project Archive:
+python manage.py dumpdata --exclude auth.permission --exclude contenttypes > datadump.json
+
+### Run Database Backup:
+python manage.py dumpdata > database_backup.json
+
+### Restore Database from Backup:
+python manage.py loaddata database_backup.json
+
+### List Django Management Commands and Their Descriptions:
+python manage.py list
+
+### Create Django Admin Group:
+python manage.py creategroup yourgroupname
+
+### Delete All Migrations in a Django App:
+python manage.py migrate yourappname zero
+
+
+### Print Django Version and Path:
+python manage.py version --verbose
+
+
+
